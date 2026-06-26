@@ -173,17 +173,17 @@ class SpreadRegistry:
         return f"SpreadRegistry({len(self._spreads)} spreads, {len(self._layouts)} layouts)"
 
 
-# Module-level singleton for convenience
-_default_registry: SpreadRegistry | None = None
+# Module-level registries keyed by system
+_registries: dict[str, "SpreadRegistry"] = {}
 
 
 def get_spread_registry(
     config_path: Path | str | None = None,
     reload: bool = False,
     system: str = "tarot",
-) -> SpreadRegistry:
+) -> "SpreadRegistry":
     """
-    Get the default spread registry (singleton).
+    Get the default spread registry (one per system).
 
     Args:
         config_path: Optional custom config path
@@ -193,23 +193,29 @@ def get_spread_registry(
     Returns:
         SpreadRegistry instance
     """
-    global _default_registry
+    global _registries
 
-    if _default_registry is None or reload:
-        _default_registry = SpreadRegistry.from_config(config_path, system=system)
+    if system not in _registries or reload:
+        _registries[system] = SpreadRegistry.from_config(config_path, system=system)
 
-    return _default_registry
+    return _registries[system]
 
 
-def load_spread(spread_id: str) -> SpreadDefinition:
+def load_spread(spread_id: str, system: str = "tarot") -> SpreadDefinition:
     """
     Convenience function to load a spread by ID.
 
-    Uses the default registry.
+    Args:
+        spread_id: Spread identifier (e.g. 'celtic-cross', 'line-3')
+        system: Card system ('tarot' or 'lenormand'). Default: 'tarot'.
     """
-    return get_spread_registry().load_spread(spread_id)
+    return get_spread_registry(system=system).load_spread(spread_id)
 
 
-def list_spreads() -> list[str]:
-    """List all available spread IDs."""
-    return get_spread_registry().list_spreads()
+def list_spreads(system: str = "tarot") -> list[str]:
+    """List all available spread IDs for a card system.
+
+    Args:
+        system: Card system ('tarot' or 'lenormand'). Default: 'tarot'.
+    """
+    return get_spread_registry(system=system).list_spreads()
