@@ -1,0 +1,789 @@
+{
+  "card_id": "queen_of_wands",
+  "card_name": "Queen of Wands",
+  "card_number": 13,
+  "suit": "wands",
+  "archetype": "the_confident_leader",
+  "core_meanings": {
+    "upright": {
+      "essence": "Embodying passionate courage and self-assurance. The vibrant spirit of creativity and warmth illuminates the path.",
+      "keywords": [
+        "confidence",
+        "vibrancy",
+        "creativity",
+        "passion",
+        "leadership",
+        "courage",
+        "dynamic energy"
+      ],
+      "psychological": "Represents the ability to embrace one's full creative potential, standing tall with self-belief and assertiveness.",
+      "spiritual": "Alignment with one's inner fire, harnessing passion to inspire others and to advance personal and collective growth.",
+      "practical": "Time to lead with confidence and charisma. Showcase your talents without hesitation; be a source of inspiration.",
+      "shadow": "Overconfidence can lead to arrogance. Beware of impulsive actions burning bridges or overshadowing others.",
+      "waite_meaning": "A dark woman, countrywoman, friendly, chaste, loving, honourable. If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money, or a certain success in business.",
+      "tk_meaning_en": "Those around you are naturally drawn in. It suggests becoming the center of attention. Because you are inwardly composed, you act with genuine warmth and generosity. It can also simply mean being openly admired.",
+      "tk_meaning_zh": "暗示著成為受到矚目的焦點。內心游刃有餘，就會出於熱心採取行動。此外，也可解釋成坦率地受到喜愛。",
+      "tk_coreKeyword_en": "Charm",
+      "tk_coreKeyword_zh": "魅力"
+    },
+    "reversed": {
+      "essence": "Lack of self-belief, or suppressed creativity. Fear of stepping into your power may cause retreat into the shadows.",
+      "keywords": [
+        "self-doubt",
+        "insecurity",
+        "creative block",
+        "timidity",
+        "introversion",
+        "hesitation"
+      ],
+      "psychological": "Wrestling with doubt or undervaluing one's abilities, leading to a retreat from opportunities to shine.",
+      "spiritual": "Disconnect from inner fire, resulting in diminished capacity to inspire or lead with authenticity.",
+      "practical": "Time to confront self-doubt and rekindle the inner flame. Careful not to let fear hold back potential achievements.",
+      "shadow": "Underneath lies envy or resentment—wish to shine while fearing humiliation or failure.",
+      "waite_meaning": "Good, economical, obliging, serviceable. Signifies also--but in certain positions and in the neighbourhood of other cards tending in such directions--opposition, jealousy, even deceit and infidelity.",
+      "tk_meaning_en": "Self-righteous behavior causes misunderstanding. What you consider good works in a negative direction. Also shows the possibility of becoming the target of jealousy or misunderstanding.",
+      "tk_meaning_zh": "自覺好的事物卻朝著負面方向起作用。也顯示出受到嫉妒或誤解的可能性。"
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past experiences where confidence and creativity were shining lights. Emboldened actions have guided your journey.",
+        "reversed": "Times of missed opportunities due to self-doubt. Moments when hesitance allowed talents to wither in obscurity.",
+        "keywords": [
+          "past confidence",
+          "creative history",
+          "missed chances",
+          "hesitant past"
+        ]
+      },
+      "distant_past": {
+        "upright": "A foundational period in your life instilled a natural charisma and vibrant energy, shaping your path forward.",
+        "reversed": "Early life experiences instilled hesitancy, teaching you to question your own confidence and abilities.",
+        "keywords": [
+          "charismatic foundation",
+          "early influence",
+          "distant insecurity",
+          "initial light"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent endeavors showcased your leadership and creative brilliance, paving the way for potential success.",
+        "reversed": "Recent struggles with self-worth or creative expression hindered potential gains or opportunities.",
+        "keywords": [
+          "recent leadership",
+          "creative success",
+          "recent doubts",
+          "blocked creativity"
+        ]
+      },
+      "present": {
+        "upright": "Currently a time to step forward with confidence and passion. Your vibrant energy attracts opportunities.",
+        "reversed": "A present situation tinged with doubt or hesitation. Need to dispel fears and take decisive action.",
+        "keywords": [
+          "present confidence",
+          "current energy",
+          "self-doubt",
+          "timid action"
+        ]
+      },
+      "present_situation": {
+        "upright": "At this moment, your dynamic energy is at the heart of the situation—a beacon of creativity and inspiration.",
+        "reversed": "Core hesitation and fear obscure your authentic voice and the potential impact you could have.",
+        "keywords": [
+          "core creativity",
+          "dynamic center",
+          "current fear",
+          "obstructed energy"
+        ]
+      },
+      "future": {
+        "upright": "Future shines bright with opportunities for leadership and creativity leading to success and fulfillment.",
+        "reversed": "Future risk of continued self-doubt stifling growth unless addressed with intentional courage.",
+        "keywords": [
+          "future leadership",
+          "upcoming opportunities",
+          "future doubts",
+          "blocked potentials"
+        ]
+      },
+      "near_future": {
+        "upright": "Very soon, a chance to lead or inspire others awaits. Embrace it with passion and readiness.",
+        "reversed": "Approaching situations may require overcoming insecurities; be prepared to face challenges to your inner strength.",
+        "keywords": [
+          "imminent leadership",
+          "swift opportunity",
+          "approaching insecurities",
+          "upcoming readiness"
+        ]
+      },
+      "distant_future": {
+        "upright": "Long-term success through continued expression of your creative fire and resilient spirit.",
+        "reversed": "Without addressing internal fears, future cycles of missed opportunities and regrets may unfold.",
+        "keywords": [
+          "lasting success",
+          "creative legacy",
+          "future regrets",
+          "unresolved fears"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The path calls for embracing your vibrant potential while maintaining an authentic and humble grounding.",
+        "reversed": "Challenges involve transforming self-doubt into self-belief, overcoming fear of failure.",
+        "keywords": [
+          "potential embrace",
+          "authentic expression",
+          "self-transform",
+          "overcome fear"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures to conform or diminish your light clash with your need for self-expression.",
+        "reversed": "Internalized self-doubt and overcritical thinking cross paths with your aspirations, blocking growth.",
+        "keywords": [
+          "external pressures",
+          "conformity",
+          "internal doubt",
+          "aspirational blocks"
+        ]
+      },
+      "obstacle": {
+        "upright": "Facing competitive tendencies that can consume focus and dim the collaborative spirit crucial for growth.",
+        "reversed": "Persistent internal fears or envy towards others' successes serves as hurdles on your path.",
+        "keywords": [
+          "competitive focus",
+          "collaborative dimming",
+          "internal fear",
+          "envy hurdle"
+        ]
+      },
+      "lesson": {
+        "upright": "Learning to lead with grace, igniting others without overwhelming them with your intensity.",
+        "reversed": "Understanding that vulnerability and authenticity lead to strength, not weakness.",
+        "keywords": [
+          "graceful leadership",
+          "ignite others",
+          "vulnerability strength",
+          "authenticity"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow might hold unfulfilled desires for recognition and validation—embrace and integrate these to heal.",
+        "reversed": "Hidden aspects of insecurity or jealousy lurk, urging illumination and self-compassion.",
+        "keywords": [
+          "shadow desire",
+          "recognition needs",
+          "hidden insecurity",
+          "self-compassion"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Others' expectations or rigid structures that restrict your ability to express freely and vibrantly.",
+        "reversed": "Self-imposed limitations arising from fear of judgment or perceived inadequacies.",
+        "keywords": [
+          "external rigidity",
+          "expression limits",
+          "self-limits",
+          "fear of judgment"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace your radiant spirit and lead through example. Channel your creativity into meaningful pursuits.",
+        "reversed": "Find strength within to face your fears, and let go of perfection to rediscover your innate brilliance.",
+        "keywords": [
+          "radiant leadership",
+          "creative pursuits",
+          "inner strength",
+          "let go of perfection"
+        ]
+      },
+      "action": {
+        "upright": "Take commanding steps forward. Allow your passion to direct impactful actions that inspire others.",
+        "reversed": "Pause, reflect on fears inhibiting your actions, and build confidence through small, consistent steps.",
+        "keywords": [
+          "commanding steps",
+          "impactful actions",
+          "reflect and act",
+          "built confidence"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as a charismatic leader with the potential to inspire through action and presence.",
+        "reversed": "Struggle with a self-image that's torn between the fear of inadequacy and the desire for approval.",
+        "keywords": [
+          "charismatic leader",
+          "inspirational presence",
+          "self-image conflict",
+          "approval desire"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your vibrant charisma and ability to motivate are your greatest strengths; lean into them fully.",
+        "reversed": "Finding supportive mentors and allies helps counterbalance self-sabotage and lifts spirits.",
+        "keywords": [
+          "vibrant charisma",
+          "motivational strength",
+          "supportive mentors",
+          "counterbalance"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust your inner fire to guide your path. Align your actions with your deepest passions and values.",
+        "reversed": "Seek inward to rekindle your spirits. Meditation and reflection can realign your energetic flow.",
+        "keywords": [
+          "inner fire",
+          "aligned actions",
+          "rekindle spirits",
+          "reflective alignment"
+        ]
+      },
+      "best_course": {
+        "upright": "Pursue your dreams boldly, embracing setbacks as learning. Nurture your gifts into full bloom.",
+        "reversed": "Practice patience and gentle self-encouragement to progress past doubt and stagnation.",
+        "keywords": [
+          "bold pursuit",
+          "nurtured gifts",
+          "patient progress",
+          "gentle encouragement"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to shine as a beacon of creativity and leadership; fear of your light being extinguished by insecurity.",
+        "reversed": "Fear that your aspirations may never manifest. Hope lies in the courage to confront self-imposed barriers.",
+        "keywords": [
+          "creative beacon",
+          "extinguished fear",
+          "manifestation",
+          "courage to confront"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to inspire, lead, and create with authenticity—leaving a meaningful impact on those around you.",
+        "reversed": "Hopes circle around overcoming fears, finding freedom to express and resonate with authenticity.",
+        "keywords": [
+          "authentic inspiration",
+          "meaningful impact",
+          "overcoming fears",
+          "expressing freely"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing your spark, or stifling your creativity due to external disapproval or internal doubt.",
+        "reversed": "Fear of never meeting your potential due to paralysis by analysis or not being good enough.",
+        "keywords": [
+          "losing spark",
+          "creative stifling",
+          "paralysis",
+          "meeting potential"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by a deep well of passion and an innate sense of presence that seeks expression.",
+        "reversed": "Subdued fears hidden in the shadows of your psyche, influencing your sense of worth and capability.",
+        "keywords": [
+          "subconscious passion",
+          "innate presence",
+          "subdued fears",
+          "shadow influence"
+        ]
+      },
+      "conscious": {
+        "upright": "Aware of your need to express, create, and lead with vigor and determination; conscious of your power.",
+        "reversed": "Consciously grappling with self-doubt and the desire to retreat into the safety of anonymity.",
+        "keywords": [
+          "expressive awareness",
+          "power consciousness",
+          "grappling doubt",
+          "safety retreat"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally vibrant, brimming with enthusiasm, ready to channel feelings into creative endeavors.",
+        "reversed": "Feeling withdrawn, plagued by uncertainty, questioning your own potential and creative capacities.",
+        "keywords": [
+          "emotional vibrancy",
+          "enthusiastic energy",
+          "withdrawn uncertainty",
+          "questioning potential"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart seeks to create beauty and meaning, longing to inspire and connect deeply with others.",
+        "reversed": "Heart desires acceptance and assurance. It's a battle between self-love and perceived inadequacy.",
+        "keywords": [
+          "create beauty",
+          "deep connection",
+          "heart's desire",
+          "acceptance and assurance"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally agile and focused on vision, with ideas sparking into imaginative and brilliant strategies.",
+        "reversed": "Mind tangled in webs of doubt, overanalyzing strengths and questioning the clarity of your vision.",
+        "keywords": [
+          "mental agility",
+          "focused vision",
+          "entangled doubts",
+          "clarity questioning"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Those around you admire your leadership and creativity, viewing you as a role model and source of inspiration.",
+        "reversed": "Others perceive your hesitation or lack of confidence, potentially underestimating your true strength.",
+        "keywords": [
+          "admirable leadership",
+          "role model",
+          "hesitant perception",
+          "underestimated strength"
+        ]
+      },
+      "others": {
+        "upright": "Supported by a network that values your contribution, your presence is seen as influential and motivating.",
+        "reversed": "Others might unintentionally stifle your efforts with well-meaning advice that discourages risk-taking.",
+        "keywords": [
+          "valued support",
+          "influential presence",
+          "unintentional stifling",
+          "risk discouragement"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment is fertile ground for creative projects and leadership roles; opportunity abounds.",
+        "reversed": "Current surroundings might not nurture your talents, requiring a shift or adaptation for growth.",
+        "keywords": [
+          "fertile ground",
+          "creative opportunity",
+          "non-nurturing environment",
+          "growth adaptation"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a source of light and creativity, your presence uplifts others and encourages collaborative energy.",
+        "reversed": "Perceived as reserved or underconfident, potentially distancing yourself from those seeking your light.",
+        "keywords": [
+          "source of light",
+          "creative presence",
+          "reserved perception",
+          "seeking light distance"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen energies pushing you towards greater visibility and empowerment; synchronicities align paths.",
+        "reversed": "Hidden influences stir self-doubt, requiring unveiling and transformation to clear your path.",
+        "keywords": [
+          "unseen energies",
+          "invisible empowerment",
+          "stirring doubts",
+          "path transformation"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success in creative pursuits and leadership roles awaits through embracing your vibrant spirit.",
+        "reversed": "Potential for missed opportunities if insecurities prevail, requiring healing to realize goals.",
+        "keywords": [
+          "creative success",
+          "leadership roles",
+          "missed opportunities",
+          "healing realization"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately achieving recognition and fulfillment through authentic expression and dynamic actions.",
+        "reversed": "Final outcomes may involve repeated cycles of doubt without intentional intervention and support.",
+        "keywords": [
+          "recognition fulfillment",
+          "authentic expression",
+          "cyclical doubt",
+          "intentional support"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possible brilliant achievements born from passion and determination, shining brightly in your field.",
+        "reversed": "Concealed potential if timidity rules, dimming opportunities to outshine and elevate your path.",
+        "keywords": [
+          "brilliant achievements",
+          "determined passion",
+          "concealed potential",
+          "opportunity dimming"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case scenario involves flourishing as a leader and creator, driven by inner confidence and charisma.",
+        "reversed": "What appears as the best path may falter if overconfidence masks necessary caution or introspection.",
+        "keywords": [
+          "flourishing leader",
+          "driven creator",
+          "overconfidence falter",
+          "necessary introspection"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves temporary setbacks that serve as lessons, ultimately fueling further growth.",
+        "reversed": "True worst case involves succumbing to fear, leading to stagnation and unfulfilled aspirations.",
+        "keywords": [
+          "temporary setbacks",
+          "fuel growth",
+          "succumbing fear",
+          "aspirational stagnation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic embodies mature leadership, vision, and the ability to turn dreams into reality. Between you exists wisdom, experience, and the confidence to take charge of your shared destiny. You build something lasting through skillful action.",
+        "reversed": "Leadership may be immature, reckless, or overly controlling. Vision might be clouded by ego or unrealistic expectations. The relationship could involve power struggles, failed enterprises, or inability to manifest shared dreams effectively.",
+        "keywords": [
+          "mastery",
+          "leadership",
+          "vision",
+          "manifestation"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Romantic connections bloom under your nurturing charisma. Confidence sparks new or deepened bonds.",
+      "reversed": "Struggles with self-esteem may impede the development of intimacy or connections. Focus on self-love.",
+      "keywords": [
+        "romantic bloom",
+        "nurturing charisma",
+        "self-esteem struggles",
+        "intimate connection"
+      ]
+    },
+    "career": {
+      "upright": "Career paths reveal opportunities for leadership and innovation. Bold moves bring recognition and success.",
+      "reversed": "Self-doubt could obstruct professional achievements. Embrace growth and learning despite fear.",
+      "keywords": [
+        "leadership opportunity",
+        "career innovation",
+        "professional obstruction",
+        "growth embrace"
+      ]
+    },
+    "spiritual": {
+      "upright": "Embodying your inner flame elevates spiritual practices. Align energy with universal creativity.",
+      "reversed": "Spiritual disconnect arises from creative suppression. Seek clarity to reconnect with your essence.",
+      "keywords": [
+        "inner flame",
+        "spiritual elevation",
+        "creative suppression",
+        "clarity seeking"
+      ]
+    },
+    "financial": {
+      "upright": "Financial opportunities appear through confident pursuits. Trust in your ability to create abundance.",
+      "reversed": "Financial stagnation linked to fear-based decisions. Rediscover courage and reassess strategies.",
+      "keywords": [
+        "financial opportunity",
+        "confident pursuit",
+        "stagnation",
+        "strategy reassessment"
+      ]
+    },
+    "health": {
+      "upright": "Vibrant energy and enthusiasm boost physical well-being. Pursue active and engaging health routines.",
+      "reversed": "Energy burnout or lethargy due to stress or doubt. Balanced self-care and mindfulness are key.",
+      "keywords": [
+        "vibrant health",
+        "enthusiastic well-being",
+        "energy burnout",
+        "balanced self-care"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "aries",
+    "hebrew_letter": "kaph",
+    "numerology": 3,
+    "planet": "sun",
+    "season": "summer",
+    "time_of_day": "noon",
+    "colors": [
+      "gold",
+      "orange",
+      "red"
+    ],
+    "crystals": [
+      "citrine",
+      "tiger's eye",
+      "amber"
+    ],
+    "herbs": [
+      "sunflower",
+      "rosemary",
+      "basil"
+    ]
+  },
+  "symbols": {
+    "black_cat": "intuition and mystery",
+    "sunflower": "radiance and growth",
+    "wand": "creative energy and intention",
+    "crown": "sovereignty and mastery",
+    "lion_decor": "strength and determination"
+  },
+  "affirmations": [
+    "I embrace my radiance and lead with warmth and wisdom.",
+    "My confidence fuels my creativity and inspires those around me.",
+    "I trust my vibrant spirit to guide my path.",
+    "I illuminate the world with my unique vision and passion."
+  ],
+  "journaling_prompts": [
+    "Where in my life can I express more confidence and creativity?",
+    "What fears hold me back from stepping into my power?",
+    "How can I gracefully lead and inspire others?",
+    "What does my heart desire to create and share with the world?"
+  ],
+  "meditation_focus": "Visualizing your inner flame burning brightly, radiating confidence, warmth, and creative energy into the world.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:15:37.639631",
+    "card_info": {
+      "name": "Queen of Wands",
+      "number": 13,
+      "suit": "wands"
+    },
+    "filename": "w13.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_sun": {
+        "interpretation": "Radiant energy leads to joyful success and heightened creativity. Your light shines even brighter.",
+        "keywords": [
+          "radiant",
+          "energy",
+          "leads",
+          "joyful"
+        ]
+      },
+      "ace_of_wands": {
+        "interpretation": "Ignition of new ideas and projects. Confidence fuels transformative action and inspiration.",
+        "keywords": [
+          "ignition",
+          "ideas",
+          "projects",
+          "confidence"
+        ]
+      },
+      "king_of_wands": {
+        "interpretation": "Combined leadership power and dynamic energy lead to grand achievements and respected status.",
+        "keywords": [
+          "combined",
+          "leadership",
+          "power",
+          "dynamic"
+        ]
+      }
+    },
+    "challenges": {
+      "the_moon": {
+        "interpretation": "Unexpected emotional depths stir self-doubt. Courage needed to navigate shadows of insecurity.",
+        "keywords": [
+          "unexpected",
+          "emotional",
+          "depths",
+          "stir"
+        ]
+      },
+      "four_of_cups": {
+        "interpretation": "Desire to withdraw may overshadow creative potential. Reengage with true passions and joys.",
+        "keywords": [
+          "desire",
+          "withdraw",
+          "overshadow",
+          "creative"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Anxiety about choices blocks decisive action. Encourage clarity and harmonious decision-making.",
+        "keywords": [
+          "anxiety",
+          "choices",
+          "blocks",
+          "decisive"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_empress": {
+        "interpretation": "Creative abundance and nurturing qualities gain focus. Foster growth through intuitive leadership.",
+        "keywords": [
+          "creative",
+          "abundance",
+          "nurturing",
+          "qualities"
+        ]
+      },
+      "nine_of_pentacles": {
+        "interpretation": "Understanding of self-sufficiency highlights how comfort in your abilities leads to security.",
+        "keywords": [
+          "understanding",
+          "self",
+          "sufficiency",
+          "highlights"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Calls for rebirth utilize vibrant energy to redefine your path, leading to awakened insights.",
+        "keywords": [
+          "calls",
+          "rebirth",
+          "utilize",
+          "vibrant"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "king_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "ace_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "king_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  },
+  "description": {
+    "waite": "The Wands throughout this suit are always in leaf, as it is a suit of life and animation. Emotionally and otherwise, the Queen's personality corresponds to that of the King, but is more magnetic.",
+    "tk_en": "This card depicts a woman holding a wand and a sunflower. Her boldly open posture suggests sexual charm, while the black cat at her feet hints at her mysterious, magical nature. This card displays strength that is fully aligned inside and out.",
+    "tk_zh": "這張牌描繪著手持權杖與向日葵的女性姿態。挑釁般地張開的雙腿令人感覺到性感魅力，腳邊的黑貓則像在展現魔性。是張展現表裡如一的強韌的牌。"
+  },
+  "reading_aspects": {
+    "currentSituation": {
+      "upright": {
+        "en": "Trustworthy luck / gathering people's support / a time to grow into the strength you know you have",
+        "zh": "可靠的運氣/凝聚人望的狀況/希望能力與自身相符的時候"
+      },
+      "reversed": {
+        "en": "Willful attitude / lack of order / feeling yourself is strong / inner lacking composure",
+        "zh": "任性態度/沒有秩序/認為自己很強的狀況/內心沒有餘裕"
+      }
+    },
+    "innerState": {
+      "upright": {
+        "en": "Inner composure caring for others / wanting to do what should be done / not wanting to be dependent",
+        "zh": "內心有著體貼別人的餘裕/想要做好該做的事/不想撒嬌"
+      },
+      "reversed": {
+        "en": "Restlessness about not being the focus / just keeping a firm attitude makes surroundings submit / stubborn",
+        "zh": "為無法成為注目焦點而煩躁/只要保持堅決態度，周遭就會屈服/頑固"
+      }
+    },
+    "rootCause": {
+      "upright": {
+        "en": "Wanting to complete everything / becoming popular and receiving jealousy / jack of all trades master of none",
+        "zh": "無論任何事都想努力完成/受歡迎而遭到嫉妒/樣樣通樣樣鬆"
+      },
+      "reversed": {
+        "en": "Losing composure and losing control / self-centered / arrogant / past experience doesn't work",
+        "zh": "失去冷靜而失控/自我中心/高傲/過去的經驗行不通"
+      }
+    },
+    "development": {
+      "upright": {
+        "en": "Receiving support from surroundings / being appreciated for your capacity / being able to understand others' worries",
+        "zh": "受到周遭提拔/器量大而贏得人望/可以理解別人的煩惱"
+      },
+      "reversed": {
+        "en": "Three-minute enthusiasm / wanting control / deviating from path due to jealousy",
+        "zh": "三分鐘熱度/想要爭取主導權/因為嫉妒而偏離正軌"
+      }
+    },
+    "advice": {
+      "upright": {
+        "en": "Keep inner composure / it's okay to not show effort / listen to others' opinions",
+        "zh": "保持內心餘裕/就算不拿出幹勁也無所謂/聽取他人的意見"
+      },
+      "reversed": {
+        "en": "Discard jealousy / don't be too stubborn in your beliefs / caring for surroundings is important",
+        "zh": "捨棄嫉妒心/切勿過於固執己見/關心周遭是很重要的"
+      }
+    }
+  },
+  "contextual_meanings": {
+    "love": {
+      "upright": {
+        "en": "A burning passion / a woman with mature grace / someone with sexual charm / modesty / pregnancy and childbirth",
+        "zh": "令身心燒焦般熱情的愛/有年長風範的女性/具性感魅力的人/貞操觀念"
+      },
+      "reversed": {
+        "en": "Romance born from dependence / intense jealousy / temptation to cheat / family collapse / shifting blame",
+        "zh": "源於依賴對方的戀情/強烈嫉妒/出軌的誘惑/家庭崩毀/轉嫁責任"
+      }
+    },
+    "work": {
+      "upright": {
+        "en": "Success in both career and life / your network becoming a professional asset / finding meaning in what you do / a female entrepreneur",
+        "zh": "事業、生活兩得意/人脈成為工作的助力/找出這麼做的價值/女性企業家"
+      },
+      "reversed": {
+        "en": "Blurring of public and private / tired of work content / backstabbing / sales competition / aggressive",
+        "zh": "公私混淆/厭倦工作內容/互扯後腿/業績競爭/具攻擊性"
+      }
+    },
+    "interpersonal": {
+      "upright": {
+        "en": "Able to speak of troubles frankly / positive relationship / reliable person / person sharing spirit",
+        "zh": "能坦率地說出煩惱/積極正向的關係/可靠的人/能分享精神的人"
+      },
+      "reversed": {
+        "en": "Not considering the other person / prone to complaining / prone to jealousy / narrow-minded / irresponsible relationship",
+        "zh": "不考慮到對方/愛發牢騷/愛嫉妒的人/器量狹小/不負責任的關係"
+      }
+    },
+    "others": {
+      "upright": {
+        "en": "Benefiting in wealth / full of charm / heroine / effortlessly radiating charm / charisma / moisture",
+        "zh": "在財富上受惠/充滿魅力/巾幗英雄/不著痕跡地散發魅力/領袖魅力/滋潤"
+      },
+      "reversed": {
+        "en": "Always seeking spotlight / lack of taste / not trustworthy / meddlesome / lacking charm / coarse",
+        "zh": "總是愛出鋒頭/沒品/不值得信任/多管閒事/欠缺魅力/粗野"
+      }
+    }
+  }
+}

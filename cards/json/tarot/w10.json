@@ -1,0 +1,789 @@
+{
+  "card_id": "ten_of_wands",
+  "card_name": "Ten of Wands",
+  "card_number": 10,
+  "suit": "wands",
+  "archetype": "the_burdened",
+  "core_meanings": {
+    "upright": {
+      "essence": "The weight of responsibility and the labor of fulfilling obligations. Hard work nearing its completion, with the weight of success and sacrifice evident.",
+      "keywords": [
+        "burden",
+        "responsibility",
+        "effort",
+        "completion",
+        "hard work",
+        "duty",
+        "stress",
+        "overwhelm"
+      ],
+      "psychological": "Reflects the mental strain of carrying too much alone, the inner drive to prove oneself, and the fear of letting others down.",
+      "spiritual": "Spiritual lessons learned through perseverance and dedication. Growth through carrying life's challenges with grace.",
+      "practical": "In the thick of it. Tasks are piling up, and it's time to prioritize, delegate, or seek help before burnout.",
+      "shadow": "Overburdening oneself with too many responsibilities, leading to exhaustion. Sacrificing personal well-being for duty.",
+      "waite_meaning": "A card of many significances, and some of the readings cannot be harmonized. I set aside that which connects it with honour and good faith. The chief meaning is oppression simply, but it is also fortune, gain, any kind of success, and then it is the oppression of these things. It is also a card of false-seeming, disguise, perfidy. The place which the figure is approaching may suffer from the rods that he carries. Success is stultified if the Nine of Swords follows, and if it is a question of a lawsuit, there will be certain loss.",
+      "tk_meaning_en": "Exhausting yourself under the weight of your own choices. Unable to set down the burden even though already exhausted. This card shows being overwhelmed by something only you can bear.",
+      "tk_meaning_zh": "即使已經筋疲力盡，仍無法放下負擔的狀況。這張牌顯示的是被只有自己能背負的事物逼得喘不過氣。",
+      "tk_coreKeyword_en": "Heavy pressure",
+      "tk_coreKeyword_zh": "沉重的壓力"
+    },
+    "reversed": {
+      "essence": "Release of burdens or feeling overpowered and unable to cope. Relief from responsibilities or succumbing to pressure.",
+      "keywords": [
+        "relief",
+        "resistance",
+        "struggle",
+        "poor management",
+        "collapse",
+        "delegation",
+        "release"
+      ],
+      "psychological": "Mind allows for no rest, struggling under imposed or self-inflicted duties. Reluctance to share or ask for support.",
+      "spiritual": "Time to let go of what no longer serves you. Spiritual lesson in release and acceptance of personal limits.",
+      "practical": "Tasks or duties might be poorly managed. Time to simplify life's demands or restructure priorities.",
+      "shadow": "Drowning under the expectations of others or self. Resignation to a fate of constant struggle without seeking reprieve.",
+      "waite_meaning": "Contrarieties, difficulties, intrigues, and their analogies.",
+      "tk_meaning_en": "Putting down what has been pushing you. You have reached your limit. You seem to wish to release the burden and find relief. Sometimes it can be interpreted as lacking sense of responsibility.",
+      "tk_meaning_zh": "你已經瀕臨極限。似乎希望能放下負荷，獲得解脫。有時也可解釋成沒有責任感。"
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Previous commitments or responsibilities have shaped the present. Past sacrifices laid today’s foundations.",
+        "reversed": "A history of feeling overwhelmed or overburdened still affects current situations. Avoidance of facing past duties.",
+        "keywords": [
+          "past burdens",
+          "historical responsibility",
+          "sacrifices made",
+          "unresolved pressure"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-standing responsibilities from far before influence your approach to life’s demands today.",
+        "reversed": "Chronic patterns of taking on too much began early on, creating a long-term strain.",
+        "keywords": [
+          "early burdens",
+          "chronic patterns",
+          "long-term strain",
+          "historical weight"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently completed major tasks may have left you exhausted but closer to your goals.",
+        "reversed": "Recent struggles with finding balance in responsibilities lead to current overwhelm.",
+        "keywords": [
+          "recent duties",
+          "completion of tasks",
+          "recent exhaustion",
+          "imbalanced workload"
+        ]
+      },
+      "present": {
+        "upright": "Current phase involves navigating a heavy workload or weighty obligations. Perseverance is essential.",
+        "reversed": "Feeling overwhelmed by current pressures. It’s time to reassess and lighten your load.",
+        "keywords": [
+          "current burden",
+          "heaviness",
+          "perseverance",
+          "present strain"
+        ]
+      },
+      "present_situation": {
+        "upright": "Central to your experience is the feeling of carrying a significant burden with resilience.",
+        "reversed": "A core struggle to maintain balance amid chaos, suggesting the need to relinquish control.",
+        "keywords": [
+          "central burden",
+          "resilience",
+          "core struggle",
+          "search for balance"
+        ]
+      },
+      "future": {
+        "upright": "Prepare for upcoming obligations that will test your commitment and endurance.",
+        "reversed": "Future relief from responsibilities will come, but only through deliberate action and restructuring.",
+        "keywords": [
+          "upcoming duties",
+          "commitment test",
+          "endurance",
+          "future relief"
+        ]
+      },
+      "near_future": {
+        "upright": "Very soon, you'll face a critical point in managing current loads before they overwhelm you.",
+        "reversed": "An imminent opportunity to ease your burdens will arise — be ready to adapt.",
+        "keywords": [
+          "imminent decision",
+          "management need",
+          "opportunity for relief",
+          "adaptability"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, your hard work will yield results. Success will come through dedication.",
+        "reversed": "Learning to let go will eventually lead to freedom from longstanding burdens.",
+        "keywords": [
+          "eventual success",
+          "long-term dedication",
+          "freedom from burden",
+          "future rehabilitation"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to bear your burdens while finding balance and avoiding burnout.",
+        "reversed": "Learning to identify when you've taken on too much and how to effectively delegate.",
+        "keywords": [
+          "balanced burden",
+          "avoiding burnout",
+          "identifying limits",
+          "effective delegation"
+        ]
+      },
+      "cross": {
+        "upright": "External obligations or expectations might interfere with personal desires or goals.",
+        "reversed": "Internal resistance to releasing control may block the ability to share duties.",
+        "keywords": [
+          "external pressure",
+          "conflicting desires",
+          "control issues",
+          "sharing duties"
+        ]
+      },
+      "obstacle": {
+        "upright": "Inability to prioritize or delegate leads to feeling overwhelmed by life’s responsibilities.",
+        "reversed": "Reluctance to relinquish unnecessary obligations causes persistent stress.",
+        "keywords": [
+          "lack of prioritization",
+          "overwhelm",
+          "reluctance to delegate",
+          "persistent stress"
+        ]
+      },
+      "lesson": {
+        "upright": "Learning the value of dedication and perseverance, even when the path is heavy.",
+        "reversed": "Understanding when enough is enough and the importance of asking for help.",
+        "keywords": [
+          "value in perseverance",
+          "dedication",
+          "knowing limits",
+          "seeking help"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow holds a fear of failure or inadequacy, pushing you to carry more than necessary.",
+        "reversed": "Ignoring internal warnings of burnout or ignoring personal needs beneath responsibilities.",
+        "keywords": [
+          "fear of failure",
+          "overcompensation",
+          "burnout warning",
+          "neglecting needs"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Perfectionism and unwillingness to trust others with responsibilities may hinder progress.",
+        "reversed": "Overbearing demands, either self-imposed or from others, hinder effective progress.",
+        "keywords": [
+          "perfectionism",
+          "trust issues",
+          "overbearing demands",
+          "hindered progress"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Illustrates the importance of assessing your load. Prioritize what truly matters and seek support.",
+        "reversed": "It’s necessary to loosen your grip on control — ask for help to ease your workload.",
+        "keywords": [
+          "assess load",
+          "prioritize",
+          "seek support",
+          "release control"
+        ]
+      },
+      "action": {
+        "upright": "Act with careful planning. Break down tasks into manageable steps to prevent feeling overwhelmed.",
+        "reversed": "Decisive action is required in setting boundaries and saying no when necessary.",
+        "keywords": [
+          "careful planning",
+          "manageable steps",
+          "set boundaries",
+          "decisive action"
+        ]
+      },
+      "your_approach": {
+        "upright": "You view yourself as resilient and committed, capable of handling whatever comes your way.",
+        "reversed": "There's a tendency to identify too strongly with responsibilities, losing sight of personal needs.",
+        "keywords": [
+          "resilience",
+          "commitment",
+          "self-identification",
+          "over-identification"
+        ]
+      },
+      "what_helps": {
+        "upright": "Organization and a strategic approach to tasks help manage the heavy load effectively.",
+        "reversed": "Finding trusted allies and embracing delegation can significantly lighten the burden.",
+        "keywords": [
+          "organization",
+          "strategy",
+          "trusted allies",
+          "embracing delegation"
+        ]
+      },
+      "guidance": {
+        "upright": "Guidance suggests embracing the path of responsibility with wisdom and foresight.",
+        "reversed": "Seek to discern which burdens you bear for yourself and which can be laid down.",
+        "keywords": [
+          "wisdom in burdens",
+          "foresight",
+          "discernment",
+          "release unnecessary loads"
+        ]
+      },
+      "best_course": {
+        "upright": "Structure your life to create space for the important and shed the non-essential.",
+        "reversed": "Step back and evaluate. Let go of what drains rather than nurtures or supports growth.",
+        "keywords": [
+          "create space",
+          "structure life",
+          "evaluate needs",
+          "release drains"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for achievement and recognition through hard work. Fear of being unable to sustain the weight.",
+        "reversed": "Hope for relief and ease. Fear of losing control or failing if you relinquish responsibility.",
+        "keywords": [
+          "achievement",
+          "recognition",
+          "sustainability",
+          "losing control"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire for successful completion and fulfilling obligations with dignity and grace.",
+        "reversed": "Hope to find balance and freedom from overwhelming duties.",
+        "keywords": [
+          "successful completion",
+          "fulfilling obligations",
+          "balance",
+          "freedom"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of collapse or failing under the weight of expectation and duty.",
+        "reversed": "Fear of losing identity or value through relinquishing responsibility.",
+        "keywords": [
+          "collapse fear",
+          "failing expectations",
+          "identity loss",
+          "relinquishing value"
+        ]
+      },
+      "subconscious": {
+        "upright": "Driven by a subconscious need to prove worth through relentless responsibility.",
+        "reversed": "Subconscious resistance to letting go, fearing chaos if things are not managed personally.",
+        "keywords": [
+          "proving worth",
+          "relentlessness",
+          "resistance",
+          "fear of chaos"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously striving to meet goals through effort and perseverance amidst struggle.",
+        "reversed": "Awareness of the need to lighten loads but uncertainty about how to proceed.",
+        "keywords": [
+          "goal striving",
+          "perseverance",
+          "load awareness",
+          "uncertainty"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally exhausted but resilient, feeling the weight of duty pressing forward.",
+        "reversed": "Emotions swing between defeat and denial, urging for a break from stressors.",
+        "keywords": [
+          "emotional exhaustion",
+          "resilience",
+          "defeat",
+          "denial"
+        ]
+      },
+      "heart": {
+        "upright": "The heart carries a quiet dignity in fulfilling responsibilities, pushing for perseverance.",
+        "reversed": "Buried beneath duties is a heart yearning for release and the freedom to choose.",
+        "keywords": [
+          "quiet dignity",
+          "fulfillment",
+          "yearning for release",
+          "freedom to choose"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally focused on enduring and strategizing how to manage existing and impending tasks.",
+        "reversed": "The mind is tangled with confusion and resistance, struggling with letting go.",
+        "keywords": [
+          "focused endurance",
+          "strategizing",
+          "mental tangles",
+          "resistance"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "External pressures and societal expectations contribute to the burdens you carry.",
+        "reversed": "External demands lighten, either by increased support or changes in circumstances.",
+        "keywords": [
+          "external pressures",
+          "societal expectations",
+          "increased support",
+          "changing circumstances"
+        ]
+      },
+      "others": {
+        "upright": "Others may see you as strong and dependable but overly burdened with duties.",
+        "reversed": "Perceived as unable to manage, prompting offers of assistance or concern.",
+        "keywords": [
+          "dependable",
+          "strength",
+          "burdened perception",
+          "concern"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment is demanding and may be adding to your sense of overwhelm.",
+        "reversed": "Changes in your environment offer opportunities to ease your burdens.",
+        "keywords": [
+          "demanding environment",
+          "sense of overwhelm",
+          "environmental change",
+          "ease opportunities"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a capable pillar of strength, perhaps to the point of not recognizing when you need help.",
+        "reversed": "Seen as struggling, inviting empathy and support from outside sources.",
+        "keywords": [
+          "pillar of strength",
+          "lack of recognition",
+          "struggling perception",
+          "empathy"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Hidden influences could include personal expectations or misalignment with core values.",
+        "reversed": "Unseen forces may soon relieve some pressures, enabling a shift toward balance.",
+        "keywords": [
+          "personal expectations",
+          "value misalignment",
+          "relief forces",
+          "balance shift"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success through steadfastness and the ability to sustain effort until tasks reach completion.",
+        "reversed": "Release from burdens offers new freedom, though it might require adapting to less structure.",
+        "keywords": [
+          "steadfast success",
+          "completion",
+          "burden release",
+          "freedom adaptation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Final outcome brings reward and a sense of accomplishment, having seen tasks through.",
+        "reversed": "Ultimately, letting go leads to a new path free from overwhelm, inviting new opportunities.",
+        "keywords": [
+          "accomplishment",
+          "reward",
+          "new path",
+          "opportunity"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possible results include seeing your hard work pay off with tangible benefits.",
+        "reversed": "Overload leads to burnout unless proactive measures are taken to alleviate strain.",
+        "keywords": [
+          "tangible benefits",
+          "payoff",
+          "burnout",
+          "proactive measures"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case is completion of obligations, leading to satisfaction and industrious recognition.",
+        "reversed": "Best scenario involves offloading excessive duties and reclaiming peace.",
+        "keywords": [
+          "obligation completion",
+          "satisfaction",
+          "recognition",
+          "peace reclamation"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst scenario involves becoming trapped in cycles of perpetual strain and load-bearing.",
+        "reversed": "Worst situation sees a collapse beneath pressures or a refusal to adapt, missing relief.",
+        "keywords": [
+          "perpetual strain",
+          "trap",
+          "collapse",
+          "missed relief"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship carries heavy responsibilities and burdens that you share together. The dynamic involves taking on too much but having the strength to carry it. Success comes through accepting that some struggles are necessary parts of the journey.",
+        "reversed": "The connection may involve avoiding responsibilities or feeling overwhelmed by burdens. Duties may be unevenly shared or abandoned altogether. The relationship could involve martyrdom, victimhood, or refusing to accept necessary challenges.",
+        "keywords": [
+          "responsibility",
+          "burden",
+          "endurance",
+          "sacrifice"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "In relationships, feeling overwhelmed by emotional responsibilities or efforts not reciprocated.",
+      "reversed": "Releasing relationships that are burdensome, allowing space for emotional relief and balance.",
+      "keywords": [
+        "emotional overwhelm",
+        "relationship responsibilities",
+        "release",
+        "emotional space"
+      ]
+    },
+    "career": {
+      "upright": "Heavy workload or job pressures currently present. Perseverance needed to see tasks through.",
+      "reversed": "Time to delegate tasks at work or reconsider career goals that add unnecessary stress.",
+      "keywords": [
+        "job pressures",
+        "workload",
+        "delegate",
+        "reconsideration"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual dedication is demanding, yet it's important work leading to growth and understanding.",
+      "reversed": "Letting go of dogmatic practices that burden the spirit, fostering a more personal path.",
+      "keywords": [
+        "spiritual dedication",
+        "growth",
+        "dogmatic burden",
+        "personal path"
+      ]
+    },
+    "financial": {
+      "upright": "Finances feel tight due to mounting expenses. Scrutinizing budget and managing stress is crucial.",
+      "reversed": "Liberation from financial stress as burdens ease with thoughtful planning and aid.",
+      "keywords": [
+        "financial tightness",
+        "expense management",
+        "liberation",
+        "planning"
+      ]
+    },
+    "health": {
+      "upright": "Physical stress from overwork. Ensure that you are not compromising your health for duties.",
+      "reversed": "Releasing tension or harmful habits that affect health, opening the way for recovery.",
+      "keywords": [
+        "physical stress",
+        "health compromise",
+        "tension release",
+        "recovery"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "",
+    "hebrew_letter": "",
+    "numerology": 10,
+    "planet": "Saturn",
+    "season": "Autumn",
+    "time_of_day": "Twilight",
+    "colors": [
+      "brown",
+      "dark red",
+      "orange"
+    ],
+    "crystals": [
+      "smoky quartz",
+      "hematite",
+      "red jasper"
+    ],
+    "herbs": [
+      "pine",
+      "sage",
+      "cypress"
+    ]
+  },
+  "symbols": {
+    "ten_wands": "burdens and responsibilities carried",
+    "weary_traveler": "endurance and perseverance",
+    "distant_home": "goals in sight, end near"
+  },
+  "affirmations": [
+    "I carry my responsibilities with resilience and prioritize my well-being",
+    "I release burdens that no longer serve my highest good",
+    "Every challenge I face builds my strength and wisdom",
+    "I find balance in effort and relief"
+  ],
+  "journaling_prompts": [
+    "What responsibilities feel too heavy for me right now?",
+    "How can I let go of tasks that do not serve my true goals?",
+    "Where can I ask for support and delegate duties?",
+    "What balance do I need between work and rest?"
+  ],
+  "meditation_focus": "Visualizing the release of burdens and allowing space for peace and clarity. Breathing out tension, breathing in relief.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:11:33.241494",
+    "card_info": {
+      "name": "Ten of Wands",
+      "number": 10,
+      "suit": "wands"
+    },
+    "filename": "w10.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_chariot": {
+        "interpretation": "Determination pushes forward despite the weight. An unstoppable force in facing challenges.",
+        "keywords": [
+          "determination",
+          "pushes",
+          "forward",
+          "despite"
+        ]
+      },
+      "three_of_pentacles": {
+        "interpretation": "Teamwork emphasized. Collaborative burdens leading to shared success.",
+        "keywords": [
+          "teamwork",
+          "emphasized",
+          "collaborative",
+          "burdens"
+        ]
+      },
+      "nine_of_wands": {
+        "interpretation": "Unyielding persistence reinforced through difficult times. Strong defensive position.",
+        "keywords": [
+          "unyielding",
+          "persistence",
+          "reinforced",
+          "difficult"
+        ]
+      }
+    },
+    "challenges": {
+      "the_empress": {
+        "interpretation": "Creativity feels stifled under burdens. Need to balance nurture with obligations.",
+        "keywords": [
+          "creativity",
+          "feels",
+          "stifled",
+          "burdens"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Conflict exacerbated through stress, raising the chance of more disputes.",
+        "keywords": [
+          "conflict",
+          "exacerbated",
+          "stress",
+          "raising"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Overwhelmed by possibilities, focus scattered due to too many obligations.",
+        "keywords": [
+          "overwhelmed",
+          "possibilities",
+          "focus",
+          "scattered"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_lovers": {
+        "interpretation": "Clearer choices become apparent once burdens are acknowledged and lightened.",
+        "keywords": [
+          "clearer",
+          "choices",
+          "become",
+          "apparent"
+        ]
+      },
+      "four_of_swords": {
+        "interpretation": "Rest and recovery being a necessary counterbalance to heavy responsibilities.",
+        "keywords": [
+          "rest",
+          "recovery",
+          "being",
+          "necessary"
+        ]
+      },
+      "three_of_wands": {
+        "interpretation": "Long-term vision benefits from understanding and adjusting current loads.",
+        "keywords": [
+          "long",
+          "term",
+          "vision",
+          "benefits"
+        ]
+      }
+    },
+    "similar_energy": {
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "four_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ace_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "ten_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_fool": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  },
+  "description": {
+    "waite": "A man oppressed by the weight of the ten staves which he is carrying.",
+    "tk_en": "The card shows a man carrying many wands in his arms, and from his posture one can even feel an attachment that says, \"I absolutely will not let go.\" This card presents a choice: what should be held onto, and what should be released.",
+    "tk_zh": "牌面上的是懷抱著好幾根權杖的男人身影，從他的姿態甚至能感覺到一股「絕對不放手」的執著。這張牌會拋出選擇，告訴你什麼該掌握住，什麼應該放手。"
+  },
+  "reading_aspects": {
+    "currentSituation": {
+      "upright": {
+        "en": "Exhausted state / taking on tasks / times with no margin for error",
+        "zh": "筋疲力盡的狀況/承擔任務的狀態/沒有餘裕的時候"
+      },
+      "reversed": {
+        "en": "Misfortunes piling up / repeatedly encountering trouble / wanting to escape",
+        "zh": "禍不單行的運氣/一再遇上麻煩的時候/想要逃跑的情況"
+      }
+    },
+    "innerState": {
+      "upright": {
+        "en": "Drive that makes it necessary to act / exhaustion in body and mind / gloomy mood",
+        "zh": "不做不行的幹勁/身心疲憊不堪/心情鬱悶"
+      },
+      "reversed": {
+        "en": "Wanting to break free from pressure / suddenly deciding you're not at fault",
+        "zh": "想從壓力中解脫/態度驟變地認為自己沒錯"
+      }
+    },
+    "rootCause": {
+      "upright": {
+        "en": "Shouldering things alone / overstepping into too many things / being overly serious",
+        "zh": "獨自扛起/過度干預各種事物/正經過頭"
+      },
+      "reversed": {
+        "en": "Quitting halfway through / indulging yourself / lacking responsibility",
+        "zh": "半途而廢/姑息自己的思考方式/沒有責任感"
+      }
+    },
+    "development": {
+      "upright": {
+        "en": "Exhausting yourself through excessive effort / needing help from others",
+        "zh": "太過努力而過勞/需要他人協助"
+      },
+      "reversed": {
+        "en": "Unable to finish / running away from the situation / encountering troubles in succession",
+        "zh": "無法做到最後/逃離現況/遇上接二連三的麻煩"
+      }
+    },
+    "advice": {
+      "upright": {
+        "en": "Discuss with those around you about sharing responsibilities / don't always respond to others' requests",
+        "zh": "與周遭商量應該分擔職務/不要總是回應他人的要求"
+      },
+      "reversed": {
+        "en": "Don't escape responsibility / consider that more trouble will result / if uncertain, have someone substitute",
+        "zh": "不要逃離責任/該考慮到會增加麻煩/如果沒有自信就找人代替"
+      }
+    }
+  },
+  "contextual_meanings": {
+    "love": {
+      "upright": {
+        "en": "Tolerating to avoid being disliked / maintaining a relationship out of duty / someone who needs care / enduring hardship",
+        "zh": "為了避免被討厭而忍耐/因責任感而維持的關係/需要別人照顧的人/苦戰"
+      },
+      "reversed": {
+        "en": "Breaking up with a partner / own actions facing blame / abandoning the other and running away / someone with problems",
+        "zh": "與情人分手/自己的行為遭到責備/拋棄對方逃跑/懷有問題的人"
+      }
+    },
+    "work": {
+      "upright": {
+        "en": "Shouldering work / stress from responsibility / repeated appointments / overwork",
+        "zh": "扛起工作/因為責任感而產生壓力/重複預約/過勞"
+      },
+      "reversed": {
+        "en": "Abandoning work midway / mutual blame-shifting / continuous problems / failure and setback",
+        "zh": "半途放棄工作/互相推卸責任/連續出問題/失敗而遭受挫折"
+      }
+    },
+    "interpersonal": {
+      "upright": {
+        "en": "Thinking it's your fault / admitting fault / someone destined for hardship / feeling burden from expectations / sense of duty",
+        "zh": "認為是自己錯了的心境/認錯的發言/勞碌命/受期待而感覺到重擔/義務感"
+      },
+      "reversed": {
+        "en": "Being implicated / being forced to take on someone else's problem / displaced anger / self-centered person",
+        "zh": "受到牽連/被迫代人承擔問題/遷怒/自我中心的人"
+      }
+    },
+    "others": {
+      "upright": {
+        "en": "Believing only you can handle it, taking on everything that feels difficult / caregiving / childcare",
+        "zh": "認為只有自己辦得到而扛下所有令人覺得難受的事物/看護/育兒"
+      },
+      "reversed": {
+        "en": "Irresponsibly giving up / having responsibility shifted to you / taking on challenges / avoidance / withdrawal",
+        "zh": "不負責任地放棄/被人轉嫁責任/接受考驗/逃避/脫離戰線"
+      }
+    }
+  }
+}

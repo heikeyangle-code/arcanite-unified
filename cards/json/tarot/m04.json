@@ -1,0 +1,789 @@
+{
+  "card_id": "the_emperor",
+  "card_name": "The Emperor",
+  "card_number": 4,
+  "suit": "major_arcana",
+  "archetype": "the_ruler",
+  "core_meanings": {
+    "upright": {
+      "essence": "Authority, structure, and control create stability and order. The archetype of leadership and protector of civilization.",
+      "keywords": [
+        "authority",
+        "structure",
+        "control",
+        "stability",
+        "discipline",
+        "leadership",
+        "order"
+      ],
+      "psychological": "Represents the part of psyche that seeks to impose logic and structure. The capacity for self-discipline and leadership.",
+      "spiritual": "The embodiment of divine order, guiding the earthly realm. Channeling divine will into tangible creation.",
+      "practical": "A time to focus on building structures, setting boundaries, and asserting authority. Exercise discipline and responsibility.",
+      "shadow": "Tyranny, rigidity, or abuse of power. Stifling creativity or empathy in favor of control.",
+      "waite_meaning": "Stability, power, protection, realization; a great person; aid, reason, conviction; also authority and will.",
+      "tk_meaning_en": "Establishing lasting stability / leading effectively and fulfilling your responsibility",
+      "tk_meaning_zh": "獲得持續性的穩定/有效統率他人並盡到責任",
+      "tk_coreKeyword_en": "Society",
+      "tk_coreKeyword_zh": "社會"
+    },
+    "reversed": {
+      "essence": "Loss of control or domination without wisdom. Resistance to authority or inability to establish boundaries.",
+      "keywords": [
+        "domination",
+        "chaos",
+        "abuse",
+        "lack of control",
+        "rebellion",
+        "powerlessness"
+      ],
+      "psychological": "Internal struggle with authority, either through rebellion or submission. Challenges with personal boundaries.",
+      "spiritual": "Disconnect from divine order, resulting in chaos and discord. Rejection of spiritual authority or guidance.",
+      "practical": "Need to regain control by re-establishing boundaries. Avoid overbearing behavior or neglecting responsibility.",
+      "shadow": "Authoritarian tendencies or denial of one's leadership abilities. Fear of confrontation and loss of standing.",
+      "waite_meaning": "Benevolence, compassion, credit; also confusion to enemies, obstruction, immaturity.",
+      "tk_meaning_en": "Using force for temporary stability / ruling harshly and eroding trust",
+      "tk_meaning_zh": "藉由力量獲得一時的穩定/以力服人而瓦解信任"
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past experiences of leadership or authority set the stage for current stability. A foundation of discipline informs today.",
+        "reversed": "Instances of either rebellion or authoritarianism in the past continue to affect your present worldview.",
+        "keywords": [
+          "past authority",
+          "foundational discipline",
+          "former control",
+          "historic rebellion"
+        ]
+      },
+      "distant_past": {
+        "upright": "Ancestral legacy of power and leadership, providing a long-standing sense of order and structure.",
+        "reversed": "Generational patterns of control and imbalance seeded from early family or cultural dynamics.",
+        "keywords": [
+          "ancestral legacy",
+          "long-standing order",
+          "generational control",
+          "historic imbalance"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent consolidation of power or execution of authority that strengthened your position or influence.",
+        "reversed": "Recent power struggle or loss of control impacting your current situation or self-perception.",
+        "keywords": [
+          "consolidation",
+          "authority executed",
+          "recent power",
+          "control lost"
+        ]
+      },
+      "present": {
+        "upright": "Currently establishing new systems of order or exercising leadership to bring stability to chaotic situations.",
+        "reversed": "Struggling with authority issues, either through external power struggles or internal ethical conflicts.",
+        "keywords": [
+          "establishing order",
+          "leadership",
+          "current stability",
+          "power struggle"
+        ]
+      },
+      "present_situation": {
+        "upright": "Central experience involves wielding authority and creating structure with wisdom and responsibility.",
+        "reversed": "At the core, struggling with control issues or an imbalance of power that affects overall harmony.",
+        "keywords": [
+          "central authority",
+          "structural core",
+          "control issue",
+          "power imbalance"
+        ]
+      },
+      "future": {
+        "upright": "Opportunities to lead or build structures await, requiring your command and disciplined focus.",
+        "reversed": "Upcoming challenges related to control or authority, necessitating flexibility and self-awareness.",
+        "keywords": [
+          "future leadership",
+          "building opportunity",
+          "control challenge",
+          "awareness needed"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a situation will require your decisive leadership and application of structured wisdom.",
+        "reversed": "Impending need to address power dynamics or reestablish personal boundaries for stability.",
+        "keywords": [
+          "imminent leadership",
+          "structure needed",
+          "power dynamics",
+          "boundary establishment"
+        ]
+      },
+      "distant_future": {
+        "upright": "A legacy of wisdom and leadership established through consistent application of authority and discipline.",
+        "reversed": "Potential for long-term instability if authoritarian tendencies aren't transformed into constructive leadership.",
+        "keywords": [
+          "legacy of wisdom",
+          "long-term leadership",
+          "instability risk",
+          "transformative leadership"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Challenge lies in balancing authority with empathy, ensuring structures serve all rather than empowering a few.",
+        "reversed": "Struggle with accepting authority or misusing power; learning to lead with integrity.",
+        "keywords": [
+          "balanced authority",
+          "empathy integration",
+          "authority acceptance",
+          "integrity leadership"
+        ]
+      },
+      "cross": {
+        "upright": "Contrary influences appeal to dismantle order or reject discipline in favor of chaos or impulsivity.",
+        "reversed": "Internal or external resistance to defined leadership; confronting unnecessary dominance or submission.",
+        "keywords": [
+          "contrary influence",
+          "discipline resistance",
+          "chaos versus order",
+          "submission issues"
+        ]
+      },
+      "obstacle": {
+        "upright": "Rigid structures or fear of vulnerability hinder creative flow and adaptive decision-making.",
+        "reversed": "Inability to establish boundaries causing chaos; fear of asserting rightful authority.",
+        "keywords": [
+          "rigid structures",
+          "vulnerability fear",
+          "creative hinderance",
+          "boundary absence"
+        ]
+      },
+      "lesson": {
+        "upright": "Embrace leadership as a balance of power and compassion, learning to guide without dominating.",
+        "reversed": "Understanding the impact of power and how true leadership involves serving the greater good.",
+        "keywords": [
+          "balanced leadership",
+          "compassionate power",
+          "servant leadership",
+          "power impact"
+        ]
+      },
+      "shadow": {
+        "upright": "Fear of being undermined, leading to unnecessary rigidity or defensive control.",
+        "reversed": "Suppresses the ability to lead; fear of exposure or inadequacy creates a veil of inaction.",
+        "keywords": [
+          "fear of undermining",
+          "defensive control",
+          "leadership suppression",
+          "exposure fear"
+        ]
+      },
+      "what_hinders": {
+        "upright": "External chaos or internal uncertainties prevent effective establishment of authority and order.",
+        "reversed": "Personal doubts or past failures haunt leadership aspirations, blocking decisive action.",
+        "keywords": [
+          "external chaos",
+          "internal uncertainty",
+          "haunting past",
+          "blocked leadership"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Lead with certainty, but open your heart to diverse perspectives and collaborative efforts.",
+        "reversed": "Reclaim control by setting clear boundaries. Avoid heavy-handed tactics and encourage dialogue.",
+        "keywords": [
+          "lead with certainty",
+          "open heart",
+          "reclaim control",
+          "encourage dialogue"
+        ]
+      },
+      "action": {
+        "upright": "Create systems and strategies that support growth. Be clear about roles and responsibilities.",
+        "reversed": "Address power imbalances. Empower others while reasserting your own standing.",
+        "keywords": [
+          "system creation",
+          "strategic growth",
+          "power balance",
+          "empower others"
+        ]
+      },
+      "your_approach": {
+        "upright": "You perceive yourself as a natural leader, embodying strength and protective authority.",
+        "reversed": "Struggling to view yourself as capable of leading or setting the necessary boundaries.",
+        "keywords": [
+          "natural leader",
+          "protective authority",
+          "struggle with capability",
+          "boundary setting"
+        ]
+      },
+      "what_helps": {
+        "upright": "Disciplined planning and respect for established systems support your influence and success.",
+        "reversed": "Seeking guidance from mentors or embracing flexibility enhances leadership and decision-making.",
+        "keywords": [
+          "disciplined planning",
+          "system respect",
+          "mentor guidance",
+          "embrace flexibility"
+        ]
+      },
+      "guidance": {
+        "upright": "Divine wisdom encourages reliance on structured intuition and the marriage of logic with empathy.",
+        "reversed": "Learn to accept guidance from within and outside that challenges accepted power dynamics.",
+        "keywords": [
+          "structured intuition",
+          "logic and empathy",
+          "guidance acceptance",
+          "power dynamics"
+        ]
+      },
+      "best_course": {
+        "upright": "Establish clear, compassionate leadership that accommodates growth and reflects core values.",
+        "reversed": "Reassess leadership approach, focusing on flexibility and collaborative strength.",
+        "keywords": [
+          "clear leadership",
+          "compassionate authority",
+          "approach reassessment",
+          "collaborative strength"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Deep hope for lasting security and legacy of order; fear of failure in leadership roles.",
+        "reversed": "Fear of losing control or being dominated; hope for freedom from constraints of authority.",
+        "keywords": [
+          "lasting security",
+          "legacy of order",
+          "control loss",
+          "domination fear"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire to build a stable, prosperous future through disciplined effort and wise leadership.",
+        "reversed": "Hope for a role that inspires rather than commands, allowing for creative collaboration.",
+        "keywords": [
+          "stable prosperity",
+          "wise leadership",
+          "inspirational role",
+          "creative collaboration"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing influence or failing to uphold structured order in times of change.",
+        "reversed": "Apprehension about being overwhelmed by responsibility or unable to assert needed authority.",
+        "keywords": [
+          "influence loss",
+          "order failure",
+          "overwhelming responsibility",
+          "assert authority"
+        ]
+      },
+      "subconscious": {
+        "upright": "Internally, a drive for control and order abides, seeking to form stability within chaos.",
+        "reversed": "Subconscious rebellion against authority structures, yearning for unfettered freedom.",
+        "keywords": [
+          "internal control",
+          "chaos stability",
+          "authority rebellion",
+          "freedom yearning"
+        ]
+      },
+      "conscious": {
+        "upright": "Actively focusing on projects involving management or leadership towards defined goals.",
+        "reversed": "Conscious struggle with the perception of authority or imbalance in roles of influence.",
+        "keywords": [
+          "project focus",
+          "goal management",
+          "authority perception",
+          "role imbalance"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally grounded, seeking calm and structure as a sanctuary through disciplined order.",
+        "reversed": "Anxious about control, feeling either confined by order or unanchored without it.",
+        "keywords": [
+          "emotional grounding",
+          "calm structure",
+          "anxious control",
+          "order confinement"
+        ]
+      },
+      "heart": {
+        "upright": "The heart seeks to create a legacy of protection and wisdom through empowering leadership.",
+        "reversed": "Heart denotes either a desire for liberation from constraint or an avoidance of power's burden.",
+        "keywords": [
+          "legacy of wisdom",
+          "empowering leadership",
+          "desire for liberation",
+          "power burden"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally strategizing on the implementation of ideas and management for lasting success.",
+        "reversed": "Mental disquiet from either attempting to control too much or surrendering control unwisely.",
+        "keywords": [
+          "strategy",
+          "management planning",
+          "mental disquiet",
+          "control balance"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Environment supports orderly process and authoritative growth, aligned with your leadership goals.",
+        "reversed": "External chaos or power struggles may undermine stability and complicate leadership initiatives.",
+        "keywords": [
+          "orderly environment",
+          "authoritative growth",
+          "external chaos",
+          "power struggles"
+        ]
+      },
+      "others": {
+        "upright": "Others respect your ability to guide with assured confidence and protective fairness.",
+        "reversed": "Others may challenge your authority, testing your commitment to process and order.",
+        "keywords": [
+          "respect for guidance",
+          "assured confidence",
+          "challenge authority",
+          "tested commitment"
+        ]
+      },
+      "environment": {
+        "upright": "Circumstances favor ambitious projects and long-term planning with strong support systems.",
+        "reversed": "Disorder in environment may necessitate reassessment of planned strategies and goals.",
+        "keywords": [
+          "favorable circumstances",
+          "strong support",
+          "environmental disorder",
+          "strategy reassessment"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a symbol of strength and order, respected for consistent leadership and firm decision-making.",
+        "reversed": "Possibly perceived as inflexible or dominating, potentially alienating support from peers.",
+        "keywords": [
+          "symbol of strength",
+          "respected leadership",
+          "perceived inflexibility",
+          "support alienation"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Underlying support from systems and alignments in place propelling your leadership journey.",
+        "reversed": "Concealed resistance or internal conflicts may obstruct your authority or clarity of purpose.",
+        "keywords": [
+          "system support",
+          "leadership propulsion",
+          "concealed resistance",
+          "purpose obstruction"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Achievement of structured success through reliable, disciplined application of leadership skills.",
+        "reversed": "Potential for chaos or missed opportunities if power dynamics are mishandled or ignored.",
+        "keywords": [
+          "structured success",
+          "disciplined achievement",
+          "chaotic outcomes",
+          "dynamic mishandling"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Legacy of wisdom, stability, and protection achieved through compassionate use of power.",
+        "reversed": "Final learning may involve reconciling leadership with empathy or embracing transformative change.",
+        "keywords": [
+          "wisdom legacy",
+          "stable protection",
+          "empathy reconciliation",
+          "transformative change"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Resulting in fortified influence and a respected voice within communities and organizational structures.",
+        "reversed": "Possible result involves internal collapse of discipline or external discord disrupting plans.",
+        "keywords": [
+          "fortified influence",
+          "respected voice",
+          "internal collapse",
+          "external discord"
+        ]
+      },
+      "best_case": {
+        "upright": "Ideal scenario ensures sustained growth, fruitful collaboration, and influence aligned with core values.",
+        "reversed": "What seems best may result in overreliance on control, leading to unexpected resistance or stagnation.",
+        "keywords": [
+          "sustained growth",
+          "fruitful collaboration",
+          "aligned influence",
+          "unexpected resistance"
+        ]
+      },
+      "worst_case": {
+        "upright": "Without mindful governance, risks include overextension or alienation of those you guide.",
+        "reversed": "Worst case involves tyrannical collapse or paralysis from fear of asserting necessary control.",
+        "keywords": [
+          "mindless governance",
+          "overextension",
+          "tyrannical collapse",
+          "paralysis from fear"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The dynamic between you is one of stability, structure, and established authority. This relationship provides security and clear boundaries. You build something lasting together through discipline, responsibility, and respect for established systems.",
+        "reversed": "The connection may feel rigid, controlling, or authoritarian. One party may dominate through power rather than wisdom. The relationship could lack flexibility or become stagnant due to excessive control or fear of change.",
+        "keywords": [
+          "authority",
+          "structure",
+          "stability",
+          "control"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Steady, protective love that creates stability in relationships. Embrace mutual respect and growth.",
+      "reversed": "Either a lack of boundaries or domineering behavior affects harmony in relationships. Find balance.",
+      "keywords": [
+        "steady love",
+        "protective stability",
+        "lack of boundaries",
+        "domineering effects"
+      ]
+    },
+    "career": {
+      "upright": "Strong leadership or management role beckons. Focus on structured planning and disciplined execution.",
+      "reversed": "Job instability due to lack of direction or challenges to authority. Reevaluate career goals.",
+      "keywords": [
+        "leadership role",
+        "structured planning",
+        "job instability",
+        "career reevaluation"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual authority or mentorship strengthens your path forward, encouraging disciplined practice.",
+      "reversed": "Spiritual disconnect due to rigid beliefs or rejection of guidance hinders growth.",
+      "keywords": [
+        "spiritual authority",
+        "mentorship",
+        "rigid beliefs",
+        "guidance rejection"
+      ]
+    },
+    "financial": {
+      "upright": "Financial security through strategic planning and wise resource management. Build long-term stability.",
+      "reversed": "Financial entanglements from poor boundaries or misuse of authority. Regain control.",
+      "keywords": [
+        "financial security",
+        "resource management",
+        "financial entanglement",
+        "control regain"
+      ]
+    },
+    "health": {
+      "upright": "Healthy routines and discipline lead to improved vitality. Establish regimen that supports well-being.",
+      "reversed": "Neglect of necessary boundaries can lead to health issues. Impose structure for better health.",
+      "keywords": [
+        "health routines",
+        "improved vitality",
+        "boundary neglect",
+        "structure for health"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "aries",
+    "hebrew_letter": "heh",
+    "numerology": 4,
+    "planet": "mars",
+    "season": "spring",
+    "time_of_day": "midday",
+    "colors": [
+      "red",
+      "orange",
+      "gold"
+    ],
+    "crystals": [
+      "ruby",
+      "carnelian",
+      "garnet"
+    ],
+    "herbs": [
+      "pepper",
+      "ginger",
+      "garlic"
+    ]
+  },
+  "symbols": {
+    "throne": "strength and control",
+    "ram_heads": "assertion and determination",
+    "armor": "protection and readiness",
+    "orb_and_scepter": "worldly power and divine right",
+    "mountain": "stability and enduring strength"
+  },
+  "affirmations": [
+    "I embody leadership with empathy and integrity.",
+    "My strength creates a sanctuary of stability and growth.",
+    "I govern my life with wisdom, balancing order and freedom.",
+    "I assert my boundaries while respecting the autonomy of others."
+  ],
+  "journaling_prompts": [
+    "How can I lead with compassion while maintaining authority?",
+    "What structures in my life need fortification or reevaluation?",
+    "Where could I currently provide support with my leadership skills?",
+    "What power dynamics must I transform to align with my core values?"
+  ],
+  "meditation_focus": "Visualize a balance between compassion and discipline. Breathe in stability and breathe out resilience.",
+  "_metadata": {
+    "generated_at": "2025-08-13T16:45:23.954164",
+    "card_info": {
+      "name": "The Emperor",
+      "number": 4,
+      "suit": "major_arcana"
+    },
+    "filename": "m04.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Balanced leadership blending nurturing and discipline. Creation and protection harmonized.",
+        "keywords": [
+          "balanced",
+          "leadership",
+          "blending",
+          "nurturing"
+        ]
+      },
+      "the_hierophant": {
+        "interpretation": "Strong moral and ethical structures. Traditional wisdom leading societal progress.",
+        "keywords": [
+          "strong",
+          "moral",
+          "ethical",
+          "structures"
+        ]
+      },
+      "four_of_wands": {
+        "interpretation": "Celebration of stable foundation. Collective achievement through unified effort.",
+        "keywords": [
+          "celebration",
+          "stable",
+          "foundation",
+          "collective"
+        ]
+      }
+    },
+    "challenges": {
+      "the_hanged_man": {
+        "interpretation": "Suspension of authority or challenge to control dynamics. Need for new perspective.",
+        "keywords": [
+          "suspension",
+          "authority",
+          "challenge",
+          "control"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Conflict between control and collaboration. Navigating power struggle wisely.",
+        "keywords": [
+          "conflict",
+          "control",
+          "collaboration",
+          "navigating"
+        ]
+      },
+      "the_tower": {
+        "interpretation": "Resistance to necessary change can provoke upheaval. Flexibility demanded.",
+        "keywords": [
+          "resistance",
+          "necessary",
+          "change",
+          "provoke"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_chariot": {
+        "interpretation": "Determined path forward, aligning strength and control for victory.",
+        "keywords": [
+          "determined",
+          "path",
+          "forward",
+          "aligning"
+        ]
+      },
+      "ten_of_pentacles": {
+        "interpretation": "Long-term legacy and material security reinforced by structured efforts.",
+        "keywords": [
+          "long",
+          "term",
+          "legacy",
+          "material"
+        ]
+      },
+      "justice": {
+        "interpretation": "Insight into fairness and justice within leadership roles. Balancing scales of authority.",
+        "keywords": [
+          "insight",
+          "fairness",
+          "justice",
+          "within"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hierophant": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_fool": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "the_magician": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_emperor": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hierophant": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  },
+  "description": {
+    "waite": "He has a form of the Crux ansata for his sceptre and a globe in his left hand. He is a crowned monarch--commanding, stately, seated on a throne, the arms of which axe fronted by rams' heads. He is executive and realization, the power of this world, here clothed with the highest of its natural attributes. He is occasionally represented as seated on a cubic stone, which, however, confuses some of the issues. He is the virile power, to which the Empress responds, and in this sense is he who seeks to remove the Veil of Isis; yet she remains virgo intacta.\nIt should be understood that this card and that of the Empress do not precisely represent the condition of married life, though this state is implied. On the surface, as I have indicated, they stand for mundane royalty, uplifted on the seats of the mighty; but above this there is the suggestion of another presence. They signify also--and the male figure especially--the higher kingship, occupying the intellectual throne. Hereof is the lordship of thought rather than of the animal world. Both personalities, after their own manner, are \"full of strange experience,\" but theirs is not consciously the wisdom which draws from a higher world. The Emperor has been described as (a) will in its embodied form, but this is only one of its applications, and (b) as an expression of virtualities contained in the Absolute Being--but this is fantasy.",
+    "tk_en": "The Emperor sits upon his throne in armor, ruling as a sovereign. He represents ambition, leadership, responsibility, and the power to stabilize a group.",
+    "tk_zh": "身披鎧甲、堂堂端坐於王座上的男性是一國之君。這張牌呈現野心、統率力、責任感，以及穩定社會團體的力量。"
+  },
+  "reading_aspects": {
+    "currentSituation": {
+      "upright": {
+        "en": "Your efforts are bearing fruit / maintaining the current state / something has been built / time of strong responsibility / your abilities are being recognized",
+        "zh": "努力的成績確實開花結果的狀態/維持現狀的運氣/建構起某些事物的狀態/有高度責任感的時候/實力獲得評價"
+      },
+      "reversed": {
+        "en": "Lack of follow-through / unstable fortune without direction / harsh reality blocking your path / losing sight of your goal / difficult to realize",
+        "zh": "後繼無力的狀況/不穩定且沒有目標的運氣/嚴峻的現實阻擋在面前/迷失目標而徬徨/難以實現"
+      }
+    },
+    "innerState": {
+      "upright": {
+        "en": "Strong conviction / pride in your accomplishments so far / wanting to fulfill your obligations / fearless confidence / wanting to lead / seeking independence",
+        "zh": "擁有堅定的自信/以至今為止的資歷為傲/想盡責任/充滿自信而無所畏懼/想立於頂端/想要獨立"
+      },
+      "reversed": {
+        "en": "Bluffing / believing yourself unbiased / too pragmatic to dream / wanting to overpower others / unwilling to yield your position",
+        "zh": "虛張聲勢/認為自己並沒有逞強/過於現實而沒有夢想/想靠力量制伏他人/不想把現在的地位讓給任何人"
+      }
+    },
+    "rootCause": {
+      "upright": {
+        "en": "Too rigid and without room for compromise / an immovable, demonic presence / already complete with no room to grow / strong responsibility that burdens too much / loneliness at the top",
+        "zh": "過於光明正大而毫無妥協空間/難以撼動的魔王般的存在/已臻完成而沒有發展空間/有強烈責任感，過度背負一切/立於頂點的孤獨"
+      },
+      "reversed": {
+        "en": "Spiritual instability / self-centered attitude / lack of courage / acting unilaterally with no followers / arrogance masking insecurity / refusing input",
+        "zh": "精神上不穩定/態度自私自利/沒有勇氣/獨斷獨行而無人跟隨/因為沒有自信而做出蠻橫行為/獨斷而不聽取他人意見"
+      }
+    },
+    "development": {
+      "upright": {
+        "en": "Building an unshakeable position / overwhelming others through ability / effective responses / emerging as a leader / ambition ignites / mental stability",
+        "zh": "建構起難以撼動的地位/憑實力令人甘拜下風/反應良好/成為領袖/燃起野心/精神上能游刃有餘"
+      },
+      "reversed": {
+        "en": "Unable to fully control the situation / losing composure / criticism of your inadequacy / being removed from position / territorial conflict / failure through irresponsibility",
+        "zh": "狀況難以徹底掌控/內心沒有餘裕/遭人指責實力不足/被趕下原本的地位/引發爭奪地盤的紛爭/沒責任感而失敗"
+      }
+    },
+    "advice": {
+      "upright": {
+        "en": "Always conduct yourself with integrity / face matters without shifting blame / stabilize the current situation first / perseverance is strength / protect what matters",
+        "zh": "總是擺出光明磊落的態度/不推諉塞責而確實面對/第一步要穩定現況/堅持下去就是力量/應該保護重要的人"
+      },
+      "reversed": {
+        "en": "Consider not only yourself but those around you / listening is important / be mindful of your tone / attend to the whole organization / use the power you have wisely",
+        "zh": "考慮自己之外，也要考慮周遭的事物/傾聽是很重要的/小心措辭直率過頭/關注組織整體/利用擁有的力量"
+      }
+    }
+  },
+  "contextual_meanings": {
+    "love": {
+      "upright": {
+        "en": "A serious partner with understanding / a relationship prompting marriage consideration / stable long-term dating / responsibility / a strong-willed person",
+        "zh": "具包容力的人/令人考慮結婚的認真對象/正確的婚姻/長時間交往/責任感/硬派"
+      },
+      "reversed": {
+        "en": "Selfishness / self-centeredness / hesitation about marriage / avoiding responsibility / instability due to indecision",
+        "zh": "自私自利/自我中心/對結婚感到猶豫/逃避責任/無法下定決心而不穩定的人"
+      }
+    },
+    "work": {
+      "upright": {
+        "en": "Reliable leadership / skill and competence / energetic management / efficient income generation / gaining both wealth and status",
+        "zh": "確實的領導能力/擇本領能幹/積極俐落地賺錢/同時獲得財富與地位"
+      },
+      "reversed": {
+        "en": "Lack of conviction / insufficient ability / tired of inconsistency / no one wants to follow / overly meticulous",
+        "zh": "覺悟不夠/實力不足/厭煩沒有一致性/沒有人願意追隨自己/過於斤斤計較"
+      }
+    },
+    "interpersonal": {
+      "upright": {
+        "en": "Trustworthy in character and finances / unchanging friendship / long-term connection / leader type",
+        "zh": "無論為人或財務上都值得信任的人/不變的友誼/長年往來/經營者類型"
+      },
+      "reversed": {
+        "en": "One-sided relationship / stubbornness / all appearance without substance / high-pressure approach / forceful, unreliable friend",
+        "zh": "單向的關係/倔強固執/虛有其表的人/高壓的態度/強硬的壞朋友"
+      }
+    },
+    "others": {
+      "upright": {
+        "en": "Strength / virility / grounded approach / fatherly nature / natural victory / something enduring / masculinity",
+        "zh": "強悍/有男子氣概/腳踏實地/父性/理所當然的勝利/一直存在的事物/男性化"
+      },
+      "reversed": {
+        "en": "On the verge of collapse / cannot hold on / fleeting enthusiasm / not first, but second or third",
+        "zh": "即將崩毀/撐不住/三分鐘熱度/並非第一，而是第二或第三"
+      }
+    }
+  }
+}
