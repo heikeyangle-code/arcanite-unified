@@ -1,0 +1,4 @@
+recursive-include arcanite/cards *.json
+recursive-include arcanite/spreads *.json
+recursive-include arcanite/prompts *.yaml
+recursive-include arcanite/templates *.typ

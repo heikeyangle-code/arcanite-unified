@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: arcanite-unified
+Version: 0.3.0
+Summary: Unified tarot engine: arcanite + Waite original + TarotKit bilingual
+License: MIT
+Requires-Python: >=3.10
+Requires-Dist: pydantic>=2.0
+Requires-Dist: jinja2
+Requires-Dist: pyyaml
