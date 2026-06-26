@@ -127,6 +127,11 @@ class SpreadPosition(BaseModel):
     keywords: List[str] = Field(default_factory=list)
     rag_mapping: str  # e.g., "temporal_positions.past"
     question_adaptations: dict[str, str] = Field(default_factory=dict)
+    index: Optional[int] = None
+    key: Optional[str] = None
+    is_significator: bool = False
+    mirror_target: Optional[int] = None
+    role: Optional[str] = None
 
 
 class SpreadLayout(BaseModel):

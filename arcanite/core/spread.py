@@ -93,6 +93,10 @@ class SpreadRegistry:
                         keywords=pos_data.get("keywords", []),
                         rag_mapping=pos_data.get("rag_mapping", "temporal_positions.present"),
                         question_adaptations=pos_data.get("question_adaptations", {}),
+                        index=pos_data.get("index"),
+                        key=pos_data.get("key"),
+                        is_significator=pos_data.get("is_significator", False),
+                        mirror_target=pos_data.get("mirror_target"),
                     )
                 )
 
