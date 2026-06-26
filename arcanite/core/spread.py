@@ -174,14 +174,14 @@ class SpreadRegistry:
 
 
 # Module-level registries keyed by system
-_registries: dict[str, "SpreadRegistry"] = {}
+_registries: dict[str, SpreadRegistry] = {}
 
 
 def get_spread_registry(
     config_path: Path | str | None = None,
     reload: bool = False,
     system: str = "tarot",
-) -> "SpreadRegistry":
+) -> SpreadRegistry:
     """
     Get the default spread registry (one per system).
 
