@@ -1,0 +1,788 @@
+{
+  "card_id": "the_world",
+  "card_name": "The World",
+  "card_number": 21,
+  "suit": "major_arcana",
+  "archetype": "the_completor",
+  "core_meanings": {
+    "upright": {
+      "essence": "Full circle completion and integration. The culmination of a journey and harmony between the inner and outer worlds.",
+      "keywords": [
+        "completion",
+        "integration",
+        "wholeness",
+        "achievement",
+        "fulfillment",
+        "celebration",
+        "cosmic unity"
+      ],
+      "psychological": "Represents the unity within self, where disparate parts come together to create a harmonious whole.",
+      "spiritual": "The soul's mastery over the material realm, symbolizing the unity of spirit and matter in divine harmony.",
+      "practical": "Acknowledgment of achieved goals and the attainment of milestones. Completion of cycles, bringing new beginnings.",
+      "shadow": "Complacency with what is, resistance to new cycles, or the illusion of false completion.",
+      "waite_meaning": "Assured success, recompense, voyage, route, emigration, flight, change of place.",
+      "tk_meaning_en": "Achieving your goal and gaining satisfaction / savoring joy before the next stage",
+      "tk_meaning_zh": "達成目標而獲得滿足/在下一階段前品嚐喜悅",
+      "tk_coreKeyword_en": "Completion",
+      "tk_coreKeyword_zh": "完成"
+    },
+    "reversed": {
+      "essence": "Incompletion or lack of closure. A pause before fulfillment, or resisting the close of an essential cycle.",
+      "keywords": [
+        "delay",
+        "unfinished business",
+        "stagnation",
+        "incompletion",
+        "resistance",
+        "loose ends"
+      ],
+      "psychological": "Feeling trapped in unfinished cycles, unable to bring efforts to fruition due to self-doubt or fear of change.",
+      "spiritual": "The challenge of integrating spiritual insight into daily life, resisting the call to evolve and expand.",
+      "practical": "Closure in essential matters is elusive; more work is needed to achieve true fulfillment.",
+      "shadow": "Clinging to past achievements, fearing new beginnings, or denying the need for change.",
+      "waite_meaning": "Inertia, fixity, stagnation, permanence.",
+      "tk_meaning_en": "Withdrawing because results are unsatisfying / completion falls short of expectation",
+      "tk_meaning_zh": "因不滿意的結果而撤退/雖有完成度卻不如預期"
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Former achievements and a sense of fulfillment have laid a stable foundation for present growth and expansion.",
+        "reversed": "Past unfinished business or lack of closure continues to influence your current situation, seeking resolution.",
+        "keywords": [
+          "past fulfillment",
+          "foundation",
+          "incomplete past",
+          "unfinished matters"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a key completion provided wisdom that informs life's current wholeness and harmony.",
+        "reversed": "Lingering energy from distant unfinished projects or unresolved issues still affects your life's patterns.",
+        "keywords": [
+          "ancient wisdom",
+          "far-off closure",
+          "lingering unfinished"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent successes and joyful completions have propelled you into your current phase of achievement.",
+        "reversed": "In the recent past, a lack of closure in a critical area has delayed progress or bred stagnation.",
+        "keywords": [
+          "recent success",
+          "achievement",
+          "recent stagnation",
+          "unresolved issues"
+        ]
+      },
+      "present": {
+        "upright": "You stand at the center of harmony and fulfillment; experience the joy of full integration and unity.",
+        "reversed": "Current inertia arises from resistance to closure or evolution. Embrace change and release the old.",
+        "keywords": [
+          "centered unity",
+          "dynamic completion",
+          "present inertia",
+          "embracing change"
+        ]
+      },
+      "present_situation": {
+        "upright": "The core of your current experience involves achieving a significant milestone, leading to deeper insight.",
+        "reversed": "At your core, you are struggling with unfinished tasks or resisting the resolution necessary for growth.",
+        "keywords": [
+          "milestone",
+          "insight",
+          "core resistance",
+          "unresolved tasks"
+        ]
+      },
+      "future": {
+        "upright": "A journey of completion awaits you, promising fulfillment and the harmonious end of a significant cycle.",
+        "reversed": "Unfinished cycles will continue unless addressed; anticipate delays or the need to revisit certain paths.",
+        "keywords": [
+          "upcoming completion",
+          "future fulfillment",
+          "prolonged journey",
+          "need to address"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, you will experience a profound sense of accomplishment and integration. Be ready to celebrate.",
+        "reversed": "Expect setbacks due to unresolved issues that need confronting before progress can resume.",
+        "keywords": [
+          "immediate accomplishment",
+          "upcoming celebration",
+          "setbacks",
+          "confrontation"
+        ]
+      },
+      "distant_future": {
+        "upright": "Eventually, life's lessons will culminate in a grand completion and an evolved understanding of self.",
+        "reversed": "Long-term avoidance of closure could lead to ongoing cycles of stagnation and missed growth potential.",
+        "keywords": [
+          "evolution",
+          "grand completion",
+          "long-term stagnation",
+          "missed growth"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to fully integrate experiences into holistic wisdom. Embrace closure for new beginnings.",
+        "reversed": "The challenge lies in addressing resistance or fear, facing the discomfort of endings to move forward.",
+        "keywords": [
+          "integration",
+          "embracing closure",
+          "resistance",
+          "fear of endings"
+        ]
+      },
+      "cross": {
+        "upright": "External expectations may conflict with your sense of wholeness. Assert your completion, resist external pulls.",
+        "reversed": "Internal fear and self-doubt are crossing your path toward completion, creating unnecessary delays.",
+        "keywords": [
+          "conflict",
+          "external resistance",
+          "internal doubt",
+          "delay"
+        ]
+      },
+      "obstacle": {
+        "upright": "A false sense of finished business might obstruct true growth. Dive deeper, seek genuine fulfillment.",
+        "reversed": "Avoidance of necessary closure or deliberate ignorance of unfinished matters creates barriers.",
+        "keywords": [
+          "false completion",
+          "deeper seeking",
+          "avoidance",
+          "ignorance"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson is learning to celebrate accomplishments without resting on them. Progress is always just beginning.",
+        "reversed": "Learn to identify what truly needs closure; not all resolutions are permanent or immediate.",
+        "keywords": [
+          "celebration",
+          "continuous progress",
+          "necessary closure",
+          "impermanent solutions"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow urges you to recognize where ego interferes with genuine fulfillment. Embrace humility.",
+        "reversed": "Hidden fears of incompletion or inadequacy may sabotage your pursuit of wholeness.",
+        "keywords": [
+          "ego",
+          "humility",
+          "hidden fears",
+          "self-sabotage"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Contentment with current achievements may hinder progress if they lead to complacency and ignore new journeys.",
+        "reversed": "Lingering doubts and unresolved issues obstruct the flow of necessary completion.",
+        "keywords": [
+          "complacency",
+          "new journeys",
+          "lingering doubts",
+          "obstruction"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Celebrate your achievements; embrace this completion as a new beginning. Reflect on your journey's lessons.",
+        "reversed": "Seek closure through deliberate reflection and committed action. Recognize the need for change.",
+        "keywords": [
+          "celebrate",
+          "new beginnings",
+          "reflect",
+          "commit to change"
+        ]
+      },
+      "action": {
+        "upright": "Complete your tasks with grace, mindfully acknowledging both victories and lessons learned.",
+        "reversed": "Focus on resolving loose ends. Bring clarity to what holds you back from concluding cycles.",
+        "keywords": [
+          "tasks completion",
+          "acknowledgment",
+          "loose ends",
+          "clarity"
+        ]
+      },
+      "your_approach": {
+        "upright": "You approach life as a harmonizer, one who sees the beauty in completion and the balance of cycles.",
+        "reversed": "You may see yourself as a finisher, yet avoid crucial endings, trapping you in stagnation.",
+        "keywords": [
+          "harmonizer",
+          "beauty in balance",
+          "avoider",
+          "stagnation trapping"
+        ]
+      },
+      "what_helps": {
+        "upright": "Supportive energies will celebrate your achievements and help align your vision towards new horizons.",
+        "reversed": "Seeking guidance from mentors or allies helps clarify what needs to be resolved.",
+        "keywords": [
+          "supportive celebration",
+          "alignment",
+          "mentorship",
+          "resolution clarity"
+        ]
+      },
+      "guidance": {
+        "upright": "The universe encourages you to trust in the cycles of life. Completion is a sacred rite of passage.",
+        "reversed": "The journey's lesson is clear; evolve or remain entangled. Trust the necessity of endings.",
+        "keywords": [
+          "universal trust",
+          "sacred completion",
+          "evolution",
+          "necessary endings"
+        ]
+      },
+      "best_course": {
+        "upright": "Embrace the full cycle and recognize that each end heralds a new dawn. Trust the journey's wisdom.",
+        "reversed": "Identify what remains unfinished, and dedicate time to closure for future progress.",
+        "keywords": [
+          "cycle embrace",
+          "new dawn",
+          "closure dedication",
+          "future progress"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for fulfillment and unity, fearing stagnation and the inability to move beyond achievements.",
+        "reversed": "Fear of change or incomplete endings may paralyze; hope lies in faith for eventual resolution.",
+        "keywords": [
+          "fulfillment hope",
+          "stagnation fear",
+          "change fear",
+          "resolution hope"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to manifest your complete potential, celebrating the peace that comes with full integration.",
+        "reversed": "Hope may be hampered by doubt, yet yearns for the culmination of unfinished dreams.",
+        "keywords": [
+          "complete potential",
+          "peaceful integration",
+          "hindered hope",
+          "unfinished dreams"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of completion leading to complacency. Strive to honor the journey and avoid past traps.",
+        "reversed": "Fear of not finishing what has been started can hinder creativity and progress.",
+        "keywords": [
+          "completion fear",
+          "complacency",
+          "unfinished fear",
+          "hindered progress"
+        ]
+      },
+      "subconscious": {
+        "upright": "Deep within, there is a quest for unity and harmony, a longing for the dance of cycles to be complete.",
+        "reversed": "Subconscious blocks may involve resistance to change or fear of confronting unresolved matters.",
+        "keywords": [
+          "unity quest",
+          "cycle harmony",
+          "resistance",
+          "subconscious blocks"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you understand the power of completion and seek to weave it into your ongoing narrative.",
+        "reversed": "You may be consciously aware of delays or resistance but struggle to bring them to resolution.",
+        "keywords": [
+          "completion power",
+          "narrative weaving",
+          "conscious delays",
+          "resolution struggle"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel balanced, integrated, and ready for new adventures embarked upon with mindful fulfillment.",
+        "reversed": "Emotions may be caught between excitement for new beginnings and a reluctance to let go of the past.",
+        "keywords": [
+          "integration",
+          "mindful fulfillment",
+          "excitement",
+          "reluctance"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs for wholeness and the blissful harmony of closing cycles and starting anew.",
+        "reversed": "The heart's wisdom urges honesty about what's unresolved; acceptance leads to newfound freedom.",
+        "keywords": [
+          "wholeness longing",
+          "harmony",
+          "heart wisdom",
+          "newfound freedom"
+        ]
+      },
+      "mind": {
+        "upright": "Your mind perceives the beauty of completion as an integral part of life's ongoing journey.",
+        "reversed": "Mental resistance to endings creates unnecessary loops; clarity brings liberation.",
+        "keywords": [
+          "completion beauty",
+          "ongoing journey",
+          "mental resistance",
+          "liberation"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "External forces align with you, celebrating your achievements while encouraging further growth.",
+        "reversed": "External pressures might push you to prematurely conclude matters, creating unnecessary tension.",
+        "keywords": [
+          "aligned support",
+          "celebration",
+          "external pressures",
+          "premature conclusion"
+        ]
+      },
+      "others": {
+        "upright": "Others admire your achievements and see you as a model of completeness and balance.",
+        "reversed": "People may misunderstand your pause and see it as stagnation rather than intentional resilience.",
+        "keywords": [
+          "admiration",
+          "model of balance",
+          "misunderstanding",
+          "intentional resilience"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment supports closure; elements work together in harmony facilitating your journey.",
+        "reversed": "Environmental chaos might stall progress; focus on controlling internal clarity.",
+        "keywords": [
+          "supportive environment",
+          "harmonious elements",
+          "environmental chaos",
+          "internal clarity"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others see you as embodying success and accomplishment, a beacon of fulfilled potential.",
+        "reversed": "There may be a perception of unachieved potential or the struggle to complete ongoing efforts.",
+        "keywords": [
+          "success embodiment",
+          "fulfilled potential",
+          "unachieved perception",
+          "struggle"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Subtle synchronous forces are guiding you toward harmonious completeness, unseen yet impactful.",
+        "reversed": "Hidden factors include unresolved energies or dormant issues waiting for attention.",
+        "keywords": [
+          "synchronous guidance",
+          "harmonious support",
+          "unresolved energies",
+          "dormant issues"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success at integrating life lessons, leading to new beginnings that honor achievements. Celebrate your journey.",
+        "reversed": "Ongoing tension due to unresolved issues. Achieving completion requires tackling what has been left behind.",
+        "keywords": [
+          "integrated success",
+          "new beginnings",
+          "ongoing tension",
+          "necessary resolution"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimate harmony and fulfillment will be yours, ushering in a new cycle of possibilities and growth.",
+        "reversed": "The final outcome could involve learning hard lessons about ignoring incompletions, demanding integration.",
+        "keywords": [
+          "ultimate harmony",
+          "cycle of possibilities",
+          "hard lessons",
+          "demanded integration"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Likely you will gain recognition for your achievements, opening doors to expanded opportunities.",
+        "reversed": "An outcome where potential remains unfulfilled unless conscious efforts are made to complete cycles.",
+        "keywords": [
+          "recognition",
+          "expanded opportunities",
+          "unfulfilled potential",
+          "conscious effort"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case involves a seamless transition into new phases, with the universe supporting your path and growth.",
+        "reversed": "The best-case requires acknowledging what remains incomplete to prevent future hindrances.",
+        "keywords": [
+          "seamless transition",
+          "universal support",
+          "acknowledgment",
+          "future prevention"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case entails complacency preventing further growth, stalled in comfort without reaching full potential.",
+        "reversed": "Without addressing loose ends, the worst involves stagnant cycles, missed opportunities, and regret.",
+        "keywords": [
+          "complacency",
+          "potential stall",
+          "stagnant cycles",
+          "missed opportunities"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship represents the completion of a significant journey together. Between you exists a dynamic of fulfillment, achievement, and celebration of what you've built together. This connection brings a sense of wholeness and successful integration.",
+        "reversed": "The connection may feel incomplete or lacking in achievement. Goals may remain unfinished or success may feel hollow. The relationship could involve frustration with incomplete cycles or inability to celebrate what you've accomplished together.",
+        "keywords": [
+          "completion",
+          "achievement",
+          "integration",
+          "fulfillment"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Culmination of a loving relationship is within reach; embrace the joy of shared completeness.",
+      "reversed": "Incomplete emotions or past hurts need resolution to evolve love into true partnership.",
+      "keywords": [
+        "relationship culmination",
+        "shared completeness",
+        "emotional resolution",
+        "true partnership"
+      ]
+    },
+    "career": {
+      "upright": "Career achievements are celebrated, signaling the completion of key projects and new opportunities.",
+      "reversed": "Projects may delay; focus energies on resolving unfinished tasks for future progress.",
+      "keywords": [
+        "career achievements",
+        "project completion",
+        "task delay",
+        "future progress"
+      ]
+    },
+    "spiritual": {
+      "upright": "Experience spiritual enlightenment as all paths converge into one integrative awareness.",
+      "reversed": "Spiritual progress halted by resistance; embrace change to find harmony.",
+      "keywords": [
+        "spiritual enlightenment",
+        "integrative awareness",
+        "resistance",
+        "harmony"
+      ]
+    },
+    "financial": {
+      "upright": "Financial goals are within reach, leading to new insights into abundance and security.",
+      "reversed": "Financial opportunities stall due to unresolved issues; clarity and completion needed.",
+      "keywords": [
+        "financial goals",
+        "abundance",
+        "opportunity stall",
+        "completion needed"
+      ]
+    },
+    "health": {
+      "upright": "The completion of a health journey brings balance and vitality; celebrate your dedication.",
+      "reversed": "Health progress may suffer from loose ends; ensure a holistic approach to wellness.",
+      "keywords": [
+        "health completion",
+        "balance",
+        "wellness approach",
+        "holistic"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "saturn",
+    "hebrew_letter": "tau",
+    "numerology": 21,
+    "planet": "saturn",
+    "season": "winter",
+    "time_of_day": "midnight",
+    "colors": [
+      "green",
+      "white",
+      "indigo"
+    ],
+    "crystals": [
+      "amethyst",
+      "emerald",
+      "lapis lazuli"
+    ],
+    "herbs": [
+      "sage",
+      "bay leaf",
+      "vetiver"
+    ]
+  },
+  "symbols": {
+    "laurel_wreath": "victory and accomplishment",
+    "four_corners": "elements and directions, universal harmony",
+    "dancing_figure": "freedom and celebration",
+    "infinity_loop": "endless cycles and divine connection",
+    "animals": "integration of mind, spirit, strength, and emotion"
+  },
+  "affirmations": [
+    "I celebrate the beauty of my journey and embrace the new cycle unfolding.",
+    "I integrate my experiences into wisdom, welcoming completion with grace.",
+    "I have the strength to confront what remains unfinished and cultivate harmony.",
+    "In every ending, I find the seeds of new beginnings."
+  ],
+  "journaling_prompts": [
+    "What cycle in my life is seeking completion now?",
+    "How can I honor my journey and celebrate achievements?",
+    "Where might I be resisting closure, and why?",
+    "What will a sense of true fulfillment offer me?"
+  ],
+  "meditation_focus": "Visualize the dance of completion and new beginnings, feeling the harmony of cycles within and without.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:33:34.326529",
+    "card_info": {
+      "name": "The World",
+      "number": 21,
+      "suit": "major_arcana"
+    },
+    "filename": "m21.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_wheel_of_fortune": {
+        "interpretation": "Cycles complete with assurance. Good fortune aligns outcomes harmoniously.",
+        "keywords": [
+          "cycles",
+          "complete",
+          "assurance",
+          "good"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "Illumination and joy accentuate fulfillment, framing success in vivid light.",
+        "keywords": [
+          "illumination",
+          "accentuate",
+          "fulfillment",
+          "framing"
+        ]
+      },
+      "ten_of_cups": {
+        "interpretation": "Emotional and spiritual wholeness blossoms into contentment and bliss.",
+        "keywords": [
+          "emotional",
+          "spiritual",
+          "wholeness",
+          "blossoms"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Disruptions challenge completeness; growth lies in rebuilding on stable ground.",
+        "keywords": [
+          "disruptions",
+          "challenge",
+          "completeness",
+          "growth"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Illusions and distractions obscure the path to true completion; reality must be embraced.",
+        "keywords": [
+          "illusions",
+          "distractions",
+          "obscure",
+          "path"
+        ]
+      },
+      "five_of_pentacles": {
+        "interpretation": "Material or emotional hardships test your sense of fulfillment and completion.",
+        "keywords": [
+          "material",
+          "emotional",
+          "hardships",
+          "test"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_moon": {
+        "interpretation": "Intuitive insight helps clarify the mysteries of completion and new cycles.",
+        "keywords": [
+          "intuitive",
+          "insight",
+          "helps",
+          "clarify"
+        ]
+      },
+      "eight_of_pentacles": {
+        "interpretation": "Commitment and diligence shed light on what is necessary for skillful completion.",
+        "keywords": [
+          "commitment",
+          "diligence",
+          "shed",
+          "light"
+        ]
+      },
+      "justice": {
+        "interpretation": "Balance and fairness clarify the path to rightful completion and resolution.",
+        "keywords": [
+          "balance",
+          "fairness",
+          "clarify",
+          "path"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_wheel_of_fortune": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_four_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_two_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  },
+  "description": {
+    "waite": "As this final message of the Major Trumps is unchanged--and indeed unchangeable--in respect of its design, it has been partly described already regarding its deeper sense. It represents also the perfection and end of the Cosmos, the secret which is within it, the rapture of the universe when it understands itself in God. It is further the state of the soul in the consciousness of Divine Vision, reflected from the self-knowing spirit. But these meanings are without prejudice to that which I have said concerning it on the material side.\nIt has more than one message on the macrocosmic side and is, for example, the state of the restored world when the law of manifestation shall have been carried to the highest degree of natural perfection. But it is perhaps more especially a story of the past, referring to that day when all was declared to be good, when the morning stars sang together and all the Sons of God shouted for joy. One of the worst explanations concerning it is that the figure symbolizes the Magus when he has reached the highest degree of initiation; another account says that it represents the absolute, which is ridiculous. The figure has been said to stand for Truth, which is, however, more properly allocated to the seventeenth card. Lastly, it has been called the Crown of the Magi.",
+    "tk_en": "A dancer within a wreath holds wands and is surrounded by the four elemental beings. This card shows a completed world after a long journey.",
+    "tk_zh": "花環中央的舞者手持權杖，四角有對應四大元素的聖獸。這張牌顯示一切獲得滿足，象徵歷經漫長時光後的完成。"
+  },
+  "reading_aspects": {
+    "currentSituation": {
+      "upright": {
+        "en": "Excellent luck / satisfied with yourself so far / enviable happiness / problem reaches its final stage / best possible outcome",
+        "zh": "運氣絕佳/對至今為止的自己感到滿意/獲得令人羨慕的幸福/問題來到最後階段/得到最棒結果的時候"
+      },
+      "reversed": {
+        "en": "Sluggish state / not yet achieving satisfying results / neither good nor bad, incomplete performance / unable to meet expectations / unfinished",
+        "zh": "萎靡狀態/還不到能獲得滿意結果的階段/不好也不壞的不完全燃燒狀態/沒能回應周遭期待/維持未完成狀態"
+      }
+    },
+    "innerState": {
+      "upright": {
+        "en": "Absorbed in one thing / undivided focus without distraction / satisfaction of complete engagement / everything exists for this / utmost self-affirmation",
+        "zh": "熱衷於一件事/毫無雜念的高度專注狀態/獲得完全燃燒的滿足感/認為一切都是為此而存在/最棒的自我肯定感"
+      },
+      "reversed": {
+        "en": "Too concerned with others' perception to show ability / regret over not giving your all / wrong approach leads to failure / half-finished ending / losing drive",
+        "zh": "一味在意周遭視線而無法發揮實力/沒使出全力而懊悔/應對方式錯誤導致功敗垂成/結束方式半吊子而不完全燃燒/失去幹勁"
+      }
+    },
+    "rootCause": {
+      "upright": {
+        "en": "Only staring ahead and responding with focus / unable to see surroundings / overdoing / narcissistic attitude / self-satisfaction not understood",
+        "zh": "只緊盯前方專心應對而看不見周遭/做過頭/自戀的態度/自我滿足而得不到理解"
+      },
+      "reversed": {
+        "en": "No perseverance / wanting to quit at critical moments / leaving important issues until later / lacking power to carry through / no clear vision",
+        "zh": "沒有毅力，關鍵時刻試圖放棄/把重要問題留到後面/欠缺貫徹到底的力量/欠缺願景"
+      }
+    },
+    "development": {
+      "upright": {
+        "en": "Best happy ending / long-held wish fulfilled / final results of everything to date / dreams realized / supreme happiness and satisfaction",
+        "zh": "最棒的快樂結局/夙願以償/至今所做的一切最後結果出爐/實現夢想/獲得至高無上的幸福滿足感"
+      },
+      "reversed": {
+        "en": "Result far below target / ending in disappointment / stopping halfway and evading / dreams end as fantasy / enough is enough attitude / harm from pretending",
+        "zh": "得到遠低於目標的結果/以不滿意告終/點到為止並閃躲/夢想以空想告終/覺得夠了而敷衍了事/偽裝造成弊病"
+      }
+    },
+    "advice": {
+      "upright": {
+        "en": "Move at your own pace to the very end / believe in those who support you / share your joy with others / the challenge itself has meaning",
+        "zh": "直到最後都按照自己的步調前進即可/相信支持自己的人/與周遭分享喜悅/認為挑戰這件事本身就有意義"
+      },
+      "reversed": {
+        "en": "For big goals, complete small things one by one / filter out external noise / confirm your purpose / do not escape / run fully to the finish",
+        "zh": "面對大目標時，先將小事一件件完成/排除局外人的雜音/確認自己的使命/切勿逃避/全力奔跑到最後一刻"
+      }
+    }
+  },
+  "contextual_meanings": {
+    "love": {
+      "upright": {
+        "en": "Mutual love / romance bears fruit / respect and trust / happy marriage / blessed relationship",
+        "zh": "兩情相悅/戀情有結果/尊敬與信任對方/幸福的婚姻/受祝福的關係"
+      },
+      "reversed": {
+        "en": "Love taken for granted / no future seen / losing gratitude / romance that won't progress to marriage",
+        "zh": "被視為理所當然的戀愛/關係看不見未來/失去感恩之情/不會進展到婚姻的關係"
+      }
+    },
+    "work": {
+      "upright": {
+        "en": "Vocation / smooth progress / achievement regardless of result / no regrets after completion / wanting to change direction",
+        "zh": "天職/順利進行/與結果無關的成就感/貫徹到底後毫無遺憾/想更換跑道"
+      },
+      "reversed": {
+        "en": "Uncertain future / satisfied before reaching goal / arrogance / changing jobs to escape reality",
+        "zh": "前途堪憂/達成目標前就已滿足/驕傲/為逃避現實而換工作"
+      }
+    },
+    "interpersonal": {
+      "upright": {
+        "en": "Long-established friendship / nostalgic person or topic / popularity / someone who creates belonging / good companion",
+        "zh": "老交情/令人懷念的人物或話題/人望/能創造自己容身之處的人/好夥伴"
+      },
+      "reversed": {
+        "en": "No expectation for further development / no strong impression either way / distance / limits",
+        "zh": "不期望關係進一步發展/無論好壞都沒有留下印象的人物/疏遠/極限"
+      }
+    },
+    "others": {
+      "upright": {
+        "en": "Victory / joy / your own worldview / care from supporters / enlightenment / understanding everything",
+        "zh": "勝利/喜悅/只屬於自己的世界觀/受到支持者關照/開悟/理解一切"
+      },
+      "reversed": {
+        "en": "Whatever attitude / cannot fulfill your role / abilities not fully shown / self-satisfaction / maintaining the status quo",
+        "zh": "怎樣都好/無法發揮自己的作用/沒有充分展現的能力/自我滿足/維持現狀"
+      }
+    }
+  }
+}

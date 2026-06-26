@@ -1,0 +1,789 @@
+{
+  "card_id": "death",
+  "card_name": "Death",
+  "card_number": 13,
+  "suit": "major_arcana",
+  "archetype": "the_transformer",
+  "core_meanings": {
+    "upright": {
+      "essence": "Profound transformation and inevitable change. The end of one phase heralding the beginning of another, driven by the cycle of life.",
+      "keywords": [
+        "transformation",
+        "endings",
+        "rebirth",
+        "change",
+        "transition",
+        "renewal",
+        "metamorphosis"
+      ],
+      "psychological": "The psyche releasing outdated habits and beliefs to make room for growth. Embracing transformation as a necessary part of personal evolution.",
+      "spiritual": "Acknowledging the eternal cycle of life, death, and rebirth. Understanding change as a sacred process of renewal and embracing new spiritual insights.",
+      "practical": "Prepare to let go of situations or relationships that no longer serve you. Embrace the new opportunities that arise from releasing the old.",
+      "shadow": "Resistance to change, fear of loss or the unknown, and clinging to the past. Difficulty accepting the natural flow of life.",
+      "waite_meaning": "End, mortality, destruction, corruption also, for a man, the loss of a benefactor for a woman, many contrarieties; for a maid, failure of marriage projects.",
+      "tk_meaning_en": "Moving to a new stage / accepting an ending and embracing new beginnings",
+      "tk_meaning_zh": "前往新的階段/接受終結並迎向新生",
+      "tk_coreKeyword_en": "Fixed fate",
+      "tk_coreKeyword_zh": "定數"
+    },
+    "reversed": {
+      "essence": "Stagnation and refusal to accept change. Clinging to the past, preventing growth and transformation.",
+      "keywords": [
+        "resistance",
+        "stagnation",
+        "fear of change",
+        "prolonged endings",
+        "stuck",
+        "denial"
+      ],
+      "psychological": "Either paralyzed by fear of change or stuck in outdated patterns, limiting your growth and fulfillment.",
+      "spiritual": "Disconnection from the natural cycles of life, leading to a sense of spiritual stagnation or loss of purpose.",
+      "practical": "Review where you're resisting necessary endings. Embrace change to move forward and avoid prolonged stagnation.",
+      "shadow": "Unyielding attachment to what is familiar, leading to prolonged suffering and missed opportunities for renewal.",
+      "waite_meaning": "Inertia, sleep, lethargy, petrifaction, somnambulism; hope destroyed.",
+      "tk_meaning_en": "Bound by the past and unable to progress / clinging to the current state prolongs suffering",
+      "tk_meaning_zh": "受到過去束縛而無法前進/戀棧現狀使痛苦延長"
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A significant ending in your past set the stage for a profound transformation. Old chapters closed, creating space for new beginnings.",
+        "reversed": "Clinging to past situations, preventing transformation. Fear of letting go has resulted in lingering attachments.",
+        "keywords": [
+          "past ending",
+          "foundational change",
+          "closed chapter",
+          "lingering attachment"
+        ]
+      },
+      "distant_past": {
+        "upright": "An ancient cycle of transformation instilled in your soul a profound understanding of life's impermanence and renewal.",
+        "reversed": "Early life experiences led to a resistance to change, establishing patterns of fear and stagnation.",
+        "keywords": [
+          "ancient cycles",
+          "impermanence",
+          "early resistance",
+          "patterns of stagnation"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent changes have transitioned you into a new phase, requiring adaptation and acceptance of the new.",
+        "reversed": "Recent refusal to let go has kept you stuck in circumstances that no longer serve your growth.",
+        "keywords": [
+          "recent change",
+          "new phase",
+          "recent refusal",
+          "stuck circumstances"
+        ]
+      },
+      "present": {
+        "upright": "You stand at the cusp of a transformative change. Embrace the shift, knowing it leads to renewal and growth.",
+        "reversed": "Stuck in present circumstances due to resistance to change. Acknowledge fear and allow transformation.",
+        "keywords": [
+          "current transformation",
+          "embrace shift",
+          "stuck now",
+          "fear acknowledgment"
+        ]
+      },
+      "present_situation": {
+        "upright": "Core experience involves accepting the end of a major phase, opening up to transformative potential.",
+        "reversed": "At the core, you're resisting letting go, causing stagnation and potential loss of growth opportunities.",
+        "keywords": [
+          "core ending",
+          "transformative potential",
+          "resistance",
+          "stagnation core"
+        ]
+      },
+      "future": {
+        "upright": "Prepare for significant changes that will require adaptation. These endings will open doors to new vistas.",
+        "reversed": "Future opportunities may be blocked by continued resistance to change and clinging to outdated ways.",
+        "keywords": [
+          "upcoming change",
+          "new vistas",
+          "blocked opportunities",
+          "outdated clinging"
+        ]
+      },
+      "near_future": {
+        "upright": "Transformation is soon to come, requiring you to relinquish old attachments and welcome fresh starts.",
+        "reversed": "In the immediate future, refusal to adapt will exacerbate feelings of being held back or trapped.",
+        "keywords": [
+          "imminent transformation",
+          "relinquished attachments",
+          "refusal consequences",
+          "trapped feeling"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, cycles of transformation will lead you to deeper wisdom and renewal. Embrace each ending as a divine rebirth.",
+        "reversed": "Continued resistance will result in missed transformative growth, trapping you in a cycle of unfulfillment.",
+        "keywords": [
+          "ultimate wisdom",
+          "divine rebirth",
+          "missed growth",
+          "unfulfillment cycle"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Challenge lies in releasing attachments and embracing the unknown. Trust the process of transformation.",
+        "reversed": "The challenge is overcoming resistance to change and allowing endings to facilitate growth.",
+        "keywords": [
+          "release attachments",
+          "embrace unknown",
+          "overcome resistance",
+          "growth facilitation"
+        ]
+      },
+      "cross": {
+        "upright": "Societal or external expectations colliding with your need for change and growth, creating inner conflict.",
+        "reversed": "Your internal fears cross your path to growth, preventing the release of outdated situations.",
+        "keywords": [
+          "external expectations",
+          "change conflict",
+          "internal fears",
+          "growth barriers"
+        ]
+      },
+      "obstacle": {
+        "upright": "Fear of change and loss create barriers. These must be dismantled to allow for meaningful transitions.",
+        "reversed": "Obstacles arise from denying the inevitable. Avoidance only prolongs stagnation and dissatisfaction.",
+        "keywords": [
+          "fear barrier",
+          "meaningful transition",
+          "denial obstacles",
+          "avoiding stagnation"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn that endings are natural gateways to new beginnings. Embrace transformation as essential for growth.",
+        "reversed": "The lesson is to recognize where resistance hinders your evolution and find courage to move forward.",
+        "keywords": [
+          "natural gateways",
+          "growth essential",
+          "resistance recognition",
+          "forward courage"
+        ]
+      },
+      "shadow": {
+        "upright": "In the shadow lies the fear of the unknown. Integrate this fear to harness transformative power.",
+        "reversed": "Hidden rigidity and fear of change prevent transformation. Shadow work invites conscious growth.",
+        "keywords": [
+          "fear of unknown",
+          "transformative power",
+          "hidden rigidity",
+          "conscious growth"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Reluctance to let go of the familiar hinders change. Letting go allows for renewal and new beginnings.",
+        "reversed": "Self-imposed limitations rooted in fear block transformation. Embrace the potential for change.",
+        "keywords": [
+          "familiar reluctance",
+          "renewal opportunity",
+          "self-limitations",
+          "change embrace"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Accept and embrace the inevitable change. Allow old forms to pass, making space for renewal and growth.",
+        "reversed": "Confront where you're resisting change. Embrace the potential for transformation by letting go.",
+        "keywords": [
+          "accept change",
+          "embrace inevitable",
+          "confront resistance",
+          "transformation potential"
+        ]
+      },
+      "action": {
+        "upright": "Take steps to release what's no longer serving you. Make room for new energies and opportunities.",
+        "reversed": "Identify areas of life where you're stuck. Act consciously to release resistance and foster growth.",
+        "keywords": [
+          "release steps",
+          "new space",
+          "identify stuck areas",
+          "conscious release"
+        ]
+      },
+      "your_approach": {
+        "upright": "You view life as a series of transformations, embracing change with grace and understanding.",
+        "reversed": "You may see yourself as adaptable, but hidden fears may reveal resistance to true transformation.",
+        "keywords": [
+          "transformation view",
+          "graceful change",
+          "resistance revelation",
+          "hidden fears"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your acceptance of change and resilience in the face of endings aids in navigating life's transformations.",
+        "reversed": "Support comes from seeking guidance that encourages letting go and embracing the cycle of renewal.",
+        "keywords": [
+          "acceptance resilience",
+          "change navigation",
+          "support guidance",
+          "renewal cycle"
+        ]
+      },
+      "guidance": {
+        "upright": "Divine wisdom encourages seeing endings as sacred beginnings. Trust in the cycles of life for growth.",
+        "reversed": "Spiritual guidance calls for surrendering control, trusting in universal wisdom for transformation.",
+        "keywords": [
+          "sacred beginnings",
+          "cycle trust",
+          "control surrender",
+          "universal wisdom"
+        ]
+      },
+      "best_course": {
+        "upright": "Navigate life by allowing necessary endings and embracing joy in transformation, ensuring holistic renewal.",
+        "reversed": "Best course involves recognizing when resistance is futile and surrendering to the flow of change.",
+        "keywords": [
+          "navigate endings",
+          "transformative joy",
+          "recognize resistance",
+          "surrender flow"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope lies in renewal and fresh starts. Fear stems from the pain of endings and the uncertainty of new beginnings.",
+        "reversed": "Fear of change prevents embracing new possibilities. Hope for stability clashes with the need for growth.",
+        "keywords": [
+          "renewal hope",
+          "ending fear",
+          "change prevention",
+          "stability hope"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope for a future where transformation brings growth and leads to new, fulfilling experiences.",
+        "reversed": "Hope for change is tempered by fear, resulting in hesitation or a desire for things to remain the same.",
+        "keywords": [
+          "future growth",
+          "new experiences",
+          "tempered hope",
+          "desire for same"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing what is known and familiar. Anxiety over the uncharted territory that change brings.",
+        "reversed": "Fear of transformation stifles potential growth. Holding onto old patterns to avoid discomfort.",
+        "keywords": [
+          "losing familiarity",
+          "uncharted anxiety",
+          "transformation fear",
+          "pattern hold"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously, you crave renewal and understand the necessity of endings for deeper growth.",
+        "reversed": "Subconscious resistance to change reveals a fear of upheaval and reluctance to embrace growth.",
+        "keywords": [
+          "crave renewal",
+          "necessity understanding",
+          "resistance revelation",
+          "growth reluctance"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you recognize the need for transformation and actively seek renewal and growth.",
+        "reversed": "On a conscious level, fear of change prevents you from moving forward, clouding your potential vision.",
+        "keywords": [
+          "transformation recognition",
+          "active seeking",
+          "fear prevention",
+          "vision cloud"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel the weight of transformation, tempered by the promise of renewal and evolution.",
+        "reversed": "Emotionally stuck or fearful, avoiding necessary change despite its potential benefits.",
+        "keywords": [
+          "transformation weight",
+          "renewal promise",
+          "emotional stuck",
+          "fearful avoidance"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs for the freedom that comes with releasing burdens and embracing transformation.",
+        "reversed": "Desire for change is shadowed by fear, causing conflict between the heart's longing and mind's resistance.",
+        "keywords": [
+          "freedom longing",
+          "burden release",
+          "desire shadowed",
+          "heart conflict"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, you are aware of the need for transformation and are open to the new knowledge it brings.",
+        "reversed": "Mind may be clouded by apprehension and reluctance, stalling the transformative process.",
+        "keywords": [
+          "transformation need",
+          "knowledge openness",
+          "mind clouded",
+          "reluctant stall"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "External forces support transformation and encourage embracing necessary changes for growth.",
+        "reversed": "External influences contribute to stagnation, echoing fears and discouraging transformation.",
+        "keywords": [
+          "supportive forces",
+          "change encouragement",
+          "stagnation influence",
+          "fear echo"
+        ]
+      },
+      "others": {
+        "upright": "Surrounding people may support your transformation, viewing it as essential and overdue.",
+        "reversed": "Others' fears and resistance may mirror your own, hindering your progress and confidence in change.",
+        "keywords": [
+          "supportive view",
+          "essential change",
+          "mirrored fear",
+          "progress hindrance"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment is conducive to transformation, aligning with your need for change and renewal.",
+        "reversed": "Stagnant circumstances in your environment reflect back indecision and reluctance for change.",
+        "keywords": [
+          "transformative environment",
+          "renewal alignment",
+          "stagnant reflection",
+          "indecisive surround"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others perceive you as embracing transformation with courage and openness, a beacon of renewal.",
+        "reversed": "You may be seen as resistant to change, clinging to old ways that no longer serve your highest good.",
+        "keywords": [
+          "transformative courage",
+          "renewal beacon",
+          "change resistance",
+          "old clinging"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Hidden forces are supporting your transformation, gently guiding you toward necessary change.",
+        "reversed": "Unseen resistances are influencing your reluctance, subtly hindering your growth and renewal.",
+        "keywords": [
+          "supporting forces",
+          "gentle guide",
+          "hidden resistance",
+          "growth hindrance"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Accepting transformation leads to renewed vitality and opportunities. Embrace change for growth.",
+        "reversed": "Resisting inevitable endings leads to stagnation and missed opportunities, blocking growth.",
+        "keywords": [
+          "renewed vitality",
+          "opportunity",
+          "stagnation",
+          "missed growth"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, embracing change leads to profound personal evolution and emotional freedom.",
+        "reversed": "Final resistance results in enduring dissatisfaction and missed life-affirming transformations.",
+        "keywords": [
+          "personal evolution",
+          "emotional freedom",
+          "enduring dissatisfaction",
+          "missed transformation"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Transformation opens doors to unexpected growth and a life aligned with deeper truths.",
+        "reversed": "By avoiding change, opportunities may pass by, leading to a sense of unfulfillment and routine.",
+        "keywords": [
+          "unexpected growth",
+          "aligned life",
+          "missed opportunities",
+          "routine unfulfillment"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case involves seizing the moment of transformation, leading to profound joy and spiritual ascension.",
+        "reversed": "Ideal outcome requires relinquishing control, welcoming change, and embracing the unknown gracefully.",
+        "keywords": [
+          "transformation seize",
+          "joy ascension",
+          "control relinquishment",
+          "embracing unknown"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case is resisting transformation, leading to repeated patterns and hindered evolution.",
+        "reversed": "Fear of change anchors you in old habits, preventing new growth and perpetuating dissatisfaction.",
+        "keywords": [
+          "resisting transformation",
+          "pattern repetition",
+          "anchored habits",
+          "perpetuated dissatisfaction"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic is one of profound transformation and rebirth. Between you exists the power to help each other through major life changes, releasing what no longer serves to make space for new growth. This connection facilitates deep healing and renewal.",
+        "reversed": "The connection may resist necessary changes or experience destructive rather than transformative energy. Fear of endings may prevent new beginnings. The relationship could involve stagnation, fear of loss, or inability to let go of what needs to change.",
+        "keywords": [
+          "transformation",
+          "endings",
+          "rebirth",
+          "release"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A relationship phase ends, paving way for renewal or a new connection. Embrace the transformation with openness.",
+      "reversed": "Fear of change keeps you stuck in unsatisfactory patterns. Release attachments to allow love's renewal.",
+      "keywords": [
+        "relationship renewal",
+        "new connection",
+        "change fear",
+        "love renewal"
+      ]
+    },
+    "career": {
+      "upright": "Career transformation leads to new opportunities. Adapt to new roles and embrace professional evolution.",
+      "reversed": "Resistance to career change hinders progress. Open up to transformation for growth in your vocation.",
+      "keywords": [
+        "career transformation",
+        "new opportunities",
+        "resistance hindrance",
+        "vocational growth"
+      ]
+    },
+    "spiritual": {
+      "upright": "You are amidst a spiritual rebirth, embracing new understandings and shedding outdated beliefs.",
+      "reversed": "Spiritual stagnation arises from rigid beliefs. Allow transformation to deepen your spiritual path.",
+      "keywords": [
+        "spiritual rebirth",
+        "new understanding",
+        "stagnation",
+        "spiritual deepening"
+      ]
+    },
+    "financial": {
+      "upright": "Financial changes usher in new strategies and renewal. Allow old patterns to dissolve for abundance.",
+      "reversed": "Fear of financial instability leads to clinging. Release resistance for a healthier financial future.",
+      "keywords": [
+        "financial change",
+        "strategic renewal",
+        "clinging fear",
+        "financial resistance"
+      ]
+    },
+    "health": {
+      "upright": "An ending marks the beginning of a new health journey. Embrace necessary changes for wellbeing.",
+      "reversed": "Fear of change prevents necessary health adjustments. Recognize that transformation nurtures vitality.",
+      "keywords": [
+        "health journey",
+        "wellbeing change",
+        "preventive fear",
+        "vitality transformation"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "scorpio",
+    "hebrew_letter": "nun",
+    "numerology": 4,
+    "planet": "pluto",
+    "season": "autumn",
+    "time_of_day": "dusk",
+    "colors": [
+      "black",
+      "purple",
+      "deep red"
+    ],
+    "crystals": [
+      "obsidian",
+      "malachite",
+      "smoky quartz"
+    ],
+    "herbs": [
+      "rosemary",
+      "sage",
+      "cypress"
+    ]
+  },
+  "symbols": {
+    "white_horse": "purity of spirit through transformation",
+    "rising_sun": "new beginnings after endings",
+    "water": "emotional depth and subconscious renewal",
+    "flowering_tree": "life's regeneration and growth",
+    "figures_supplicating": "acceptance of change"
+  },
+  "affirmations": [
+    "I embrace transformation as a path to renewal and growth",
+    "Endings are sacred beginnings that lead to new opportunities",
+    "I release what no longer serves me and welcome the new",
+    "Each ending is an invitation to rebirth and evolution"
+  ],
+  "journaling_prompts": [
+    "What transformations am I resisting in my life?",
+    "Where do I need to let go to embrace new beginnings?",
+    "How can I find peace in endings and see them as beneficial?",
+    "What new opportunities arise when I release the past?"
+  ],
+  "meditation_focus": "Embracing the flow of life and its cycles, welcoming the wisdom that comes from transformation and release.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:22:25.209331",
+    "card_info": {
+      "name": "Death",
+      "number": 13,
+      "suit": "major_arcana"
+    },
+    "filename": "m13.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_tower": {
+        "interpretation": "Intense transformation amidst upheaval, leading to profound growth and new perspectives.",
+        "keywords": [
+          "intense",
+          "transformation",
+          "amidst",
+          "upheaval"
+        ]
+      },
+      "the_wheel_of_fortune": {
+        "interpretation": "Cycles of change and renewal are in motion, promoting important positive shifts.",
+        "keywords": [
+          "cycles",
+          "change",
+          "renewal",
+          "motion"
+        ]
+      },
+      "eight_of_cups": {
+        "interpretation": "Walking away from the familiar to embrace necessary transformations and deeper truths.",
+        "keywords": [
+          "walking",
+          "away",
+          "familiar",
+          "embrace"
+        ]
+      }
+    },
+    "challenges": {
+      "the_hanged_man": {
+        "interpretation": "Sacrifice and letting go challenge the need for change, offering profound introspection.",
+        "keywords": [
+          "sacrifice",
+          "letting",
+          "challenge",
+          "need"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Focusing on loss rather than renewal can hinder the transformative process and healing.",
+        "keywords": [
+          "focusing",
+          "loss",
+          "rather",
+          "than"
+        ]
+      },
+      "four_of_pentacles": {
+        "interpretation": "Clinging to security and fear of the future conflict with the need for personal growth.",
+        "keywords": [
+          "clinging",
+          "security",
+          "fear",
+          "future"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_empress": {
+        "interpretation": "Understanding the nurturing aspect of transformation, leading to creative renewal and abundance.",
+        "keywords": [
+          "understanding",
+          "nurturing",
+          "aspect",
+          "transformation"
+        ]
+      },
+      "the_moon": {
+        "interpretation": "Illuminating the fear of the unknown, revealing deeper emotional transformations.",
+        "keywords": [
+          "illuminating",
+          "fear",
+          "unknown",
+          "revealing"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Transformation aligning with higher purpose, signaling rebirth and spiritual awakening.",
+        "keywords": [
+          "transformation",
+          "aligning",
+          "higher",
+          "purpose"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "judgement": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "death": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  },
+  "description": {
+    "waite": "The veil or mask of life is perpetuated in change, transformation and passage from lower to higher, and this is more fitly represented in the rectified Tarot by one of the apocalyptic visions than by the crude notion of the reaping skeleton. Behind it lies the whole world of ascent in the spirit. The mysterious horseman moves slowly, bearing a black banner emblazoned with the Mystic Rose, which signifies life. Between two pillars on the verge of the horizon there shines the sun of immortality. The horseman carries no visible weapon, but king and child and maiden fall before him, while a prelate with clasped hands awaits his end.\nThere should be no need to point out that the suggestion of death which I have made in connection with the previous card is, of course, to be understood mystically, but this is not the case in the present instance. The natural transit of man to the next stage of his being either is or may be one form of his progress, but the exotic and almost unknown entrance, while still in this life, into the state of mystical death is a change in the form of consciousness and the passage into a state to which ordinary death is neither the path nor gate. The existing occult explanations of the 13th card are, on the whole, better than usual, rebirth, creation, destination, renewal, and the rest.",
+    "tk_en": "Death rides a white horse across the battlefield as the sun rises in the distance. This represents not only an end, but also rebirth and movement to a new stage.",
+    "tk_zh": "死神騎乘白馬靜靜前進，遠方太陽緩緩升起。這張牌呈現終結與起始，暗示精神、人際關係或環境的煥然一新。"
+  },
+  "reading_aspects": {
+    "currentSituation": {
+      "upright": {
+        "en": "Something reaches an end / separation from an important person / moving to the next stage / life-changing moment / ongoing transformation",
+        "zh": "某種事物面臨終結/歷經與重要的人別離/前往下一個階段/改變人生的時機/持續變化"
+      },
+      "reversed": {
+        "en": "Stagnation / fluctuating fortune / unable to adapt to changing circumstances / trying to delay the inevitable / emotions in disarray / unacceptable ending",
+        "zh": "停滯不前/運氣忽好忽壞/跟不上逐漸改變的情勢/試圖拖延結束/無法整理情緒/無法接受的結局"
+      }
+    },
+    "innerState": {
+      "upright": {
+        "en": "Decision made / inner conclusion reached / letting go of attachments / bittersweet choice / acceptance / refreshed feeling / already facing the future",
+        "zh": "下定決心/內心已有定見/放下原本執著的事物/苦澀的選擇/斷念/心情舒暢/心情已邁向未來"
+      },
+      "reversed": {
+        "en": "Refusing to let go / clinging / unable to decide / seeking revival / incomplete state / inner wound / sentimental",
+        "zh": "不肯輕易死心/依戀不捨而無法放棄/無法下定決心/企圖起死回生/半途而廢的狀態/內心創傷/多愁善感"
+      }
+    },
+    "rootCause": {
+      "upright": {
+        "en": "Extreme black-and-white thinking / too sudden to prepare mentally / natural consequence with no clear cause / all is destiny",
+        "zh": "思考方式極端，非黑即白/過於突然而無法做好心理準備/理所當然的結果，沒有明確原因/一切都是天命所定"
+      },
+      "reversed": {
+        "en": "Overwhelming shock / unable to face the present / lacking courage to decide / memories resurface repeatedly / unable to move forward",
+        "zh": "過大的驚嚇/無法好好正視現狀/下定決心的勇氣不足/記憶一再復甦/無法前進"
+      }
+    },
+    "development": {
+      "upright": {
+        "en": "Rebirth / relationships or situations forcibly reset / generational shift / sudden change transforms life / irresistible events",
+        "zh": "重獲新生/關係或狀況被強制重來/世代交替或新舊更迭/突然變化使生活大為轉變/不可抗力事件"
+      },
+      "reversed": {
+        "en": "Extended duration / unable to change methods / overstaying and annoying others / forced to give up / unable to sever ties / unable to see present clearly",
+        "zh": "操勞延長/無法改變做法/長時間賴著不走令人厭煩/不得不放棄/遲遲無法斷絕/無法認清現況"
+      }
+    },
+    "advice": {
+      "upright": {
+        "en": "End decisively / the courage to stop matters / start fresh as if reborn / believe something new is beginning",
+        "zh": "果斷地重來/停損的勇氣也很重要/以脫胎換骨的心情重新開始/相信某種新的事物將要開始"
+      },
+      "reversed": {
+        "en": "Face what you have avoided / do not waste time / decide now / do not expect miraculous chances / recognize necessity",
+        "zh": "面對一直逃避的事物/不要浪費時間/現在就下決定/不要期待奇蹟般的機會/認清究竟有沒有必要"
+      }
+    }
+  },
+  "contextual_meanings": {
+    "love": {
+      "upright": {
+        "en": "The one / confession / settling the past / rekindled romance / marriage decision / remarriage",
+        "zh": "認為就是這個人的對象/表白/整理過去/戀情復燃/決心結婚/再婚"
+      },
+      "reversed": {
+        "en": "Unrequited romance / awkward confession / secret love / unresolved matters / romantic regrets",
+        "zh": "戀情沒有結果/尷尬的表白/暗戀/事情沒有做個了斷/戀情上的懊悔"
+      }
+    },
+    "work": {
+      "upright": {
+        "en": "Comeback opportunity / restoring reputation / returning to your original purpose / relief / charting a new direction / success",
+        "zh": "起死回生的機會/洗刷污名/回歸初衷/放下心中的大石頭/決定導向成功"
+      },
+      "reversed": {
+        "en": "Unrewarded effort / missed opportunity / setbacks / extended difficult work",
+        "zh": "沒有回報的努力/錯失機會/遇到挫折/辛苦的工作延長"
+      }
+    },
+    "interpersonal": {
+      "upright": {
+        "en": "Settling the relationship / decisive moment / reunion / repairing ties / important person to get to know",
+        "zh": "把關係做個了斷/一決勝負時/重逢/修復關係/應該事先掌握的重要人物"
+      },
+      "reversed": {
+        "en": "Gradual distance / fading presence / hard to repair bonds / impossible reunion / troublesome person",
+        "zh": "逐漸疏遠/忘記其存在/關係難以修復/無法重逢/麻煩的人物"
+      }
+    },
+    "others": {
+      "upright": {
+        "en": "Favorable momentum at the turning point / finding the right approach / sharp intuition / regaining good fortune / decisive action",
+        "zh": "一決勝負時有利的運勢/找到訣竅/直覺敏銳/恢復好運/乾脆果斷"
+      },
+      "reversed": {
+        "en": "Disadvantage at the crucial moment / cannot find the right approach / postponed decisions / insufficient preparation / expired",
+        "zh": "一決勝負時居於劣勢/找不到訣竅/決定延期/準備不足而無法行動/過期"
+      }
+    }
+  }
+}

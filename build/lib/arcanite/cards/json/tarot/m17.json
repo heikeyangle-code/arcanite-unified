@@ -1,0 +1,791 @@
+{
+  "card_id": "the_star",
+  "card_name": "The Star",
+  "card_number": 17,
+  "suit": "major_arcana",
+  "archetype": "the_visionary",
+  "core_meanings": {
+    "upright": {
+      "essence": "Hope, inspiration, and spiritual clarity. Rejuvenation and the light of guidance shining after darkness.",
+      "keywords": [
+        "hope",
+        "renewal",
+        "inspiration",
+        "faith",
+        "spiritual illumination",
+        "guidance",
+        "tranquility",
+        "vision"
+      ],
+      "psychological": "Represents the psyche's ability to find light in shadows, restore faith, and follow one's true calling with serenity.",
+      "spiritual": "Connection to divine energy that renews the spirit and clarifies soul purpose. Openness to universal wisdom.",
+      "practical": "A time to heal and let inspiration lead. Trust in the guidance of unseen forces and allow clarity to direct actions.",
+      "shadow": "False hope or naive optimism that ignores the need for grounded action. Losing touch with reality in pursuit of ideals.",
+      "waite_meaning": "Loss, theft, privation, abandonment; another reading says-hope and bright prospects,",
+      "tk_meaning_en": "Moving toward a bright future / following hope with confidence that you are on the right path",
+      "tk_meaning_zh": "迎向光明的未來/頭頂的希望之星證明正走在正確道路上",
+      "tk_coreKeyword_en": "Hope",
+      "tk_coreKeyword_zh": "希望"
+    },
+    "reversed": {
+      "essence": "Disconnection from hope and spiritual guidance. A loss of faith or feeling of being adrift in darkness.",
+      "keywords": [
+        "disillusionment",
+        "lack of faith",
+        "despair",
+        "pessimism",
+        "confusion",
+        "spiritual disconnect",
+        "uncertainty"
+      ],
+      "psychological": "Feelings of hopelessness or being lost may arise. Difficulty seeing the light within shadows.",
+      "spiritual": "Disconnected from divine energy, leading to a waning sense of purpose and spiritual fatigue.",
+      "practical": "Reorient yourself by seeking pragmatic goals rather than lofty ideals. Ground inspiration with action steps.",
+      "shadow": "Allowing negativity to overshadow possibilities. Struggling to find trust when it's needed most.",
+      "waite_meaning": "Arrogance, haughtiness, impotence.",
+      "tk_meaning_en": "Nothing materializes and everything drifts away / hope turns to disappointment",
+      "tk_meaning_zh": "什麼也無法實現地隨波消逝/希望變成失望"
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A moment of profound inspiration or spiritual clarity in your past brought healing and directed your path socially or creatively.",
+        "reversed": "Past experiences of disillusionment or lost hope still cast shadows, affecting your current sense of possibility.",
+        "keywords": [
+          "past inspiration",
+          "healing moment",
+          "lost hope",
+          "shadow past"
+        ]
+      },
+      "distant_past": {
+        "upright": "A long-ago spiritual insight or guiding vision set the tone for your life's journey of renewal and faith.",
+        "reversed": "Early experiences of feeling unseen or disconnected have shaped patterns of self-doubt or fear.",
+        "keywords": [
+          "ancient vision",
+          "spiritual foundation",
+          "early disillusionment",
+          "long-term influence"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent renewal of faith or vision has set you on a path to healing and inspiration.",
+        "reversed": "Recent confusion or loss of hope is affecting your current capacity to see possibilities clearly.",
+        "keywords": [
+          "renewed faith",
+          "recent vision",
+          "current confusion",
+          "immediate past"
+        ]
+      },
+      "present": {
+        "upright": "You're called to trust your vision and follow a path lit by divine inspiration. Embrace tranquility and clarity.",
+        "reversed": "Feeling disconnected from your guiding star. Current doubts about your path may cloud your innate sense of purpose.",
+        "keywords": [
+          "trust vision",
+          "current clarity",
+          "disconnection",
+          "doubtful present"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core of your experience is a deep well of hope and inspiration, encouraging you to plant seeds for future growth.",
+        "reversed": "Struggle to see the light in your current situation. Anxiety about future outcomes stifling potential inspirations.",
+        "keywords": [
+          "central hope",
+          "core inspiration",
+          "stifled potential",
+          "key struggle"
+        ]
+      },
+      "future": {
+        "upright": "A future filled with renewed hope and creative inspirations. Clear guidance will emerge to light your path forward.",
+        "reversed": "Possibility of continuing confusion or spiritual disconnect if deeper truths are ignored. Need for grounding in reality.",
+        "keywords": [
+          "upcoming clarity",
+          "possible guidance",
+          "future confusion",
+          "grounding needed"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a sense of hope and creativity will flourish, offering pathways to healing and spiritual renewal.",
+        "reversed": "Immediate future may involve doubts and a feeling of drift unless you reaffirm your connection to inner guidance.",
+        "keywords": [
+          "immediate hope",
+          "flourishing inspiration",
+          "feeling lost",
+          "connection renewal"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, your persistence in faith will lead to a lifetime enriched by visionary pursuits and achievements.",
+        "reversed": "Continuing disconnection risks a life marked by unmet potential and spiritual searching without resolution.",
+        "keywords": [
+          "ultimate vision",
+          "persistence in faith",
+          "unmet potential",
+          "long-term disconnect"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to maintain faith amidst uncertainty. Trust in your vision even when the path is unclear.",
+        "reversed": "Challenge involves finding hope when beset by doubt and the fear of losing your way.",
+        "keywords": [
+          "maintaining faith",
+          "navigating uncertainty",
+          "finding hope",
+          "trust in vision"
+        ]
+      },
+      "cross": {
+        "upright": "External demands or skepticism may cloud your spiritual clarity and test your commitments to your personal vision.",
+        "reversed": "Internal doubts and fears cross your path, challenging your self-belief and spiritual resolve.",
+        "keywords": [
+          "external skepticism",
+          "commitment test",
+          "internal doubt",
+          "spiritual challenge"
+        ]
+      },
+      "obstacle": {
+        "upright": "Distrust or past disappointments block your renewal. Reconnect with your inner star to overcome cynicism.",
+        "reversed": "Allowing despair and negativity to obscure the guidance available may hinder progress.",
+        "keywords": [
+          "past disappointment",
+          "inner reconnection",
+          "negativity block",
+          "cynicism barrier"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to pair vision with action, integrating inspiration with practical steps. Hope without action remains a shadow.",
+        "reversed": "The lesson involves grounding your dreams and navigating through periods of doubt to find clarity.",
+        "keywords": [
+          "vision-action balance",
+          "practical hope",
+          "grounding dreams",
+          "clarity through doubt"
+        ]
+      },
+      "shadow": {
+        "upright": "Shadow part involves mistaking optimism for realism. Integrate your yearning for idealism with acceptance of flaws.",
+        "reversed": "Shadow concealed as despair needs acknowledgment. Ignoring negativity can stifle growth.",
+        "keywords": [
+          "mistaken optimism",
+          "integrated idealism",
+          "unacknowledged despair",
+          "growth barrier"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Perfectionist tendencies hinder your openness to inspiration. Embrace imperfection to grow.",
+        "reversed": "Cynical attitudes or previous failures create barriers to experiencing renewal and spiritual guidance.",
+        "keywords": [
+          "perfectionism",
+          "growth hindrance",
+          "cynical barrier",
+          "renewal block"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Trust the universe's timing. Follow a path of gentle inspiration and allow creativity to lead.",
+        "reversed": "Seek grounding. Reconnect with your core beliefs and allow intuition to illuminate your decisions.",
+        "keywords": [
+          "trust timing",
+          "creative path",
+          "seek grounding",
+          "intuitive decision"
+        ]
+      },
+      "action": {
+        "upright": "Act from a place of calm assurance and let optimism guide your steps. Project your vision into reality.",
+        "reversed": "Pause to regain clarity. Break larger aspirations into manageable actions to avoid overwhelm.",
+        "keywords": [
+          "calm assurance",
+          "guided actions",
+          "regain clarity",
+          "manageable steps"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as hopeful and guided by a higher vision. Your approach radiates soothing energy to others.",
+        "reversed": "Your perception of self may be fraught with doubt or an unrealistic view of responsibilities.",
+        "keywords": [
+          "hopeful self-view",
+          "soothing approach",
+          "doubt perception",
+          "unrealistic self"
+        ]
+      },
+      "what_helps": {
+        "upright": "Embrace openness and willingness to receive divine guidance. Nature and creativity are allies.",
+        "reversed": "Seeking tangible goals and maintaining focus helps anchor spiritual insights.",
+        "keywords": [
+          "divine openness",
+          "nature as ally",
+          "tangible goals",
+          "spiritual anchoring"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual guidance invites you to trust your inner light. Share your vision and inspire others.",
+        "reversed": "Rediscover your spiritual roots and reaffirm your faith in unseen yet benevolent forces.",
+        "keywords": [
+          "inner light trust",
+          "inspire vision",
+          "reaffirm faith",
+          "spiritual rediscovery"
+        ]
+      },
+      "best_course": {
+        "upright": "Align actions with visionary insight, focusing on healing and shared aspirations.",
+        "reversed": "Pave a practical path that aligns with soulful ideals while remaining open to adjustments.",
+        "keywords": [
+          "aligned actions",
+          "visionary path",
+          "practical path",
+          "open adjustments"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Yearning for spiritual harmony and peace. Fear of returning to darkness or losing light's guiding promise.",
+        "reversed": "Fear of false hope or facing the unknown alone. Desire for reassurance and grounded connection.",
+        "keywords": [
+          "spiritual harmony",
+          "fear of darkness",
+          "false hope fear",
+          "need for reassurance"
+        ]
+      },
+      "hopes": {
+        "upright": "Hopes for revival and spiritual clarity. Trust in the journey that unfolds with divine timing.",
+        "reversed": "Hope for reconnection and clarity amidst confusion. Seeking faith’s renewal.",
+        "keywords": [
+          "revival hope",
+          "clarity trust",
+          "reconnection desire",
+          "faith renewal"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of idealism overshadowing practical needs. Concern over maintaining faith through trials.",
+        "reversed": "Fear of perpetual despair or disconnection from spiritual sense of self.",
+        "keywords": [
+          "idealism fear",
+          "faith maintenance",
+          "perpetual despair",
+          "spiritual disconnection"
+        ]
+      },
+      "subconscious": {
+        "upright": "Deep yearnings for hope and renewal influence dreams, driving towards light despite unseen challenges.",
+        "reversed": "Subconscious doubts about worthiness of spiritual guidance can create inner discord.",
+        "keywords": [
+          "deep yearning",
+          "light-driven",
+          "unseen challenges",
+          "inner discord"
+        ]
+      },
+      "conscious": {
+        "upright": "Awareness of connection to higher vision supports daily pursuits and emotional equilibrium.",
+        "reversed": "Awareness clouded by confusion or misdirected efforts away from true aspirations.",
+        "keywords": [
+          "vision connection",
+          "emotional equilibrium",
+          "clouded awareness",
+          "misdirected efforts"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you exude tranquil optimism and faith in possibilities, nurturing creativity and healing.",
+        "reversed": "Emotional turbulence driven by uncertainty or lack of clear direction. Seek inner stillness.",
+        "keywords": [
+          "tranquil optimism",
+          "nurturing creativity",
+          "emotional turbulence",
+          "inner stillness"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs for rejuvenation and open connections with compassionate authenticity.",
+        "reversed": "Your heart struggles against guardedness or inability to discern true desires from fleeting wishes.",
+        "keywords": [
+          "rejuvenation longing",
+          "compassionate connection",
+          "guarded heart",
+          "true wishes"
+        ]
+      },
+      "mind": {
+        "upright": "Mental landscapes are filled with expansive visions and creative solutions opening doors to new opportunities.",
+        "reversed": "Mental fog or fixation on uncertainties restrict visionary abilities, hindering progress.",
+        "keywords": [
+          "expansive visions",
+          "creative solutions",
+          "mental fog",
+          "fixed uncertainties"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Those around you perceive your hopefulness and tranquility, often looking to you for inspiration.",
+        "reversed": "Others may view you as disconnected from realities or misaligned with their expectations.",
+        "keywords": [
+          "perceived hopefulness",
+          "inspirational presence",
+          "disconnected view",
+          "expectation misalignment"
+        ]
+      },
+      "others": {
+        "upright": "Supportive energies align with your spiritual journey, creating a network of mutual inspiration.",
+        "reversed": "External negativity or doubt could inhibit your inner light, swaying inspirations.",
+        "keywords": [
+          "supportive energies",
+          "spiritual alignment",
+          "external negativity",
+          "inspiration sway"
+        ]
+      },
+      "environment": {
+        "upright": "Environment fosters creativity and renewal, encouraging a peaceful, inspired outlook.",
+        "reversed": "Environmental discord or constraints challenge your pursuit of inspiration and innovation.",
+        "keywords": [
+          "creative fostering",
+          "peaceful environment",
+          "discord challenges",
+          "innovation constraints"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a beacon of hope and renewed vision, offering guidance through challenging times.",
+        "reversed": "Perceived as either naive dreamer or detached observer, seeming ungrounded.",
+        "keywords": [
+          "beacon of hope",
+          "guiding vision",
+          "naive dreamer",
+          "detached observer"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Hidden forces illuminate unseen pathways, offering support even when they appear obscured.",
+        "reversed": "Unseen fears linger, casting shadows on realizations and hindering spiritual clarity.",
+        "keywords": [
+          "unseen pathways",
+          "illumination support",
+          "unseen fears",
+          "realization shadows"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Healing and inspiration lead to meaningful achievements. Renewed spirit opens doors to fulfilling ventures.",
+        "reversed": "If disconnection persists, the result may involve missed opportunities and prolonged uncertainties.",
+        "keywords": [
+          "healing achievements",
+          "spirit renewal",
+          "missed opportunities",
+          "prolonged uncertainties"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, your perseverance enhances spiritual enlightenment, ushering a life aligned with dreams.",
+        "reversed": "Final outcomes warn of stagnation without hope's renewal—requiring deeper reflection.",
+        "keywords": [
+          "spiritual enlightenment",
+          "dream alignment",
+          "stagnation warning",
+          "reflection need"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Potential for profound personal growth and inspired purpose. Creativity governs upcoming chapters.",
+        "reversed": "Possible outcomes involve stagnation if inspiration remains ungrounded or ignored.",
+        "keywords": [
+          "personal growth",
+          "inspired purpose",
+          "stagnation potential",
+          "ungrounded hope"
+        ]
+      },
+      "best_case": {
+        "upright": "Best-case scenario sees visions actualized through harmony and creative endeavors, fostering a brilliant legacy.",
+        "reversed": "At face value best may seem reachable, yet action without commitment may falter.",
+        "keywords": [
+          "vision actualization",
+          "creative legacy",
+          "harmony fostering",
+          "commitment falter"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst-case sees drifting into idealistic excess, but educational reshaping facilitates true insight.",
+        "reversed": "Without hope's return, stagnation leads life into cycles of uncertainty and unfulfilled potential.",
+        "keywords": [
+          "idealistic drift",
+          "educational reshaping",
+          "stagnation cycles",
+          "unfulfilled potential"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic is guided by hope, inspiration, and spiritual connection. Between you flows a healing energy that brings renewal and faith in the future. This connection helps you both reach for your highest aspirations and trust in divine guidance.",
+        "reversed": "The connection may lack hope, faith, or spiritual connection. Dreams may be crushed or inspiration may be lacking. The relationship could involve despair, disconnection from higher purpose, or inability to see beyond current difficulties.",
+        "keywords": [
+          "hope",
+          "inspiration",
+          "healing",
+          "guidance"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Hope and understanding weave through relationships, offering healing and a fresh start filled with mutual inspiration.",
+      "reversed": "Disillusionment may plague romantic connections; seek clarity and rekindle trust.",
+      "keywords": [
+        "relationship hope",
+        "healing love",
+        "romantic disillusionment",
+        "trust rekindling"
+      ]
+    },
+    "career": {
+      "upright": "Guided by vision, career advances through innovative solutions and inspired leadership.",
+      "reversed": "Ambiguity in career path may cause temporary setbacks; realign intentions with practicalities.",
+      "keywords": [
+        "visionary career",
+        "inspired leadership",
+        "career setbacks",
+        "practical realignment"
+      ]
+    },
+    "spiritual": {
+      "upright": "A period of spiritual renewal and deepened connection to highest self. Healing path journey.",
+      "reversed": "Spiritual confusion and lack of guidance can be addressed through dedicated practice.",
+      "keywords": [
+        "spiritual renewal",
+        "deepened connection",
+        "confusion resolve",
+        "dedicated practice"
+      ]
+    },
+    "financial": {
+      "upright": "Inspired opportunities for financial growth arise, demanding faith and smart investments.",
+      "reversed": "Disconnection may lead to unclear financial decisions; seek grounded insight.",
+      "keywords": [
+        "financial growth",
+        "smart investments",
+        "unclear decisions",
+        "grounded insight"
+      ]
+    },
+    "health": {
+      "upright": "Healing energies support physical and emotional well-being, rejuvenating body and spirit.",
+      "reversed": "Neglected health can lead to disharmony; focus on holistic wellness.",
+      "keywords": [
+        "healing support",
+        "emotional well-being",
+        "health neglect",
+        "holistic wellness"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "aquarius",
+    "hebrew_letter": "heh",
+    "numerology": 8,
+    "planet": "uranus",
+    "season": "spring",
+    "time_of_day": "early morning",
+    "colors": [
+      "aqua",
+      "white",
+      "silver"
+    ],
+    "crystals": [
+      "amethyst",
+      "aquamarine",
+      "labradorite"
+    ],
+    "herbs": [
+      "jasmine",
+      "rosemary",
+      "thyme"
+    ]
+  },
+  "symbols": {
+    "star": "guidance and inspiration",
+    "water": "emotional flow and rejuvenation",
+    "seven_stars": "chakras and cosmic balance",
+    "nude_figure": "authenticity and vulnerability",
+    "bird": "spiritual messages and freedom"
+  },
+  "affirmations": [
+    "I trust in the light of my inner star, guiding my journey with clarity.",
+    "Hope and inspiration flow through me, rejuvenating my spirit.",
+    "I align with the universe, and my vision becomes reality.",
+    "I embrace the harmony of my true path and welcome new possibilities."
+  ],
+  "journaling_prompts": [
+    "What vision of hope guides my journey?",
+    "How can I nurture inspiration in my daily life?",
+    "Where do I need to restore faith and clarity?",
+    "What steps can I take to align with my true purpose?"
+  ],
+  "meditation_focus": "Visualize the light of your inner star illuminating your path towards fulfillment and renewal, embracing divine guidance.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:28:13.873743",
+    "card_info": {
+      "name": "The Star",
+      "number": 17,
+      "suit": "major_arcana"
+    },
+    "filename": "m17.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_moon": {
+        "interpretation": "Deep intuition merges with hope, expanding emotional wisdom.",
+        "keywords": [
+          "deep",
+          "intuition",
+          "merges",
+          "hope"
+        ]
+      },
+      "ace_of_cups": {
+        "interpretation": "Emotional renewal and inspiration abound, fostered through love's purity.",
+        "keywords": [
+          "emotional",
+          "renewal",
+          "inspiration",
+          "abound"
+        ]
+      },
+      "the_empress": {
+        "interpretation": "Fertility of ideas blossoms, nurturing visionary pursuits.",
+        "keywords": [
+          "fertility",
+          "ideas",
+          "blossoms",
+          "nurturing"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Disruption tests hope; integration of understanding required.",
+        "keywords": [
+          "disruption",
+          "tests",
+          "hope",
+          "integration"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Illusions lead astray from inspired path; discern next steps.",
+        "keywords": [
+          "illusions",
+          "lead",
+          "astray",
+          "inspired"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Grief challenges healing energy, testing resilience.",
+        "keywords": [
+          "grief",
+          "challenges",
+          "healing",
+          "energy"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_high_priestess": {
+        "interpretation": "Mystical insight aligns with clarity, deepening intuitive truths.",
+        "keywords": [
+          "mystical",
+          "insight",
+          "aligns",
+          "clarity"
+        ]
+      },
+      "six_of_swords": {
+        "interpretation": "Transition clarifies direction, affirming faith in journey.",
+        "keywords": [
+          "transition",
+          "clarifies",
+          "direction",
+          "affirming"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Awakening aligns with divine purpose, inviting renewal.",
+        "keywords": [
+          "awakening",
+          "aligns",
+          "divine",
+          "purpose"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  },
+  "description": {
+    "waite": "A great, radiant star of eight rays, surrounded by seven lesser stars--also of eight rays. The female figure in the foreground is entirely naked. Her left knee is on the land and her right foot upon the water. She pours Water of Life from two great ewers, irrigating sea and land. Behind her is rising ground and on the right a shrub or tree, whereon a bird alights. The figure expresses eternal youth and beauty. The star is l'étoile flamboyante, which appears in Masonic symbolism, but has been confused therein. That which the figure communicates to the living scene is the substance of the heavens and the elements. It has been said truly that the mottoes of this card are \"Waters of Life freely\" and \"Gifts of the Spirit.\"\nThe summary of several tawdry explanations says that it is a card of hope. On other planes it has been certified as immortality and interior light. For the majority of prepared minds, the figure will appear as the type of Truth unveiled, glorious in undying beauty, pouring on the waters of the soul some part and measure of her priceless possession. But she is in reality the Great Mother in the Kabalistic Sephira Binah, which is supernal Understanding, who communicates to the Sephiroth that are below in the measure that they can receive her influx.",
+    "tk_en": "A naked woman pours water under shining stars. The bright star has long guided travelers and represents ideals, hope, purity, and emerging talent.",
+    "tk_zh": "赤裸少女在閃耀星光下倒水。天際的星星自古指引旅人，也暗示今後將開花結果的才華、理想與希望。"
+  },
+  "reading_aspects": {
+    "currentSituation": {
+      "upright": {
+        "en": "Seeing a glimmer of hope / anticipation for someone or something / luck increasing with future prospects / motivated days / good health and spirit",
+        "zh": "看見希望之光/對某事或某人產生期待/隨著未來態勢增加的運氣/感覺到幹勁的每一天/身心良好"
+      },
+      "reversed": {
+        "en": "Losing your guiding star / everything reset to the beginning / expected events delayed / disappointing developments / gloomy days without hope",
+        "zh": "失去了引導的星星/事物一筆勾銷回到原點/期待的活動延期/發展令人掃興/不對未來抱持希望，過著悶悶不樂的每一天"
+      }
+    },
+    "innerState": {
+      "upright": {
+        "en": "Finding a purpose / having an admired figure / spiritual stability / inspired / excitement about the future",
+        "zh": "找到目標/有了憧憬對象/心有依靠，精神穩定/擁有靈感/對未來雀躍不已"
+      },
+      "reversed": {
+        "en": "Unable to foresee the future / confused / losing your purpose / disillusionment / discouragement / pessimism / thinking everything is wasted",
+        "zh": "無法預測未來而混亂/失去目標/對憧憬對象幻滅/對某事沮喪/對未來悲觀/認為無論做什麼都是白費工夫"
+      }
+    },
+    "rootCause": {
+      "upright": {
+        "en": "The goal itself contains problems / timing issues / needing solid data rather than optimism / ideals too lofty to reach",
+        "zh": "目的或目標本身蘊含問題根源/時間上的問題/需要明確資料而非樂觀預測/理想過高無法觸及"
+      },
+      "reversed": {
+        "en": "Most efforts go to waste / squandering labor or time / all talk with no substance / just going through the motions without learning",
+        "zh": "所做的事多為白費工夫/浪費勞力或時間/全是漂亮空談而無內容/只是走完流程而沒有累積經驗"
+      }
+    },
+    "development": {
+      "upright": {
+        "en": "Clear path ahead / clue to solving the problem / fortunate developments arrive one after another / receiving support / abilities recognized",
+        "zh": "預測明確/理出解決問題的頭緒/出乎意料的幸運發展接踵而來/受人提拔/才華或實力獲得認同"
+      },
+      "reversed": {
+        "en": "Hard to predict / losing the clue / all prior work wasted / good fortune disappears / disappointment / gap between ideal and reality",
+        "zh": "難以預測/失去解決問題的頭緒/至今所做的一切都是白費工夫/好事付諸流水/令人失望/面對理想與現實落差"
+      }
+    },
+    "advice": {
+      "upright": {
+        "en": "Hold onto hope / maintain a positive mindset / believing makes you the star / actively embrace new ideas and dreams",
+        "zh": "繼續抱持希望/抱持積極的心情/只要相信，你本身就會成為星星/積極採用新點子或想做的事"
+      },
+      "reversed": {
+        "en": "Leave the past behind and find new goals / focus on better things instead of negativity / first dream about what's actually achievable",
+        "zh": "將過去全部遺忘，尋找新的目標/與其看消極負面，不如關注更美好的事物/首先描繪可能實現的夢想"
+      }
+    }
+  },
+  "contextual_meanings": {
+    "love": {
+      "upright": {
+        "en": "Hopeful romance / relationship develops / ideal partner / admired person / beautiful person / selfless love",
+        "zh": "抱持希望的戀情/戀情有發展/理想的情人/憧憬的對象/美麗的人/無償的愛"
+      },
+      "reversed": {
+        "en": "Idealism too high / narcissism / emotionally unable to keep pace / pessimism / unable to take initiative in romance",
+        "zh": "理想過高/自戀/心情無法跟上/悲觀/在戀愛上無法積極面對"
+      }
+    },
+    "work": {
+      "upright": {
+        "en": "Talents shining / setting goals / future star / peak performance / foresight",
+        "zh": "才華發光發熱/擬定目標/成為明日之星/狀況絕佳/有先見之明"
+      },
+      "reversed": {
+        "en": "Failure / cannot see the goal / not adopted / pressured by demands / poor judgment / wasted effort",
+        "zh": "失敗/看不見目標/不採用/被業務緊逼/誤判/努力白費"
+      }
+    },
+    "interpersonal": {
+      "upright": {
+        "en": "Inner nourishment from relationships / inspiration or insights / sincere healthy friendship",
+        "zh": "與人相處使內心獲得滋潤/獲得靈感或提示/誠心誠意/健康的友情"
+      },
+      "reversed": {
+        "en": "Too much empty talk without results / treating without seeing results / increased waste from togetherness",
+        "zh": "廢話過多而沒有實際結果/不知為何請了客/只要在一起就會增加亂花錢"
+      }
+    },
+    "others": {
+      "upright": {
+        "en": "Good health / recovery / purity / effective medicine / alcoholic beverages / clear night",
+        "zh": "身體健康/身體狀況恢復/純真/藥物見效/酒精飲料/晴朗的夜晚"
+      },
+      "reversed": {
+        "en": "Inner dehydration / cannot enjoy / poor health / lost / hopeless / broken relationships / impurities",
+        "zh": "內心失去滋潤/無法享受/不健康/迷失/不抱持希望/翻臉/混有雜質"
+      }
+    }
+  }
+}

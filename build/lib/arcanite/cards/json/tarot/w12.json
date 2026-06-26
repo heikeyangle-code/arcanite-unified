@@ -1,0 +1,748 @@
+{
+  "card_id": "knight_of_wands",
+  "card_name": "Knight of Wands",
+  "card_number": 12,
+  "suit": "wands",
+  "archetype": "the_adventurer",
+  "core_meanings": {
+    "upright": {
+      "essence": "Dynamic energy and passionate pursuit of goals. The spirit of adventure imbued with courage and enthusiasm.",
+      "keywords": [
+        "action",
+        "adventure",
+        "passion",
+        "impulsiveness",
+        "bravery",
+        "enthusiasm",
+        "daring",
+        "momentum"
+      ],
+      "psychological": "A fiery ambition drives you forward, infusing life with movement and the excitement of new journeys.",
+      "spiritual": "A call to embrace your inner warrior, harnessing vibrant energy to explore your soul's purpose with vigor.",
+      "practical": "Time to act boldly and decisively, seizing opportunities that arise. Trust in your ability to conquer challenges.",
+      "shadow": "A restless spirit that may disregard caution, leading to reckless decisions and unfinished projects.",
+      "waite_meaning": "Departure, absence, flight, emigration. A dark young man, friendly. Change of residence.",
+      "tk_meaning_en": "Setting out toward new horizons. A state where your heart feels delighted about the new beginning. Full of enthusiasm for challenge, suggesting active and immediate action.",
+      "tk_meaning_zh": "朝著新的開始，內心感到雀躍的狀態。渾身充滿了挑戰的熱情，暗示著積極採取行動。",
+      "tk_coreKeyword_en": "Departure",
+      "tk_coreKeyword_zh": "出發"
+    },
+    "reversed": {
+      "essence": "Scattered energy, impulsiveness without direction, or exhaustion from ongoing battles without clear purpose.",
+      "keywords": [
+        "recklessness",
+        "haste",
+        "inconsistency",
+        "delays",
+        "frustration",
+        "misguided ambition"
+      ],
+      "psychological": "Impulsive desires may lead to chaos unless grounded by wisdom. Consider where energy is being wasted.",
+      "spiritual": "Challenges arise from spiritual impulses that lack focus, urging reflection and inward alignment.",
+      "practical": "Reflect before acting. Avoid jumping into ventures without understanding the full scope and consequences.",
+      "shadow": "Driven by impatience and need for immediate gratification, risking burnout and dissatisfaction.",
+      "waite_meaning": "Rupture, division, interruption, discord.",
+      "tk_meaning_en": "Inner feelings unable to catch up with change. Unexpected change leaves you confused. Wanting to protect your original ground, you may thus take an offensive stance.",
+      "tk_meaning_zh": "意料外的變化令你不知所措。由於想守護原本的容身之處，也會因此採取攻勢。"
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A time of rapid progress and adventurous spirit defined your path, shaping your current circumstances.",
+        "reversed": "Past impulsiveness or hurried decisions led to unfinished ventures or unexpected challenges.",
+        "keywords": [
+          "adventurous history",
+          "past haste",
+          "shaping actions",
+          "unfinished past"
+        ]
+      },
+      "distant_past": {
+        "upright": "A long-ago drive for independence and exploration set the course for your identity as a seeker.",
+        "reversed": "Early tendencies for reckless adventure or eager rushes that set up patterns for current dilemmas.",
+        "keywords": [
+          "early independence",
+          "reckless foundations",
+          "seeking identity"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent enthusiasm and energy have sparked new directions, bringing momentum into current endeavors.",
+        "reversed": "Recent frustrations due to hasty actions or misdirected energy are impacting current situations.",
+        "keywords": [
+          "recent momentum",
+          "enthusiastic actions",
+          "frustration impacts"
+        ]
+      },
+      "present": {
+        "upright": "Vigorous passion and energy define the moment; it's a time of swift action and bold undertakings.",
+        "reversed": "Unfocused energy may be causing disarray in your present, needing realignment or recalibration.",
+        "keywords": [
+          "dynamic moment",
+          "vigorous passion",
+          "present disarray"
+        ]
+      },
+      "present_situation": {
+        "upright": "Currently fueled by excitement and ambition, you stand ready to take on life's adventures with zeal.",
+        "reversed": "A scattered focus and impulsiveness might dominate the present; choose clarity over chaos.",
+        "keywords": [
+          "current excitement",
+          "ambitious stance",
+          "impulsive present"
+        ]
+      },
+      "future": {
+        "upright": "Future holds exciting ventures and a successful journey if you harness your energy wisely.",
+        "reversed": "Upcoming challenges may stem from unchecked impulsivity unless deliberate focus is employed.",
+        "keywords": [
+          "exciting ventures",
+          "successful journey",
+          "unfocused future challenges"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, new paths will open that require your bold action and adventurous spirit to achieve greatness.",
+        "reversed": "Anticipate delays or obstacles if action is taken without foresight and proper planning.",
+        "keywords": [
+          "upcoming paths",
+          "bold action required",
+          "anticipated delays"
+        ]
+      },
+      "distant_future": {
+        "upright": "A vision of continually exploring and achieving through insight and inspired energy awaits.",
+        "reversed": "A future of potential unfulfilled if energy remains scattered and lack of direction persists.",
+        "keywords": [
+          "future exploration",
+          "insightful energy",
+          "unfulfilled potential"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is balancing fiery ambition with mature discernment, blending passion with patience.",
+        "reversed": "Learning to channel restless energy constructively rather than allowing it to control you.",
+        "keywords": [
+          "balancing ambition",
+          "mature discernment",
+          "constructive energy"
+        ]
+      },
+      "cross": {
+        "upright": "Conflicting obligations or societal pressures might impede your adventurous spirit and pursuits.",
+        "reversed": "Internal conflicts or old fears cross your path, undermining confidence in personal power.",
+        "keywords": [
+          "conflicting obligations",
+          "pressures",
+          "internal conflicts"
+        ]
+      },
+      "obstacle": {
+        "upright": "The thrill of the chase may obscure the importance of careful planning and mindful presence.",
+        "reversed": "Challenges include preventing distraction and dispersing energy into less important avenues.",
+        "keywords": [
+          "thrill obstacles",
+          "importance of planning",
+          "energy dispersion"
+        ]
+      },
+      "lesson": {
+        "upright": "Embrace the art of pacing your ventures, allowing strategic timing to complement enthusiasm.",
+        "reversed": "Learn to temper impatience with foresight, fostering sustainable and fulfilling growth.",
+        "keywords": [
+          "strategic timing",
+          "pacing ventures",
+          "tempered impatience"
+        ]
+      },
+      "shadow": {
+        "upright": "The shadow reveals hidden desires for conquest and power; integrate them with compassionate wisdom.",
+        "reversed": "Fear of stagnation or a drive for immediate results may lead to burnout or overexertion.",
+        "keywords": [
+          "hidden desires",
+          "drive for result",
+          "fear of stagnation"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Restless curiosity and the thrill of constant movement hinders depth and focus on long-term goals.",
+        "reversed": "Fear of commitment or deep engagement causes reluctance to invest fully in dreams.",
+        "keywords": [
+          "restless curiosity",
+          "hindering focus",
+          "fear of commitment"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Pursue your goals with fervor, but allow insight to guide your choices. Be bold yet wise in action.",
+        "reversed": "Consider withdrawing to identify your true intentions; patience is needed before proceeding.",
+        "keywords": [
+          "guided pursuit",
+          "wise action",
+          "insight before action"
+        ]
+      },
+      "action": {
+        "upright": "Act with the courage of a pioneer, blazing trails with confidence and harnessing the unknown with enthusiasm.",
+        "reversed": "Avoid reckless moves; cultivate a calm and strategic approach to manage upcoming ventures.",
+        "keywords": [
+          "courageous action",
+          "trailblazing",
+          "strategic moves"
+        ]
+      },
+      "your_approach": {
+        "upright": "Perceive yourself as a dynamic force, ready to forge ahead with ambition and discover new worlds.",
+        "reversed": "See whether you're acting out of impulse or a deeper calling; adjust your approach accordingly.",
+        "keywords": [
+          "dynamic force",
+          "self-perception",
+          "discover new worlds"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your passion and confidence are allies in manifesting aspirations; trust your inner fire to guide you.",
+        "reversed": "Regular reflection and reassessment of goals help anchor your enthusiasm to solid ground.",
+        "keywords": [
+          "passionally",
+          "inner fire",
+          "reflect and reassess"
+        ]
+      },
+      "guidance": {
+        "upright": "Divine guidance propels you toward adventure and growth; let intuition and courage shape your path.",
+        "reversed": "Spiritual whispers urge you to ground your energy, seeking stillness before forward motion.",
+        "keywords": [
+          "divine propellant",
+          "intuitive guidance",
+          "spiritual whispers"
+        ]
+      },
+      "best_course": {
+        "upright": "Combine enthusiasm with strategic intent; plan your journey wisely to achieve sustained success.",
+        "reversed": "Patience coupled with clarity of vision ensures resilience against setbacks or delayed gratification.",
+        "keywords": [
+          "enthusiasm with intent",
+          "strategic journey",
+          "patience with clarity"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for triumphant adventures and bold accomplishments. Fear of stagnation or missing out on life's excitement.",
+        "reversed": "Fear of overextending or acting recklessly. Hope that observing restraint leads to greater fulfillment.",
+        "keywords": [
+          "triumphant adventures",
+          "fear of stagnation",
+          "observing restraint"
+        ]
+      },
+      "hopes": {
+        "upright": "Yearning for vibrant experiences and the pursuit of dreams with enduring passion and commitment.",
+        "reversed": "Hopes for clarity and alignment, wishing for direction amidst energetic chaos.",
+        "keywords": [
+          "vibrant experiences",
+          "dream pursuit",
+          "clarity and alignment"
+        ]
+      },
+      "fears": {
+        "upright": "Apprehensive of losing momentum or being trapped in a cycle of unfulfilled ambitions.",
+        "reversed": "Fear of reckless endeavors leading to burnout or scattered efforts overshadowing potential.",
+        "keywords": [
+          "losing momentum",
+          "unfulfilled ambitions",
+          "reckless endeavors"
+        ]
+      },
+      "subconscious": {
+        "upright": "Driven by an innate passion that seeks fulfillment through exploration and bold undertakings.",
+        "reversed": "Subconscious turbulence creates misdirection; need for grounding and intentional focus.",
+        "keywords": [
+          "innate passion",
+          "exploration drive",
+          "subconscious turbulence"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of ambitions and the desire to break new ground; excitement fuels your journey.",
+        "reversed": "Mind might be clouded by haste; slowing down reveals true intentions and potential paths.",
+        "keywords": [
+          "ambition awareness",
+          "groundbreaking desire",
+          "clouded by haste"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Feeling invigorated and ready to face life's adventures with heart full of enthusiasm.",
+        "reversed": "Emotional turbulence could arise from hasty actions or inconsistencies in personal desires.",
+        "keywords": [
+          "emotional invigoration",
+          "adventurous heart",
+          "emotional turbulence"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart yearns for freedom and the thrill of the unknown; let it guide you to passionate opportunities.",
+        "reversed": "Heart's true desires might be overshadowed by impulsivity or unwarranted haste.",
+        "keywords": [
+          "freedom yearning",
+          "thrill of unknown",
+          "heart's true desire"
+        ]
+      },
+      "mind": {
+        "upright": "A mind rich with ideas, eager to implement visions with intensity and a creative spark.",
+        "reversed": "Possibly overwhelmed by scattered thoughts; gaining focus allows clarity to surface.",
+        "keywords": [
+          "rich ideas",
+          "creative spark",
+          "scattered thoughts"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others see you as a vibrant force, provoking inspiration and wonder with your daring pursuits.",
+        "reversed": "Outside perspectives may perceive you as unpredictable or lacking consistent direction.",
+        "keywords": [
+          "vibrant force",
+          "inspiring presence",
+          "unpredictable perception"
+        ]
+      },
+      "others": {
+        "upright": "Support or enthusiasm from others encourages your bold steps and adventurous spirit.",
+        "reversed": "External skepticism might discourage impulses or challenge your drive to act promptly.",
+        "keywords": [
+          "supportive enthusiasm",
+          "external skepticism",
+          "challenged drive"
+        ]
+      },
+      "environment": {
+        "upright": "Circumstances support bold moves and adventurous undertakings, aligning with dynamic energy.",
+        "reversed": "An environment of delays or obstacles could hinder progress if actions lack cohesive vision.",
+        "keywords": [
+          "supportive circumstances",
+          "bold moves",
+          "delaying environment"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You're perceived as a trailblazer, inspiring others through charismatic leadership and daring feats.",
+        "reversed": "Seen as erratic or overzealous, risking trust due to perceived impulsive nature.",
+        "keywords": [
+          "trailblazer image",
+          "charismatic leadership",
+          "erratic perception"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Sneaky opportunities may arise from unseen allies, guiding your path in subtle yet significant ways.",
+        "reversed": "Unconscious fears or hidden agendas could obscure clarity, creating tension in decisions.",
+        "keywords": [
+          "sneaky opportunities",
+          "unseen allies",
+          "unconscious fears"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Attaining success and personal fulfillment through fearless exploration and passionate pursuit.",
+        "reversed": "Potential frustration if energy is misdirected or if goals are pursued carelessly.",
+        "keywords": [
+          "fearless success",
+          "passionate fulfillment",
+          "misdirected energy"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, bold endeavors lead to a legacy of achievements and fulfilled passions.",
+        "reversed": "Final consequences may involve a reevaluation of priorities if actions lacked mindful intention.",
+        "keywords": [
+          "bold endeavors",
+          "legacy of achievements",
+          "priority reevaluation"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "A thrilling journey leading to new discoveries and expansive growth on multiple levels.",
+        "reversed": "Possible setbacks due to haste or failure to consider longer-term implications of actions.",
+        "keywords": [
+          "thrilling journey",
+          "new discoveries",
+          "possible setbacks"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenario brings rapid successes, newfound adventures, and a vibrant life filled with possibilities.",
+        "reversed": "Ideal outcomes involve reining in wild impulses to align plans with sustainable visions.",
+        "keywords": [
+          "rapid successes",
+          "newfound adventures",
+          "ideal outcomes"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case leads to scattered efforts and burnout from relentless pursuit without reflection.",
+        "reversed": "Entrapment in cycles of impetuous actions undermining deeper fulfillment and satisfaction.",
+        "keywords": [
+          "scattered efforts",
+          "burnout",
+          "impetuous cycles"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship involves someone with natural leadership ability, creativity, and the power to inspire others. The dynamic includes mentorship, guidance, or one party helping the other develop their talents and confidence.",
+        "reversed": "Leadership may be lacking, misdirected, or become domineering. Creativity could be blocked or used for selfish purposes. The relationship might involve manipulation, arrogance, or inability to inspire and support each other's growth.",
+        "keywords": [
+          "leadership",
+          "inspiration",
+          "creativity",
+          "guidance"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A passionate and adventurous romance. Ready to dive into love boldly, embracing excitement and novelty.",
+      "reversed": "Impulsivity in love could lead to misunderstandings or heartbreak if unchecked. Reality checks needed.",
+      "keywords": [
+        "passionate romance",
+        "adventurous love",
+        "impulsive risks"
+      ]
+    },
+    "career": {
+      "upright": "Time for taking bold steps in career pursuits, embracing new challenges with confidence and vigor.",
+      "reversed": "Rushing too fast without planning can stall progress; need strategic thinking in professional paths.",
+      "keywords": [
+        "career passion",
+        "bold steps",
+        "strategic planning"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual call to embrace dynamic growth and explore new horizons. A journey through transformative practices.",
+      "reversed": "Impulsiveness or lack of focus distracts spiritual progress. Grounded reflection is necessary.",
+      "keywords": [
+        "dynamic growth",
+        "spiritual horizons",
+        "grounded reflection"
+      ]
+    },
+    "financial": {
+      "upright": "Energy and initiative can manifest in prosperous ventures, but require wise investments and foresight.",
+      "reversed": "Recklessness in financial matters could lead to instability; careful assessment necessary for security.",
+      "keywords": [
+        "prosperous ventures",
+        "wise investments",
+        "financial recklessness"
+      ]
+    },
+    "health": {
+      "upright": "Time to infuse vitality into life through active pursuits. Embrace a spirited approach to well-being.",
+      "reversed": "Neglect or impulsive health choices might create setbacks; balanced perseverance needed.",
+      "keywords": [
+        "vitality infusion",
+        "active pursuits",
+        "health setbacks"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "sagittarius",
+    "hebrew_letter": "samekh",
+    "numerology": 12,
+    "planet": "mars",
+    "season": "summer",
+    "time_of_day": "noon",
+    "colors": [
+      "red",
+      "orange",
+      "gold"
+    ],
+    "crystals": [
+      "carnelian",
+      "citrine",
+      "red jasper"
+    ],
+    "herbs": [
+      "cinnamon",
+      "ginger",
+      "cardamom"
+    ]
+  },
+  "symbols": {
+    "horse": "energy and raw power",
+    "desert": "journey through difficult terrain",
+    "fiery plume": "passion and dynamic movement",
+    "armor": "protection and readiness",
+    "wand": "creative force and action"
+  },
+  "affirmations": [
+    "I channel my passion into meaningful action.",
+    "I boldly embrace my life path with enthusiasm and confidence.",
+    "My adventurous spirit fuels personal growth and success.",
+    "I balance my eagerness with mindful reflection."
+  ],
+  "journaling_prompts": [
+    "Where in my life am I being called to take bold action?",
+    "How can I ensure my energy is focused and directed wisely?",
+    "What passions are waiting to be explored?",
+    "In what ways can I navigate impatience and cultivate patience?"
+  ],
+  "meditation_focus": "Reflect on your inner fire, allowing it to guide you into transformative action without haste or recklessness.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:14:22.112651",
+    "card_info": {
+      "name": "Knight of Wands",
+      "number": 12,
+      "suit": "wands"
+    },
+    "filename": "w12.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_chariot": {
+        "interpretation": "Determination partnered with intense focus creates unstoppable momentum toward goals.",
+        "keywords": [
+          "determination",
+          "partnered",
+          "intense",
+          "focus"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "Pure enthusiasm and radiant energy amplify joy and success, illuminating a clear path forward.",
+        "keywords": [
+          "pure",
+          "enthusiasm",
+          "radiant",
+          "energy"
+        ]
+      },
+      "ace_of_wands": {
+        "interpretation": "Creative energy ignited; new projects infused with passion and exuberant beginnings.",
+        "keywords": [
+          "creative",
+          "energy",
+          "ignited",
+          "projects"
+        ]
+      }
+    },
+    "challenges": {
+      "the_hanged_man": {
+        "interpretation": "A clash between energetic ambitions and the need for patience and reflective pause.",
+        "keywords": [
+          "clash",
+          "energetic",
+          "ambitions",
+          "need"
+        ]
+      },
+      "the_tower": {
+        "interpretation": "Possibility of sudden upheaval if haste overrides caution, requiring adaptability amidst chaos.",
+        "keywords": [
+          "possibility",
+          "sudden",
+          "upheaval",
+          "haste"
+        ]
+      },
+      "four_of_swords": {
+        "interpretation": "Energy conflicts with necessary rest and recovery, risking burnout and emotional fatigue.",
+        "keywords": [
+          "energy",
+          "conflicts",
+          "necessary",
+          "rest"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hermit": {
+        "interpretation": "Solitude provides deeper insight and wisdom, bringing clarity to impulsive desires.",
+        "keywords": [
+          "solitude",
+          "provides",
+          "deeper",
+          "insight"
+        ]
+      },
+      "three_of_wands": {
+        "interpretation": "Expansive horizons defined, aligning broader visions with decisive action for success.",
+        "keywords": [
+          "expansive",
+          "horizons",
+          "defined",
+          "aligning"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Discerning focus from amongst many desires guides committed and meaningful choices.",
+        "keywords": [
+          "discerning",
+          "focus",
+          "amongst",
+          "many"
+        ]
+      }
+    },
+    "similar_energy": {
+      "ace_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "page_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  },
+  "description": {
+    "waite": "He is shewn as if upon a journey, armed with a short wand, and although mailed is not on a warlike errand. He is passing mounds or pyramids. The motion of the horse is a key to the character of its rider, and suggests the precipitate mood, or things connected therewith.",
+    "tk_en": "The card shows a brave young man riding a leaping horse. Although lively and full of charm, he is very difficult to rein in. This is a card of passion and strong impulses that are hard to contain.",
+    "tk_zh": "牌面上繪製著騎在跳躍的馬上的勇敢青年身影。雖然活潑且充滿魅力，但要控制他可極為困難。這是張呈現難以駕馭的熱情與強烈衝動的牌。"
+  },
+  "reading_aspects": {
+    "currentSituation": {
+      "upright": {
+        "en": "Time of departure / signs of job change or transfer / unusual connection",
+        "zh": "啟程的時候/跳槽或調動的跡象/有不可思議的機緣"
+      },
+      "reversed": {
+        "en": "Leaving your current place / signs of causing trouble / almost there but not quite",
+        "zh": "離開現在所在處的時候/引發麻煩的跡象/只差一步的狀況"
+      }
+    },
+    "innerState": {
+      "upright": {
+        "en": "Wanting to begin with full drive / passionate about challenges / just wanting to start above all",
+        "zh": "想要開始而幹勁十足/對挑戰抱持熱情/總之就是想開始"
+      },
+      "reversed": {
+        "en": "Bewildered, losing yourself / possibly taking a belligerent stance after being demoted / resentful / excited state",
+        "zh": "不知所措地迷失自我/可能遭到貶謫而氣勢洶洶/惱羞成怒/激動狀態"
+      }
+    },
+    "rootCause": {
+      "upright": {
+        "en": "Only enthusiasm without concrete plan / recklessness / avoiding thinking",
+        "zh": "空有熱情而沒有具體計畫/莽撞/逃避思考"
+      },
+      "reversed": {
+        "en": "Weakness attacked / clinging to current state / big talk",
+        "zh": "弱點被攻擊/拘泥現狀/言誇張"
+      }
+    },
+    "development": {
+      "upright": {
+        "en": "Meeting influential person / enthusiasm for challenge emerging / moving about busily",
+        "zh": "遇見具影響力的人物/湧現挑戰的熱情/東奔西跑"
+      },
+      "reversed": {
+        "en": "Facing trouble such as bickering or disputes / circumstances playing with you",
+        "zh": "面臨口角或爭執等麻煩/被狀況的變化玩弄於股掌間"
+      }
+    },
+    "advice": {
+      "upright": {
+        "en": "Rather than consider consequences, take action first / begin after changing your mind",
+        "zh": "與其考慮後果不如先採取行動/改變想法後開始"
+      },
+      "reversed": {
+        "en": "Calm down and think / panic only brings fatigue / don't fear unexpected circumstances",
+        "zh": "冷靜下來思考/即使驚慌也只會疲憊/不要害怕意料之外的事態"
+      }
+    }
+  },
+  "contextual_meanings": {
+    "love": {
+      "upright": {
+        "en": "Actively pursuing success / mutually drawn by sexual attraction / a bold and passionate person / an ardent pursuer",
+        "zh": "積極地追求成功/受到性感魅力互相吸引的關係/大膽而熱情的人/肉食系"
+      },
+      "reversed": {
+        "en": "Romance with uncertain developments / frequently quarreling couple / trying to protect yourself / selfish person",
+        "zh": "不知道會發生什麼事的戀情/經常吵架的情侶/試圖保護自己/利己主義者"
+      }
+    },
+    "work": {
+      "upright": {
+        "en": "Opening new customers or markets / sales-related work / new challenges / studying abroad / business trip / promotion / trading",
+        "zh": "開拓新顧客或市場/營業相關的工作/新的挑戰/留學/出差/榮升/貿易"
+      },
+      "reversed": {
+        "en": "All your efforts falling behind / missing deadlines / no plan / worsened interpersonal relations / obstruction",
+        "zh": "所做的一切都落於人後/趕不上時間/沒有計畫/人際關係惡化/妨礙"
+      }
+    },
+    "interpersonal": {
+      "upright": {
+        "en": "Mutually expressing passion / worry-free relationship / reckless person / sports partner / travel companion",
+        "zh": "可互相表達熱情/沒有後顧之憂的關係/冒失的人/運動夥伴/旅伴"
+      },
+      "reversed": {
+        "en": "Incompatible / every meeting affects your mood / a relationship prone to quarrels / troublemaker",
+        "zh": "合不來/每次見面都影響心情/會吵起來的關係/麻煩製造者"
+      }
+    },
+    "others": {
+      "upright": {
+        "en": "Brave / impatient / confident / sudden travel / driving / car / bus or train and other public transportation",
+        "zh": "勇敢/性急/自信/突然的旅行/開車/汽車/巴士或電車等大眾交通工具"
+      },
+      "reversed": {
+        "en": "Restless / unstable / boastful bluff / discouragement / visiting various places / setback",
+        "zh": "靜不下來/不穩定/衝動的吹牛/氣餒/到各種地方拜訪/挫折"
+      }
+    }
+  }
+}

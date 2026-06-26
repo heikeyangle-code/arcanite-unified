@@ -1,0 +1,835 @@
+{
+  "card_id": "the_fool",
+  "card_name": "The Fool",
+  "card_number": 0,
+  "suit": "major_arcana",
+  "archetype": "the_innocent",
+  "core_meanings": {
+    "upright": {
+      "essence": "The threshold of boundless potential, where excitement and naivety dance in perfect harmony.",
+      "keywords": [
+        "potential",
+        "faith",
+        "innocence",
+        "risk",
+        "adventure",
+        "spontaneity",
+        "trust"
+      ],
+      "psychological": "Embodies the free spirit within, untouched by judgment, ever ready to discover new horizons.",
+      "spiritual": "The soul's first breath, embracing life's mysteries with open arms and an untainted heart.",
+      "practical": "A call to leap into the unknown with trust and courage, letting intuition be your guide.",
+      "shadow": "Recklessness masked as bravery, a refusal to heed life's lessons, forging ahead blindfolded.",
+      "waite_meaning": "Folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment.",
+      "tk_meaning_en": "Pure values free from preconceived notions, convention, or worldly judgment. By living according to one's own heart, unexpected opportunities and new ideas may emerge.",
+      "tk_meaning_zh": "表現出不受「該這樣」的既定觀念、常識或世俗眼光所束縛的純粹價值觀，依照自己的心意生活的狀態。因此會有出乎意料的機會從天而降，或湧現嶄新的點子。",
+      "tk_coreKeyword_en": "Freedom",
+      "tk_coreKeyword_zh": "自由"
+    },
+    "reversed": {
+      "essence": "Fearful hesitation or dangerous impulsivity, where inner voices of caution and chaos clash.",
+      "keywords": [
+        "recklessness",
+        "fear",
+        "hesitation",
+        "naivety",
+        "missed chances",
+        "carelessness"
+      ],
+      "psychological": "A mind tangled between the fear of failure and the lure of impulsivity, unable to ground its energy.",
+      "spiritual": "A disconnection from inner knowing, either through reckless abandon or overwhelming caution.",
+      "practical": "A need to stop and seek clarity before jumping, balancing dreams with discernment.",
+      "shadow": "Unwise leaps or crippling fear preventing progress, each cloaked in flawed justifications.",
+      "waite_meaning": "Negligence, absence, distribution, carelessness, apathy, nullity, vanity.",
+      "tk_meaning_en": "Passive indecision stands out. Aimless drifting may bring loneliness, irresponsibility, and loss of trust from those around you.",
+      "tk_meaning_zh": "凡事都猶豫不決的消極面特別顯眼。由於漫無目的地持續遊蕩，而遭受居無定所的孤獨感折磨。隨心所欲的個性也會被視為態度不負責任，導致失去周遭人們的信任。"
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A pivotal leap of faith in the past has shaped your journey, defining who you have become.",
+        "reversed": "Previous misguided decisions or fears have left lingering shadows over current paths.",
+        "keywords": [
+          "foundational leap",
+          "transformative decision",
+          "past naivety",
+          "lingering fear"
+        ]
+      },
+      "distant_past": {
+        "upright": "Your journey began with innocence, setting a tone of wonder and openness that echoes through time.",
+        "reversed": "Early choices hindered by naivety or undue caution still whisper their cautious tales.",
+        "keywords": [
+          "echoed innocence",
+          "early wonders",
+          "youthful mistakes",
+          "ancient echoes"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent bold steps taken with optimism have brought fresh experiences and growth.",
+        "reversed": "Recent missed opportunities or reckless actions have led to current uncertainty.",
+        "keywords": [
+          "bold steps",
+          "missed chance",
+          "recent growth",
+          "current uncertainty"
+        ]
+      },
+      "present": {
+        "upright": "Standing at the brink of a new journey, the present calls for brave leaps and open hearts.",
+        "reversed": "Either paralyzed by indecision or charging blindly, this moment demands balance.",
+        "keywords": [
+          "new journey",
+          "brave leap",
+          "decisive moment",
+          "imbalance"
+        ]
+      },
+      "present_situation": {
+        "upright": "Life is a canvas of potential, inviting exploration with joyful trust and curiosity.",
+        "reversed": "Inner turmoil between fear and recklessness clouds your current path.",
+        "keywords": [
+          "potential canvas",
+          "joyful exploration",
+          "inner turmoil",
+          "clouded path"
+        ]
+      },
+      "future": {
+        "upright": "Upcoming adventures promise growth and learning, urging you to embrace them with courage.",
+        "reversed": "Potential pitfalls await if caution is thrown to the wind or fears take control.",
+        "keywords": [
+          "promised growth",
+          "future learning",
+          "potential pitfalls",
+          "cautious foresight"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, an opportunity to explore the unknown will arise; let curiosity lead the way.",
+        "reversed": "Approaching choices require careful thought to avoid repeating past mistakes or hesitations.",
+        "keywords": [
+          "exploration opportunity",
+          "imminent choice",
+          "curiosity path",
+          "cautious replay"
+        ]
+      },
+      "distant_future": {
+        "upright": "A life painted with authenticity and adventurous spirit awaits, sculpted by fearless choices.",
+        "reversed": "Continued fear or rashness may lead to regrets and untapped potential.",
+        "keywords": [
+          "authentic life",
+          "adventurous spirit",
+          "future regrets",
+          "untapped potential"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Balancing trust with wisdom is key; let skepticism protect but not cage your spirit.",
+        "reversed": "Challenge lies in distinguishing excitement from folly, and fear from insight.",
+        "keywords": [
+          "balanced trust",
+          "protective wisdom",
+          "distinguishing insight",
+          "fear vs. excitement"
+        ]
+      },
+      "cross": {
+        "upright": "Conformity and doubt woven by others may stifle your spontaneous nature.",
+        "reversed": "Your own fears bind you, obstructing the urge to venture and explore freely.",
+        "keywords": [
+          "conformity",
+          "external doubt",
+          "internal fear",
+          "obstructed exploration"
+        ]
+      },
+      "obstacle": {
+        "upright": "Voices of past disappointments or societal caution cloud your innate sense of wonder.",
+        "reversed": "Self-imposed barriers, born of fear of failure or judgment, stand tall.",
+        "keywords": [
+          "past disappointments",
+          "clouded wonder",
+          "self-barriers",
+          "fear of judgment"
+        ]
+      },
+      "lesson": {
+        "upright": "The path teaches trust in the journey, blending innocence with the wisdom of experience.",
+        "reversed": "Recognize when impulse masquerades as intuition, understanding the need for conscious decision-making.",
+        "keywords": [
+          "trust in journey",
+          "innocence wisdom",
+          "impulse vs. intuition",
+          "conscious decisions"
+        ]
+      },
+      "shadow": {
+        "upright": "In shadow lies the wary wisdom aged by time, offering protection without stifling joy.",
+        "reversed": "Hidden are the reckless urges or deep-seated fears that need loving acknowledgment and balance.",
+        "keywords": [
+          "wary wisdom",
+          "shadow joy",
+          "reckless urges",
+          "hidden fears"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Critics and inner caution stifle your natural exuberance and intuitive leaps.",
+        "reversed": "A fixation on certainty inhibits your journey, obscuring vast horizons with narrow focus.",
+        "keywords": [
+          "inner critics",
+          "stifled exuberance",
+          "certainty fixation",
+          "narrow focus"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Leap boldly yet wisely; let intuition guide your steps without forgetting lessons learned.",
+        "reversed": "Pause to ponder your path, allowing reflection to inform actions and intentions.",
+        "keywords": [
+          "bold wisdom",
+          "intuitive guide",
+          "reflective pause",
+          "informed actions"
+        ]
+      },
+      "action": {
+        "upright": "Embrace adventure with courage and a readiness for anything life unveils.",
+        "reversed": "Practice patience and careful planning when facing the next steps in your journey.",
+        "keywords": [
+          "embrace adventure",
+          "courageous readiness",
+          "patient planning",
+          "careful steps"
+        ]
+      },
+      "your_approach": {
+        "upright": "Your spirit reflects a joyful seeker, unrestrained by self-imposed limitations or fears.",
+        "reversed": "A mirror of either untempered eagerness or cautious retreat, revealing inner conflicts.",
+        "keywords": [
+          "joyful seeker",
+          "reflective spirit",
+          "inner conflicts",
+          "self-limitation"
+        ]
+      },
+      "what_helps": {
+        "upright": "Cherish your childlike faith and resilience, fostering growth and adaptability.",
+        "reversed": "Seek counsel or anchor within, balancing enthusiasm with grounded wisdom.",
+        "keywords": [
+          "faith resilience",
+          "growth adaptability",
+          "counsel seeking",
+          "grounded wisdom"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust the path; every step embraced with pure heart leads to fulfilling discoveries.",
+        "reversed": "Recognize the value of moderation, discerning wisdom from whims in your pursuits.",
+        "keywords": [
+          "trust path",
+          "fulfilling discoveries",
+          "value moderation",
+          "wise pursuits"
+        ]
+      },
+      "best_course": {
+        "upright": "With open-hearted optimism, accept life's invitations; each journey beckons growth.",
+        "reversed": "Cultivate a discerning eye, knowing when to leap and when to prep with care.",
+        "keywords": [
+          "open optimism",
+          "growth invitations",
+          "discerning eye",
+          "careful prep"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to journey unbounded by self-doubt or fear; fear of losing this innate freedom.",
+        "reversed": "Fear missteps overshadow dreams, yet the hope for calculated safety persists.",
+        "keywords": [
+          "unbounded journey",
+          "innate freedom",
+          "misstep fear",
+          "safety hope"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope to craft a life of endless adventure and authentic expression.",
+        "reversed": "Hope to tread carefully, untainted by past fears, but guided by cautious optimism.",
+        "keywords": [
+          "endless adventure",
+          "authentic expression",
+          "careful tread",
+          "cautious optimism"
+        ]
+      },
+      "fears": {
+        "upright": "Fear the erosion of innocence, as cynicism threatens to dim your vibrant spirit.",
+        "reversed": "Fear paralysis, where overthinking curtails possibilities and smothers potential.",
+        "keywords": [
+          "eroded innocence",
+          "dimmed spirit",
+          "overthinking paralysis",
+          "curtailed potential"
+        ]
+      },
+      "subconscious": {
+        "upright": "Led by a deep-seated belief in life’s endless possibilities and inherent benevolence.",
+        "reversed": "Subconscious currents risk veering between neglecting caution and fearing every move.",
+        "keywords": [
+          "inherent belief",
+          "endless possibilities",
+          "subconscious currents",
+          "caution neglect"
+        ]
+      },
+      "conscious": {
+        "upright": "Your mind is alive with curiosity, eager to explore and unveil wonders life offers.",
+        "reversed": "Conscious efforts may waver between reckless abandon and stagnation from fear.",
+        "keywords": [
+          "explorative curiosity",
+          "conscious eagerness",
+          "reckless wavering",
+          "fear stagnation"
+        ]
+      },
+      "emotional_state": {
+        "upright": "A soul vibrating with excitement and the delight of uncharted adventures ahead.",
+        "reversed": "Emotionally, you tread a tightrope between daring leaps and paralyzing caution.",
+        "keywords": [
+          "vibrant excitement",
+          "emotional delight",
+          "tightrope walking",
+          "cautious paralyzation"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs to wander free, unharnessed by the constraints of fear or judgment.",
+        "reversed": "A heart wary of trust, battling between the allure of adventure and safety's chains.",
+        "keywords": [
+          "free wanderer",
+          "unharnessed heart",
+          "trust wariness",
+          "safety chains"
+        ]
+      },
+      "mind": {
+        "upright": "The mind embraces knowledge with openness, welcoming lessons wrapped in mystery.",
+        "reversed": "Tethered by thoughts racing between spontaneous action and cautionary tales.",
+        "keywords": [
+          "open knowledge",
+          "mental embrace",
+          "thought tethering",
+          "cautionary tales"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Your spontaneity inspires others; your zest for life positively influences surroundings.",
+        "reversed": "Viewed as erratic or overly cautious by those around you, affecting relationships.",
+        "keywords": [
+          "inspired spontaneity",
+          "zesty influence",
+          "erratic view",
+          "relationship effects"
+        ]
+      },
+      "others": {
+        "upright": "Support from those emboldened by your courage to embrace the new reinforces endeavors.",
+        "reversed": "Others might mirror your fears, hesitating to support what they don’t understand.",
+        "keywords": [
+          "supportive courage",
+          "reinforced endeavors",
+          "mirrored fears",
+          "understanding lack"
+        ]
+      },
+      "environment": {
+        "upright": "The environment fosters exploration and risk-taking, offering fertile ground for innovation.",
+        "reversed": "Environmental influences press toward caution, imposing limits on your adventurous spirit.",
+        "keywords": [
+          "encouraging risk",
+          "innovative ground",
+          "cautious environment",
+          "spirit limits"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a free spirit who fearlessly follows their heart, admired for authenticity.",
+        "reversed": "Perceived as unpredictable or overly guarded, causing others to misjudge motives.",
+        "keywords": [
+          "admired spirit",
+          "fearless authenticity",
+          "unpredictable perception",
+          "motive misjudgment"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces pave the way, with synchronicities quietly supporting your steps.",
+        "reversed": "Hidden doubts, perhaps from past, grip your psyche, quietly steering decisions.",
+        "keywords": [
+          "supportive forces",
+          "quiet synchronicities",
+          "hidden doubts",
+          "steering decisions"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Joy blooms from authentic choices, a life vibrant with unexpected joys and paths.",
+        "reversed": "A path marred by avoidable mistakes or missed chances due to undue caution or rashness.",
+        "keywords": [
+          "authentic joy",
+          "vibrant path",
+          "avoidable mistakes",
+          "missed chances"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Life unfolds in wondrous ways, with adventures manifesting dreams into reality.",
+        "reversed": "Hard-learned lessons reveal through paths untaken, experiences bypassed by fear.",
+        "keywords": [
+          "wondrous unfoldment",
+          "manifested dreams",
+          "learned lessons",
+          "bypassed fear"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "A world of possibilities unravels, shaped by leaps into the unknown's embrace.",
+        "reversed": "Future shadows form from hesitated dreams, dreams tethered by endless questioning.",
+        "keywords": [
+          "unraveled possibilities",
+          "unknown embrace",
+          "hesitated dreams",
+          "tethered hopes"
+        ]
+      },
+      "best_case": {
+        "upright": "Landing gracefully in a soothing reality, the courageous heart experiences true liberation.",
+        "reversed": "Best case might seem alluring, yet behind lies a refusal to learn key lessons.",
+        "keywords": [
+          "graceful landing",
+          "true liberation",
+          "alluring facade",
+          "unlearned lessons"
+        ]
+      },
+      "worst_case": {
+        "upright": "Missteps lead to new wisdom, valuable lessons born from innocent misadventures.",
+        "reversed": "A static life looms large, held captive by missed opportunities and self-doubt.",
+        "keywords": [
+          "valuable lessons",
+          "innocent misadventures",
+          "static life",
+          "captured dreams"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship brings out your adventurous, spontaneous sides. There's an exciting energy of new beginnings and endless possibilities between you. You inspire each other to take risks and embrace the unknown together. The dynamic is youthful, optimistic, and full of potential for growth.",
+        "reversed": "The connection feels reckless or immature. One or both parties may be jumping in too quickly without considering consequences. There's potential for poor judgment or naivety to damage what you're building. The relationship may lack grounding or realistic expectations.",
+        "keywords": [
+          "new beginnings",
+          "adventure",
+          "spontaneity",
+          "potential"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A blossoming romance, where wonder and vulnerability create a magical connection",
+      "reversed": "Overly cautious or reckless engagements hinder love's true emergence.",
+      "keywords": [
+        "blossoming romance",
+        "magical connection",
+        "cautious hindrance",
+        "reckless engagement"
+      ]
+    },
+    "career": {
+      "upright": "Pioneering ventures or career shifts await, calling for an adventurous spirit.",
+      "reversed": "Career confusion or opportunities squandered by rashness or inaction linger.",
+      "keywords": [
+        "pioneering ventures",
+        "career shift",
+        "confused path",
+        "squandered chances"
+      ]
+    },
+    "spiritual": {
+      "upright": "Embarking on a spiritual awakening, with openness to the divine guiding your way.",
+      "reversed": "Misguided spirituality or rigid skepticism clouds spiritual journeys.",
+      "keywords": [
+        "awakening journey",
+        "divine guidance",
+        "misguided path",
+        "spiritual skepticism"
+      ]
+    },
+    "financial": {
+      "upright": "New financial paths and potentials beckon, welcoming bold yet wise risks.",
+      "reversed": "Missteps with resources or excessive caution create financial tension.",
+      "keywords": [
+        "financial paths",
+        "wise risks",
+        "resource mismanagement",
+        "financial tension"
+      ]
+    },
+    "health": {
+      "upright": "A fresh dawn for health, embracing new practices that invigorate and renew.",
+      "reversed": "Neglect or avoidance of health, manifesting from rashness or paralyzing worry.",
+      "keywords": [
+        "healthful renewal",
+        "invigorating practice",
+        "health neglect",
+        "paralyzing worry"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "uranus",
+    "hebrew_letter": "aleph",
+    "numerology": 0,
+    "planet": "uranus",
+    "season": "spring",
+    "time_of_day": "dawn",
+    "colors": [
+      "yellow",
+      "white",
+      "light blue"
+    ],
+    "crystals": [
+      "clear quartz",
+      "moonstone",
+      "aventurine"
+    ],
+    "herbs": [
+      "rosemary",
+      "mint",
+      "lavender"
+    ]
+  },
+  "symbols": {
+    "white_rose": "purity and innocent love",
+    "cliff_edge": "leap of faith, unknown territory",
+    "small_bag": "life experiences yet to be gained",
+    "white_dog": "loyal instincts and natural wisdom",
+    "mountains": "spiritual heights to be attained",
+    "sun": "optimism and life force energy"
+  },
+  "affirmations": [
+    "I trust my journey and embrace new beginnings with an open heart",
+    "I have the courage to take the first step into the unknown",
+    "My innocence is a strength that keeps me open to wonder and growth",
+    "I balance spontaneity with wisdom in all my choices"
+  ],
+  "journaling_prompts": [
+    "What new beginning is calling to me right now?",
+    "How can I approach my current situation with fresh eyes?",
+    "What would I do if I knew I couldn't fail?",
+    "Where in my life do I need more courage and faith?"
+  ],
+  "meditation_focus": "Connecting with your inner sense of adventure and trust in life's unfolding. Breathing in possibility, breathing out fear.",
+  "_metadata": {
+    "generated_at": "2025-08-13T16:39:21.609947",
+    "card_info": {
+      "name": "The Fool",
+      "number": 0,
+      "suit": "major_arcana"
+    },
+    "filename": "m00.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_magician": {
+        "interpretation": "Potential transforms into purposeful action, weaving dreams into reality.",
+        "keywords": [
+          "potential",
+          "transforms",
+          "purposeful",
+          "action"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "Basks in joy and optimism, where life unfolds as a wondrous journey.",
+        "keywords": [
+          "basks",
+          "optimism",
+          "life",
+          "unfolds"
+        ]
+      },
+      "ace_of_wands": {
+        "interpretation": "New beginnings ignite with creative passion and infectious enthusiasm.",
+        "keywords": [
+          "beginnings",
+          "ignite",
+          "creative",
+          "passion"
+        ]
+      }
+    },
+    "challenges": {
+      "the_emperor": {
+        "interpretation": "Spontaneity confronts the need for structure, where freedom meets discipline.",
+        "keywords": [
+          "spontaneity",
+          "confronts",
+          "need",
+          "structure"
+        ]
+      },
+      "five_of_pentacles": {
+        "interpretation": "Innocence meets harsh reality, lessons on material consciousness arise.",
+        "keywords": [
+          "innocence",
+          "meets",
+          "harsh",
+          "reality"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Trust is tested by trickery or deception, requiring sharpened discernment.",
+        "keywords": [
+          "trust",
+          "tested",
+          "trickery",
+          "deception"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hermit": {
+        "interpretation": "Inner guidance illuminates new paths with gentle wisdom and introspection.",
+        "keywords": [
+          "inner",
+          "guidance",
+          "illuminates",
+          "paths"
+        ]
+      },
+      "two_of_pentacles": {
+        "interpretation": "Navigating choices with balance, adapting to life's shifting landscapes.",
+        "keywords": [
+          "navigating",
+          "choices",
+          "balance",
+          "adapting"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Catalyst for rebirth, embracing redemption as new paths unfold.",
+        "keywords": [
+          "catalyst",
+          "rebirth",
+          "embracing",
+          "redemption"
+        ]
+      }
+    },
+    "similar_energy": {
+      "ace_of_wands": {
+        "interpretation": "Both cards embody the pure energy of new beginnings - The Fool with innocent trust and Ace of Wands with creative fire. Together they represent the perfect moment when inspiration meets courage to act.",
+        "keywords": [
+          "new beginnings",
+          "creative potential",
+          "pure energy",
+          "inspired action"
+        ]
+      },
+      "the_star": {
+        "interpretation": "Both cards channel divine guidance and optimistic faith. The Fool's naive trust in life's goodness mirrors The Star's serene confidence in universal support and healing.",
+        "keywords": [
+          "divine guidance",
+          "faith",
+          "optimism",
+          "trust in universe"
+        ]
+      },
+      "three_of_cups": {
+        "interpretation": "The Fool's open-hearted approach to life resonates with Three of Cups' joyful celebration and community spirit. Both embrace life with enthusiasm and welcome connections with others.",
+        "keywords": [
+          "joyful celebration",
+          "open heart",
+          "community",
+          "social enthusiasm"
+        ]
+      }
+    },
+    "opposite_energy": {
+      "the_world": {
+        "interpretation": "The Fool represents the beginning of the journey while The World represents its completion. This polarity shows the full cycle from innocent potential to achieved mastery and integration.",
+        "keywords": [
+          "beginning vs completion",
+          "journey's end",
+          "potential vs achievement",
+          "cycle completion"
+        ]
+      },
+      "four_of_pentacles": {
+        "interpretation": "The Fool's carefree trust contrasts sharply with Four of Pentacles' need for security and control. Where The Fool leaps freely, Four of Pentacles clings tightly to what it has.",
+        "keywords": [
+          "freedom vs security",
+          "trust vs control",
+          "carefree vs cautious",
+          "letting go vs holding on"
+        ]
+      },
+      "the_devil": {
+        "interpretation": "The Fool's innocent freedom stands in stark opposition to The Devil's chains of limitation and illusion. This contrast highlights the choice between liberation through trust and bondage through fear.",
+        "keywords": [
+          "freedom vs bondage",
+          "innocence vs corruption",
+          "trust vs fear",
+          "liberation vs chains"
+        ]
+      }
+    },
+    "learning_sequence": {
+      "the_fool": {
+        "interpretation": "The Fool represents the eternal beginner's mind - even when The Fool appears multiple times, it emphasizes returning to fresh perspective and childlike wonder in any situation.",
+        "keywords": [
+          "beginner's mind",
+          "fresh perspective",
+          "eternal renewal",
+          "childlike wonder"
+        ]
+      },
+      "the_magician": {
+        "interpretation": "The natural progression from The Fool's raw potential to The Magician's focused manifestation. This sequence shows how innocent trust develops into conscious will and skilled action.",
+        "keywords": [
+          "potential to manifestation",
+          "trust to will",
+          "innocence to skill",
+          "natural progression"
+        ]
+      },
+      "the_high_priestess": {
+        "interpretation": "Following The Magician, The High Priestess teaches The Fool to balance external action with inner wisdom, moving from pure instinct to developed intuition and deeper spiritual understanding.",
+        "keywords": [
+          "inner wisdom",
+          "intuition development",
+          "spiritual understanding",
+          "action to reflection"
+        ]
+      }
+    }
+  },
+  "description": {
+    "waite": "With light step, as if earth and its trammels had little power to restrain him, a young man in gorgeous vestments pauses at the brink of a precipice among the great heights of the world; he surveys the blue distance before him-its expanse of sky rather than the prospect below. His act of eager walking is still indicated, though he is stationary at the given moment; his dog is still bounding. The edge which opens on the depth has no terror; it is as if angels were waiting to uphold him, if it came about that he leaped from the height. His countenance is full of intelligence and expectant dream. He has a rose in one hand and in the other a costly wand, from which depends over his right shoulder a wallet curiously embroidered. He is a prince of the other world on his travels through this one-all amidst the morning glory, in the keen air. The sun, which shines behind him, knows whence he came, whither he is going, and how he will return by another path after many days. He is the spirit in search of experience. Many symbols of the Instituted Mysteries are summarized in this card, which reverses, under high warrants, all the confusions that have preceded it.\nIn his Manual of Cartomancy, Grand Orient has a curious suggestion of the office of Mystic Fool, as apart of his process in higher divination; but it might call for more than ordinary gifts to put it into operation. We shall see how the card fares according to the common arts of fortune-telling, and it will be an example, to those who can discern, of the fact, otherwise so evident, that the Trumps Major had no place originally in the arts of psychic gambling, when cards are used as the counters and pretexts. Of the circumstances under which this art arose we know, however, very little. The conventional explanations say that the Fool signifies the flesh, the sensitive life, and by a peculiar satire its subsidiary name was at one time the alchemist, as depicting folly at the most insensate stage.",
+    "tk_en": "A traveler walks leisurely with only the clothes on his back and a light bundle. He holds a white rose, celebrating freedom, yet does not notice that there is no road ahead. This card represents freedom and the unknown state of not knowing what comes next.",
+    "tk_zh": "只有身上這套裝束，捎著輕鬆的行囊悠閒漫步的旅行者。他一手拿著白玫瑰，盡情謳歌著自由。不過在他腳邊，前方並沒有道路可走。〈愚者〉的牌呈現的是自由，以及不知道下一步會怎麼樣的未知狀態。"
+  },
+  "reading_aspects": {
+    "currentSituation": {
+      "upright": {
+        "en": "Something new begins / uncertain outcomes ahead / difficult to predict / the story starts / departure is near / shifting perspective",
+        "zh": "某種新事物展開/不知道會發生什麼事/難以預料/故事開始/啟程出發的時刻將近/想法轉變"
+      },
+      "reversed": {
+        "en": "No clear direction / drifting without purpose / unstable position / unclear responsibility / indecision / unaware of serious risks",
+        "zh": "沒有明確方針/隨波逐流/立場不穩定/責任歸屬不明確/無法決定/沒有察覺嚴重的風險"
+      }
+    },
+    "innerState": {
+      "upright": {
+        "en": "Fresh ideas forming / pure feelings without deception or schemes / interest in novel things / strong curiosity / indifference to trivial matters",
+        "zh": "產生新的想法/沒有謊言或詭計的純粹心情/對新穎的事物感興趣/好奇心旺盛/不在意瑣事"
+      },
+      "reversed": {
+        "en": "Reluctance to decide / stagnation / avoiding reality / inner confusion / tendency to ignore problems / hidden true feelings",
+        "zh": "還不想下決定/遲滯狀態/不想面對現實/連自己也不知道該怎麼做/想視而不見/隱藏內心真正的想法"
+      }
+    },
+    "rootCause": {
+      "upright": {
+        "en": "Scattered thoughts / acting independently and not fitting in with others / plans lack concrete form / unconventional ideas are misunderstood / lack of responsibility",
+        "zh": "想法並未統合/太常單獨行動而與周遭格格不入/計畫不夠具體/想法特立獨行而無法獲得理解/沒有責任感"
+      },
+      "reversed": {
+        "en": "Self-centered focus / only addressing what's immediately in front / inconsistent responses / indecision and lack of determination",
+        "zh": "只考慮到自己的自私態度/只想應付眼前的狀況/應對態度不一致/優柔寡斷而欠缺決斷力"
+      }
+    },
+    "development": {
+      "upright": {
+        "en": "New beginning / a small matter becomes a trigger that moves fate / an event that prompts departure from current circumstances / shedding burdens and breaking free",
+        "zh": "新的開始/微不足道的小事將成為契機，推動命運/令人從現在所處環境踏上旅途的事件/放下重擔/解脫拘束"
+      },
+      "reversed": {
+        "en": "An unclear future continues for a time / forced concealment of inner state / careless handling of everything / weak willpower and passive drift",
+        "zh": "看不見未來的情況會持續一陣子/不得不隱藏自己內心的狀況/一切敷衍了事的狀態/意志力薄弱而隨波逐流"
+      }
+    },
+    "advice": {
+      "upright": {
+        "en": "Notice unconventional possibilities / avoid forcing matters / relax a little more / disregard others' opinions / commit to leaving your current situation",
+        "zh": "留意不落俗套的想法/不用力過度/再放輕鬆一點/別在意周遭的目光/下定決心脫離現在的環境"
+      },
+      "reversed": {
+        "en": "Without genuine responsibility, trust will be lost / stop deceiving yourself / face reality directly / reduce acting alone",
+        "zh": "如果不確實抱持責任感，會成為失去信任的原因/別欺騙自己/別從現實上別開視線，好好面對/減少單獨行動"
+      }
+    }
+  },
+  "contextual_meanings": {
+    "love": {
+      "upright": {
+        "en": "A new encounter / romance may appear in unexpected places / easygoing mutual affection / unadorned charm",
+        "zh": "新的邂逅/在隨意外出的地點會遇上戀情/輕鬆的步調/兩情相悅/不加矯飾的魅力"
+      },
+      "reversed": {
+        "en": "Indecisive attitude / casual romance / attraction to someone without life direction / multiple relationships / flirtation",
+        "zh": "猶豫不決的態度/只是玩玩的戀情/迷上沒有生活能力的異性/腳踏兩條船以上的關係/搭訕"
+      }
+    },
+    "work": {
+      "upright": {
+        "en": "New ideas emerge / freelance work / no fixed employment / career change to another field",
+        "zh": "閃現新的點子/以自由業身分工作/沒有固定工作/轉行到其他領域"
+      },
+      "reversed": {
+        "en": "Trouble from lack of competence or irresponsibility / procrastination and overtime / pretending to work / lack of enthusiasm / laziness",
+        "zh": "能力不足、不負責任招致的麻煩/拖拖拉拉而加班/裝出在工作的模樣/沒有精神/懶惰"
+      }
+    },
+    "interpersonal": {
+      "upright": {
+        "en": "Staying true to your path without following others / fortunate coincidences / receiving timely hints",
+        "zh": "不隨人起舞/貫徹自己的道路/樂觀的偶然/聽見有提示作用的話語"
+      },
+      "reversed": {
+        "en": "Acting alone and lacking cooperation / changing with the wind / careless social behavior / taking the easy way",
+        "zh": "單獨行動而欠缺協調性/見風轉舵/社交態度隨便/選擇輕鬆的方式"
+      }
+    },
+    "others": {
+      "upright": {
+        "en": "Winning without effort / purity / departure / dreamer / easy come, easy go / emptiness / freedom and spontaneity",
+        "zh": "不戰而勝/潔淨無瑕/啟程/追夢人/左手賺錢右手花錢/空白/自由而隨心所欲"
+      },
+      "reversed": {
+        "en": "Desire to escape / travel mishaps / careless decisions / selfish attitude / unfulfilled expectations",
+        "zh": "想要逃避/在旅行地點發生麻煩/隨便的主意/態度自私自利/期待落空"
+      }
+    }
+  }
+}

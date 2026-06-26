@@ -1,0 +1,789 @@
+{
+  "card_id": "king_of_pentacles",
+  "card_name": "King of Pentacles",
+  "card_number": 14,
+  "suit": "pentacles",
+  "archetype": "the_manifestor",
+  "core_meanings": {
+    "upright": {
+      "essence": "Mastery of material abundance, stability, and prosperity. A grounded leader who provides for themselves and others through wisdom and diligence.",
+      "keywords": [
+        "abundance",
+        "stability",
+        "leadership",
+        "prosperity",
+        "security",
+        "wisdom",
+        "success"
+      ],
+      "psychological": "Represents the inner mature self that values hard work, responsibility, and the reward that comes from persistent effort.",
+      "spiritual": "Connection to the earth's energies, embodying the spirit of stewardship and the wisdom of enduring prosperity.",
+      "practical": "A time to focus on financial security, investments, and practical matters. Trust your ability to manage resources wisely.",
+      "shadow": "Potential for greed, stubbornness, or focusing solely on material wealth at the expense of relationships and well-being.",
+      "waite_meaning": "Valour, realizing intelligence, business and normal intellectual aptitude, sometimes mathematical gifts and attainments of this kind; success in these paths.",
+      "tk_meaning_en": "Putting your strengths to work: Successfully utilizing your own capabilities. Wanting to help others through what you can do, or being in a position to do so.",
+      "tk_meaning_zh": "試圖讓自己的力量派上用場：順利地運用著自身的力量。希望以自己辦得到的事幫上他人的忙，或是置身於這樣的立場上。",
+      "tk_coreKeyword_en": "Contribution",
+      "tk_coreKeyword_zh": "貢獻"
+    },
+    "reversed": {
+      "essence": "Instability in finances or misuse of resources. Either clinging to materialism or failing to manage responsibilities.",
+      "keywords": [
+        "financial insecurity",
+        "materialism",
+        "neglect",
+        "greed",
+        "mismanagement",
+        "stubbornness"
+      ],
+      "psychological": "Represents the part of the psyche that fears failure or clings to control, missing the broader view of abundance.",
+      "spiritual": "Disconnect from inner abundance, feeling lack or over-identifying with material success as self-worth.",
+      "practical": "Need to reassess financial goals and strategies. Avoid becoming overly attached to material gains or status.",
+      "shadow": "Greed, authoritarianism, or resistance to change can all hinder true fulfillment and connection with others.",
+      "waite_meaning": "Vice, weakness, ugliness, perversity, corruption, peril.",
+      "tk_meaning_en": "Not utilizing your strengths well: Not fully leveraging your capabilities. Failing to flexibly use wealth or ability, unable to meet the expectations of those around you.",
+      "tk_meaning_zh": "沒有善加活用自己的力量：沒有將自身力量發揮到百分之百的狀態。沒有靈活運用財富或能力，並未達成受周遭期待的職責。"
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Previous efforts and wise decisions created the foundation for current material stability. Past leadership has established your present security.",
+        "reversed": "Past mismanagement or excessive focus on material gain has led to current instability. Decisions then are impacting your now.",
+        "keywords": [
+          "foundation of stability",
+          "past leadership",
+          "historical mismanagement",
+          "early gains"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-standing traditions or family values about work and prosperity continue to influence your current approach to wealth.",
+        "reversed": "Historical patterns of greed, conflict over resources, or familial materialism are still affecting your financial mindset.",
+        "keywords": [
+          "tradition",
+          "family values",
+          "historical wealth",
+          "ancestral burdens"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent achievements or wise investments bolster current financial stability. Consistent actions have brought rewards.",
+        "reversed": "Recent financial missteps or neglected responsibilities are causing stress. Reflect on recent choices for correction.",
+        "keywords": [
+          "recent success",
+          "current foundation",
+          "financial missteps",
+          "neglected duties"
+        ]
+      },
+      "present": {
+        "upright": "Mastery of your resources allows for generosity and sharing your success. Embrace the role of a wise provider and leader.",
+        "reversed": "Current financial insecurity or stubbornness is troubling. Time to adjust your approach to material matters.",
+        "keywords": [
+          "current mastery",
+          "wise provider",
+          "financial worry",
+          "material adjustment"
+        ]
+      },
+      "present_situation": {
+        "upright": "Your current experience is deeply rooted in stability and the ability to influence others positively with your resources.",
+        "reversed": "Feeling either overwhelmed by financial burdens or unable to relinquish tight control over resources.",
+        "keywords": [
+          "stability",
+          "financial control",
+          "influence",
+          "burden"
+        ]
+      },
+      "future": {
+        "upright": "A prosperous future built on current wise decisions and hard work. Longevity of success through careful stewardship.",
+        "reversed": "Future insecurities may arise from ignoring sound advice or mismanaging resources. Future requires vigilance.",
+        "keywords": [
+          "prosperous future",
+          "stewardship",
+          "future insecurity",
+          "resource vigilance"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, you'll be recognized for your stability, attracting opportunities for growth and further prosperity.",
+        "reversed": "Upcoming challenges in financial or resource management. Urges meticulous planning and reassessment.",
+        "keywords": [
+          "recognition",
+          "growing opportunities",
+          "financial challenge",
+          "planning"
+        ]
+      },
+      "distant_future": {
+        "upright": "Long-term security and abundance achieved through sustained efforts and a wise approach to work and wealth.",
+        "reversed": "Potential long-term material struggles if current habits persist. Encourages building a balanced relationship with money.",
+        "keywords": [
+          "long-term security",
+          "sustained effort",
+          "material struggle",
+          "relationship with money"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Balancing material success with personal fulfillment and relationships. Avoid becoming solely defined by status or wealth.",
+        "reversed": "Challenge lies in redefining success beyond material gains or overcoming fear to take necessary financial risks.",
+        "keywords": [
+          "balance",
+          "status identity",
+          "redefining success",
+          "financial fear"
+        ]
+      },
+      "cross": {
+        "upright": "Obligations and expectations of maintaining security may cross your natural desires for exploration or change.",
+        "reversed": "Financial instability or refusal to delegate might lead to hurdles that impede progress and growth.",
+        "keywords": [
+          "expectation",
+          "security obligations",
+          "instability",
+          "delegation"
+        ]
+      },
+      "obstacle": {
+        "upright": "Cultural or familial norms about money may hinder innovation or generosity, creating a fear of stepping outside comfort zones.",
+        "reversed": "Obstacles include rigidity in thought or approach, leading to potential missed opportunities or stagnation.",
+        "keywords": [
+          "norms",
+          "fear of change",
+          "rigidity",
+          "missed opportunities"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to be a steward, not just a possessor, of wealth. True abundance lies in sharing and ethical stewardship.",
+        "reversed": "The lesson is to understand that real security comes from adaptability, not control, and success is continually redefined.",
+        "keywords": [
+          "stewardship",
+          "ethical wealth",
+          "adaptability",
+          "redefinition"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow may reveal an underlying fear of insecurity or scarcity, masked by outward displays of wealth.",
+        "reversed": "To deny the shadow leads to potential greed or stubbornness. Recognize and integrate these aspects honestly.",
+        "keywords": [
+          "fear of scarcity",
+          "displays of wealth",
+          "greed",
+          "integration"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Overemphasis on material success or societal validation may limit personal growth and emotional satisfaction.",
+        "reversed": "Fear of failure or clinging to the old limits innovative ideas and necessary transformations.",
+        "keywords": [
+          "material overemphasis",
+          "societal validation",
+          "fear of failure",
+          "innovation"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace your role as a provider with integrity. Share your abundance wisely and lead by example.",
+        "reversed": "Reassess priorities and let go of perfectionism. Ground yourself in practical wisdom to correct course.",
+        "keywords": [
+          "integrity",
+          "leadership",
+          "priority reassessment",
+          "practical wisdom"
+        ]
+      },
+      "action": {
+        "upright": "Act decisively in matters of finance and career. Your influence can uplift and inspire those around you.",
+        "reversed": "Time to reconsider current directions and be willing to delegate responsibilities for greater success.",
+        "keywords": [
+          "decisive action",
+          "influence",
+          "reconsideration",
+          "delegation"
+        ]
+      },
+      "your_approach": {
+        "upright": "You view yourself as stable and accomplished, someone others can rely upon for guidance and support.",
+        "reversed": "Self-perception may fluctuate between overconfidence in material prowess and insecurity about true leadership ability.",
+        "keywords": [
+          "stability",
+          "guidance",
+          "self-perception",
+          "leadership ability"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your practical wisdom and experience help you maintain a steady course and buffer against challenges.",
+        "reversed": "Seeking guidance from wiser mentors or placing trust in collaborative efforts can help resolve issues.",
+        "keywords": [
+          "practical wisdom",
+          "experience",
+          "mentor guidance",
+          "collaboration"
+        ]
+      },
+      "guidance": {
+        "upright": "Spirit encourages you to ground your actions in ethics and share your success with humility.",
+        "reversed": "Guidance suggests releasing tight control and opening to new ways of thinking about success and wellbeing.",
+        "keywords": [
+          "ethics",
+          "humility",
+          "release control",
+          "new thinking"
+        ]
+      },
+      "best_course": {
+        "upright": "Proceed with strategic planning and measured risks. Let your success be rooted in integrity and vision.",
+        "reversed": "Consider alternate approaches and be open to redefining goals. Flexibility becomes your great ally.",
+        "keywords": [
+          "strategic planning",
+          "measured risks",
+          "alternate approaches",
+          "flexibility"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for enduring success and influence that benefits all. Fear failing to secure lasting prosperity.",
+        "reversed": "Fear of financial ruin or letting go of control. Hope that releasing old patterns will bring new opportunities.",
+        "keywords": [
+          "enduring success",
+          "lasting prosperity",
+          "financial ruin",
+          "new opportunities"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope to build a legacy of wealth and stability that empowers others and provides future security.",
+        "reversed": "Hope that innovative transformations will break stagnant cycles, bringing fresh vitality.",
+        "keywords": [
+          "legacy",
+          "empowerment",
+          "security",
+          "innovation"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing status or encountering unforeseen material challenges. Worry about inadequacy as a provider.",
+        "reversed": "Fear of losing grip on material control or becoming obsolete in rapidly changing environments.",
+        "keywords": [
+          "status loss",
+          "provider inadequacy",
+          "control loss",
+          "obsolescence"
+        ]
+      },
+      "subconscious": {
+        "upright": "Unconsciously driven by core beliefs in stability and prosperity, manifesting abundance through conviction.",
+        "reversed": "Underlying patterns may reflect scarcity mindset or unconscious fears about sufficiency and abundance.",
+        "keywords": [
+          "core beliefs",
+          "prosperity",
+          "scarcity mindset",
+          "unconscious fears"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of goals around success and influence, with a clear vision for future achievements.",
+        "reversed": "Mind may be focused on immediate gains rather than long-term sustainability or relational harmony.",
+        "keywords": [
+          "success goals",
+          "future vision",
+          "immediate gains",
+          "sustainability"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally secure, confident, and seeing the fruit of your labors with gratitude and satisfaction.",
+        "reversed": "Emotionally challenged by instability, feeling pulled by the weight of responsibilities and expectations.",
+        "keywords": [
+          "security",
+          "confidence",
+          "instability",
+          "responsibility weight"
+        ]
+      },
+      "heart": {
+        "upright": "Heart desires a harmonious balance between material success and meaningful relationships. Fulfillment through giving.",
+        "reversed": "Ignoring heart's need for connection can lead to isolation, despite external appearances of success.",
+        "keywords": [
+          "balance",
+          "relationship",
+          "fulfillment",
+          "connection"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally sharp with strategic acumen, focusing on creating tangible outcomes and measurable success.",
+        "reversed": "Mind may be cluttered with worries about financial stability or clinging to outdated notions of success.",
+        "keywords": [
+          "strategic acumen",
+          "tangible outcomes",
+          "financial worries",
+          "outdated notions"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Seen by others as a source of wisdom and reliability in matters of finance and leadership.",
+        "reversed": "Others may perceive rigidity or unnecessary control, limiting your potential influence or respect.",
+        "keywords": [
+          "wisdom",
+          "reliability",
+          "perceived rigidity",
+          "control issues"
+        ]
+      },
+      "others": {
+        "upright": "Support from colleagues or authority figures reinforces your standing and amplifies your impact.",
+        "reversed": "Others may question your financial decisions or see lack of flexibility as a barrier to collaboration.",
+        "keywords": [
+          "support",
+          "reinforcement",
+          "questioning",
+          "barrier"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment supports stability and growth, with opportunities for advancement and secure grounding.",
+        "reversed": "Environmental factors may contribute to perceived instability or exert pressure to conform to outdated models.",
+        "keywords": [
+          "supportive",
+          "advancement",
+          "instability",
+          "pressure"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Viewed as a pillar of strength and stability, influential and wise in both personal and professional circles.",
+        "reversed": "Perceptions may involve seeing you as overly cautious or set in ways, potentially missing adaptability.",
+        "keywords": [
+          "pillar of strength",
+          "influence",
+          "overly cautious",
+          "adaptability"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen factors such as ancestral wisdom or deep values enhance your financial and personal endeavors.",
+        "reversed": "Subtle fears or unsurfaced insecurities might interfere with realizing your full potential.",
+        "keywords": [
+          "ancestral wisdom",
+          "deep values",
+          "subtle fears",
+          "insecurity"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success and abundance achieved through balanced leadership, resulting in a stable and prosperous life.",
+        "reversed": "Potential setbacks if financial or personal management isn’t addressed. Learning to adapt ensures continued growth.",
+        "keywords": [
+          "balanced leadership",
+          "stable life",
+          "setbacks",
+          "adaptation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "A legacy of prosperity and wisdom that benefits generations, rooted in integrity and strategic foresight.",
+        "reversed": "Final outcomes may involve learning resilience from challenges, refining what leadership truly means.",
+        "keywords": [
+          "legacy",
+          "integrity",
+          "resilience",
+          "leadership refinement"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Potential to cultivate an influential and abundant life, impacting both personal and communal spheres positively.",
+        "reversed": "A possible outcome involves learning from missteps, using setbacks as stepping stones to greater wisdom.",
+        "keywords": [
+          "influential life",
+          "communal impact",
+          "learning from missteps",
+          "stepping stones"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenario entails thriving through integrity, drawing in opportunities that align with true values.",
+        "reversed": "Best case involves releasing rigidity, embracing change, and finding new, rewarding paths.",
+        "keywords": [
+          "integrity",
+          "opportunity",
+          "releasing rigidity",
+          "rewarding paths"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves clinging to materialism, limiting broader fulfillment and relational depth.",
+        "reversed": "The worst outcome would be succumbing to fear-driven decisions, neglecting personal growth and potential.",
+        "keywords": [
+          "materialism",
+          "fulfillment limits",
+          "fear-driven",
+          "neglect"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship represents the highest expression of material wisdom and earthly stewardship. The dynamic between you serves the greater good through practical action, environmental consciousness, and the ability to manifest abundance that benefits all life.",
+        "reversed": "The material wisdom may be corrupted by greed or stewardship might be neglected. Environmental consciousness could be lacking or abundance might be used selfishly. The relationship may involve exploitation of resources or using practical power for harmful purposes.",
+        "keywords": [
+          "material wisdom",
+          "stewardship",
+          "environmental consciousness",
+          "abundant service"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A stable, nurturing relationship grounded in trust and shared values. Build a long-term commitment.",
+      "reversed": "Material concerns or stubbornness may strain relationships. Revisit mutual goals and communication.",
+      "keywords": [
+        "stable relationship",
+        "nurturing",
+        "commitment",
+        "material strain"
+      ]
+    },
+    "career": {
+      "upright": "Professional success and recognition through diligence and leadership. Opportunities for advancement are ripe.",
+      "reversed": "Potential career challenges from rigidity or financial mismanagement. Adaptability improves outcomes.",
+      "keywords": [
+        "professional success",
+        "recognition",
+        "career challenges",
+        "adaptability"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual growth through grounded practices and connection to the earth, embracing stewardship as a path.",
+      "reversed": "Material focus might hinder spiritual growth. Balance earthly pursuits with inner development.",
+      "keywords": [
+        "grounded practices",
+        "stewardship",
+        "material focus",
+        "inner balance"
+      ]
+    },
+    "financial": {
+      "upright": "Financial stability and wise management creating prosperity. Investments and savings hold promise.",
+      "reversed": "Financial insecurity from unwise decisions. Time to reassess holdings and financial strategy.",
+      "keywords": [
+        "financial stability",
+        "wise management",
+        "insecurity",
+        "reassessment"
+      ]
+    },
+    "health": {
+      "upright": "Good health through sensible practices and a balanced lifestyle. Continued focus on well-being.",
+      "reversed": "Neglect or excessive focus on material wealth might impact health. Balance wellbeing priorities.",
+      "keywords": [
+        "good health",
+        "balanced lifestyle",
+        "neglect",
+        "wellbeing balance"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "taurus",
+    "hebrew_letter": "",
+    "numerology": 5,
+    "planet": "venus",
+    "season": "autumn",
+    "time_of_day": "dusk",
+    "colors": [
+      "green",
+      "gold",
+      "brown"
+    ],
+    "crystals": [
+      "emerald",
+      "malachite",
+      "pyrite"
+    ],
+    "herbs": [
+      "mint",
+      "sage",
+      "patchouli"
+    ]
+  },
+  "symbols": {
+    "throne": "authority and control",
+    "golden_crown": "mastery and success",
+    "castle": "security and stability",
+    "bull": "strength and perseverance",
+    "ripe_grapes": "harvest and abundance"
+  },
+  "affirmations": [
+    "I am a wise steward of my resources, creating stability and abundance.",
+    "I balance material and spiritual wealth, nurturing all aspects of my being.",
+    "I lead with integrity and inspire prosperity in myself and others.",
+    "I welcome change as a path to growth and continued success."
+  ],
+  "journaling_prompts": [
+    "How am I utilizing my resources to create lasting stability?",
+    "In what areas can I balance material success with personal fulfillment?",
+    "What legacy do I wish to leave behind for others?",
+    "How can I adapt my approach to embrace change and opportunity?"
+  ],
+  "meditation_focus": "Grounding into the earth's energy, drawing from deep roots of stability and abundance. Visualize the sharing of your prosperity with humility and grace.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:52:43.056347",
+    "card_info": {
+      "name": "King of Pentacles",
+      "number": 14,
+      "suit": "pentacles"
+    },
+    "filename": "p14.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Abundance and nurturing energy magnified. Harmonious growth through creativity and prosperity.",
+        "keywords": [
+          "abundance",
+          "nurturing",
+          "energy",
+          "magnified"
+        ]
+      },
+      "ten_of_pentacles": {
+        "interpretation": "Generational wealth and stability. Strong foundations and legacies fortified.",
+        "keywords": [
+          "generational",
+          "wealth",
+          "stability",
+          "strong"
+        ]
+      },
+      "three_of_pentacles": {
+        "interpretation": "Collaboration leading to mastery. Collective efforts result in tangible achievements.",
+        "keywords": [
+          "collaboration",
+          "leading",
+          "mastery",
+          "collective"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Sudden changes disrupting stability. Need to rebuild from the ground up.",
+        "keywords": [
+          "sudden",
+          "changes",
+          "disrupting",
+          "stability"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Conflicts over resources or control. Pursuit of power may lead to discord.",
+        "keywords": [
+          "conflicts",
+          "resources",
+          "control",
+          "pursuit"
+        ]
+      },
+      "four_of_cups": {
+        "interpretation": "Discontent despite abundance. Need to appreciate current blessings.",
+        "keywords": [
+          "discontent",
+          "despite",
+          "abundance",
+          "need"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_world": {
+        "interpretation": "Completion of a cycle with a focus on worldly success and recognition. Abundance closes the loop.",
+        "keywords": [
+          "completion",
+          "cycle",
+          "focus",
+          "worldly"
+        ]
+      },
+      "seven_of_pentacles": {
+        "interpretation": "Efforts and patience bear fruit. Assessing long-term strategies leads to prosperity.",
+        "keywords": [
+          "efforts",
+          "patience",
+          "bear",
+          "fruit"
+        ]
+      },
+      "queen_of_pentacles": {
+        "interpretation": "Balance between nurturing and practicality. Successful management of home and career.",
+        "keywords": [
+          "balance",
+          "nurturing",
+          "practicality",
+          "successful"
+        ]
+      }
+    },
+    "similar_energy": {
+      "queen_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_fool": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "page_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  },
+  "description": {
+    "waite": "The figure calls for no special description the face is rather dark, suggesting also courage, but somewhat lethargic in tendency. The bull's head should be noted as a recurrent symbol on the throne. The sign of this suit is represented throughout as engraved or blazoned with the pentagram, typifying the correspondence of the four elements in human nature and that by which they may be governed. In many old Tarot packs this suit stood for current coin, money, deniers. I have not invented the substitution of pentacles and I have no special cause to sustain in respect of the alternative. But the consensus of divinatory meanings is on the side of some change, because the cards do not happen to deal especially with questions of money.",
+    "tk_en": "The king sits serenely on his throne, pentacle in hand. The plants surrounding him symbolize the wealth in his possession. As a king, how to use his resources for the benefit of others is the essential question.",
+    "tk_zh": "神情沉穩地手握錢幣，端坐在王座上的國王。周遭的植物是手中財富的象徵。身為國王，如何為了眾人運用手中的事物是一道課題。"
+  },
+  "reading_aspects": {
+    "currentSituation": {
+      "upright": {
+        "en": "Situation appearing capable of producing results / be patient and attend to details / improving financial luck",
+        "zh": "似乎能交出成績單的狀況/應該別著急，注意細節的運氣/財運提升"
+      },
+      "reversed": {
+        "en": "Unsatisfactory situation / inexperience / tendency toward extravagance or procrastination",
+        "zh": "不滿足的狀況/不諳世事/有揮霍或拖延的傾向"
+      }
+    },
+    "innerState": {
+      "upright": {
+        "en": "Wanting to help others / wanting to share / wanting to learn / wanting to think carefully",
+        "zh": "想幫上他人的忙/想要分享/想學習/想仔細思考"
+      },
+      "reversed": {
+        "en": "Uncertain what to do / anxious about being useless / dissatisfied",
+        "zh": "不知道怎麼做才好/為自己派不上用場而著急/不滿足"
+      }
+    },
+    "rootCause": {
+      "upright": {
+        "en": "Pressure from direct authority / overemphasis on results / attempting to manage others",
+        "zh": "直行的壓迫感/過於偏重結果/試圖管理他人"
+      },
+      "reversed": {
+        "en": "Lacking confidence in everything / timid about serious matters / unable to voice opinions",
+        "zh": "對一切都沒有自信/事關重大而膽怯/說不出意見"
+      }
+    },
+    "development": {
+      "upright": {
+        "en": "Delivering solid results / gaining appropriate rewards and position / making meaningful contributions",
+        "zh": "確實做出成績/獲得相應的報酬與地位/有所貢獻"
+      },
+      "reversed": {
+        "en": "Naive thinking losing what you had / losing touch with reality / failing to use your abilities",
+        "zh": "想法天真而失去原本擁有的事物/迷失現實/沒有活用技能"
+      }
+    },
+    "advice": {
+      "upright": {
+        "en": "Act according to your own judgment / since you're committed, aim for success / be financially conscious",
+        "zh": "憑己力斟酌採取行動/既然要做就要以成功為目標/意識到錢財"
+      },
+      "reversed": {
+        "en": "Understand social movements / pay attention to popular opinion / utilize your passion",
+        "zh": "掌握社會潮流/關注多數派/活用狂熱的性格"
+      }
+    }
+  },
+  "contextual_meanings": {
+    "love": {
+      "upright": {
+        "en": "Accommodating person / becoming a source of strength for your partner / favorable circumstances / man with substance / lasting into the future / enduring",
+        "zh": "包容的人/成為對方的力量/條件良好/有包容力的男性/延續到未來/長久持續"
+      },
+      "reversed": {
+        "en": "Taciturn person / boring person / inner fulfillment not achieved / wanting more dependence / dragging things on",
+        "zh": "寡言的人/不有趣的人/內心沒有獲得滿足/想更加受到依賴/拖泥帶水地持續著"
+      }
+    },
+    "work": {
+      "upright": {
+        "en": "Having business acumen / making profit / business owner / utilizing assets / mutual benefits / valuable insights",
+        "zh": "具商業敏銳度/獲得利益/經營者/資產運用/雙方的好處/有益的智慧"
+      },
+      "reversed": {
+        "en": "Lacking confidence / not leveraging professional knowledge / limited by immediate concerns / using high-pressure sales",
+        "zh": "沒有自信/未活用專業知識/被眼前的事物侷限住/強迫推銷"
+      }
+    },
+    "interpersonal": {
+      "upright": {
+        "en": "Mutually beneficial relationship / person able to provide financial support / trustworthy person",
+        "zh": "對彼此都有利的關係/在財務面上能給予贊助的人/能信任的人"
+      },
+      "reversed": {
+        "en": "Conversation not connecting / boring even when together / old-fashioned and dull person / difficult to trust / insufficient substance",
+        "zh": "話不投機/見了面也覺得無聊的關係/古板而遲鈍的人/難以信任的人/力量不足"
+      }
+    },
+    "others": {
+      "upright": {
+        "en": "Self-owned property / scholar / wealthy person / expert / hardworking / being needed",
+        "zh": "自有房產/學者/財主/專家/苦幹實幹/被人需要"
+      },
+      "reversed": {
+        "en": "Rental property / enthusiast / meaningless things / unable to utilize and unhelpful / sometimes letting go is important",
+        "zh": "租賃物件/御宅族/沒有意義的事物/無法活用而派不上用場/放棄也是很重要的時候"
+      }
+    }
+  }
+}
